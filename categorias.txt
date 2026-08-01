@@ -1,0 +1,27 @@
+# CATEGORÍAS DE LOS ANILLOS DE CHILE
+# ------------------------------------------------------------------
+# Una línea por categoría. Formato:
+#   identificador | Nombre visible | color | archivo.html | imagen
+#
+# - identificador: sin espacios ni tildes (se usa internamente)
+# - Nombre visible: como se muestra en el menú y los títulos
+# - color: el color del "lomo" de esa sección, en hexadecimal
+# - archivo.html: el nombre del archivo de esa categoría
+# - imagen: la foto FIJA de esa categoría (ruta dentro de img/).
+#   Se usa como cabecera de esa página, como miniatura en la
+#   portada, y como imagen principal de la portada cuando una nota
+#   de esa categoría es la destacada. Es una sola imagen estándar
+#   por categoría — las notas ya no llevan foto propia, así evitamos
+#   tener que subir/gestionar una foto distinta por cada nota.
+#
+# Para agregar una categoría nueva, agrega una línea nueva acá abajo,
+# y crea ese archivo .html duplicando uno existente (ver COMO-ACTUALIZAR.md).
+# Las líneas que empiezan con # son solo comentarios y se ignoran.
+# ------------------------------------------------------------------
+
+editorial   | Editorial   | #63472F | editorial.html   | img/atletismo.jpg?v=1
+voleibol    | Vóleibol    | #7C2331 | voleibol.html    | img/voleibol.jpg?v=1
+basquetbol  | Básquetbol  | #B5622C | basquetbol.html  | img/basquetbol.jpg?v=1
+triatlon    | Triatlón    | #1F6F73 | triatlon.html    | img/triatlon.jpg?v=1
+atletismo   | Atletismo   | #9C7A1E | atletismo.html   | img/atletismo.jpg?v=1
+breves      | Breves      | #3B4A63 | breves.html      | img/breves.jpg?v=1
