@@ -54,6 +54,42 @@
 #
 # ======================================================================
 
+categoria: editorial
+fecha: 2026-08-04
+etiqueta: Editorial
+titulo: SE NOS VIENE UN MUNDIAL
+bajada: Las chilenas necesitan que las  reconozcan, y apoyen, para avanzar a un gran nivel.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+> Chile albergará en estos próximos días el Mundial Femenino Sub17 de Voleibol. Sin duda un evento que debiera incentivar a que muchas personas acudan a los recintos que serán sede de esta justa.
+
+El “ceacheí” es importante que sea escuchado en los recintos de Santiago, San Felipe y Los Andes, que tendrán la visita de 24 delegaciones de todo el planeta.
+
+Si bien es cierto, las posibilidades nacionales distan mucho de lo que pueden ofrecer las grandes potencias, como Italia, Japón o China, más que el sólo hecho de participar el objetivo es dejar una grata impresión.
+
+Esto lleva a que el equipo deba disputar cada compromiso con un nivel altísimo, ya que las circunstancia lo demandan. Eso sí, como son menores de 17 años,. tampoco es lo ideal cargarle una presión innecesaria.
+
+Esto es importante que la gente deba tenerlo claro. Las chicas harán un gran papelñ dentro de sus posibilidades, y si dan un paso más, es un logro que hay que agradecer.
+
+Chile no es un país asiduo a este tipo de competencias y por ello hay que apoyar al equipo en base a su realidad. 
+
+Tampoco implica dejarlas de lado, “total, no va a ganar el torneo”. Esa mentalidad hay que sacarla del ideario chileno. No somos Europa, no somos Asia, somos parte de un continente que en este tipo de disciplinas ha mostrado crecimientos importantes.
+
+Ahora, en materoa de torneos juveniles, la edición de este años es la segunda, ya que la edición anterior, desarrollada en Perú en 2024, fue la pionera, la que abrió este camino de desarrollo.
+
+Por cierto, ya ha tenido eventos preparatorios en Copiapó y Temuco, donde la afición ha respondido de buena manera, con un público entusiasta y que ha sabido reconocer el trabajo de las chilenas.
+
+Esto es lo que necesitan las chilenas: que las reconozcan, que las apoyen y por supuesto, que a futuro puedan avanzar a un gran nivel.
+
+Tiempo atrás, Perú hizo el trabajo fuerte, de reconocer talentos, formar y hacer equipos competitivos, que en su “prime” destacaron en Mundiales y Juegos Olímpicos -como la medalla de plata en Seul 1988 tras perder ante la extinta Unión Soviética-.
+
+Figuras como Cecilia Tait, Rosa García y Natalia Málaga fueron claves en la consecución de este tipo de hazañas.
+
+Si Perú lo hizo, ¿porqué no podemos hacerlo en Chile?. Quizás este equipo Sub17 sea el punto de partida.
+
+
+====
 
 categoria: editorial
 fecha: 2026-07-28
@@ -97,13 +133,54 @@ Bienvenidos, nuevamente, a Los Anillos de Chile.
 
 ====
 
+categoria: running
+fecha: 2026-08-04
+etiqueta: Nota principal · Running
+titulo: FIESTA DE KILÓMETROS BAJO LA LLUVIA
+bajada: Miles de corredores se dieron cita este domingo en la Asics Golden Run, que se desarrolló en las calles de Ñuñoa y Macul, donde además de desafiar las distancias de 10k y 21k, hicieron frente a los chubascos que cayeron en la jornada.
+firma: Redacción Los Anillos de Chile
+portada: si
+dato1: 15 | Edición
+dato2: 2 | Categorías (10 y 21K)
+dato3: 4.000 | Corredores
+texto:
+### Asics Golden Run
+
+Sebastián Traslaviña y Margarita Masías fueron los principales triunfadores de la edición 2026 de la Asics Golden Run, que se llevó a cabo este domingo en las calles de Ñuñoa y Macul y que contó con la presencia de alrededor de 4 mil corredores que se dieron cita en las distancias de 10k y 21k.
+
+En la distancia de Media Maratón, Traslaviña se quedó con el primer lugar de la prueba masculina, luego de completarla con un tiempo de 1 hora 09 minutos 49 segundos, luego de sortear un trayecto con una lluvia que a ratos se dejaba a aparecer.
+
+En segundo lugar quedó Luis Marchant, con un tiempo de 1:12:52 y tercero fue Fracisco Duarte, con 1:13:07.
+
+Por su parte, Margarita Masías se subió al podio en el primer lugar de la prueba en damas, tras  terminar la carrera con un tiempo de 1:17:12, manteniendo un gran ritmo a lo largo de todo el circuito, que comprendió partida y llegada en el frontis del Estadio Nacional.
+
+El podio femenino fue completado por Magdalena Chamorro, con un tiempo de 1:19:58, en el segundo lugar, y Paula Langlois , quien se quedó con el bronce con 1:21:50.
+
+En la prueba, además de la entrega de medallas para todos los participantes, se hizo un reconocimiento especial para todos los que llegaron entre los 100 mejores de la clasificación general de los 21k, los que cruzaron la meta con un corte de tiempo de 1:25.30.
+
+También se llevó a cabo la carrera de 10 kilómetros, la que contó con varios exponentes, tanto en damas como en varones, que aprovecharon el circuito provisto de una importante subida en gran parte de la ruta y con retorno con una bajada hacia la meta.
+
+En varones, el primer lugar fue para Daniel Flandes, con un tiempo de 32 minutos 40 segundos, en tanto que el segundo puesto quedó para Sebastián Cordero, con 32:49, y tercero fue Francisco Ortiz, con 33:56.
+
+En damas, por su parte, la ganadora fue Pamela Padilla, con un tiempo de 36 minutos 49 segundos. por delante de Giselle Álvarez (36:54) e Ingrid Galloso (37:26), quienes se ubicaron en segundo y tercer lugar.
+
+### PRESENCIA IN SITU
+
+LOS ANILLOS DE CHILE no quiso quedar ausente de esta prueba y su director, Pedro Gutiérrez, tomó parte de la carrera de 21 kilómetros.
+
+Si bien el objetivo era completar la carrera con un buen tiempo, conforme el proceso que pudo sacar adelante, el resultado fue muy por sobre lo esperado.
+
+La distancia fue completada con un tiempo de 1.28:44, quedando en el puesto 161 de la clasificación general  La carrera la sostuvo con un buen ritmo, manteniéndolo durante gran parte del trayecto, y cerrando con un gran nivel en los metros finales.
+
+====
+
 categoria: voleibol
 fecha: 2026-07-28
 etiqueta: Nota principal · Vóleibol femenino
 titulo: Gran performance de las Guerreras en Lima
 bajada: El Team Chile de vóleibol femenino finalizó en el cuarto lugar de la Copa Sudamericana desarrollada en Lima, Perú, donde enfrentó a grandes exponentes como Brasil, Argentina y Colombia, entre otros.
 firma: Redacción Los Anillos de Chile
-portada: si
+portada: no
 dato1: 4° | Sudamericana
 dato2: 2 | Victorias (Bolivia y Perú)
 dato3: 3° | Sudamericano consecutivo clasificado
@@ -140,6 +217,36 @@ En el Mundial, las chilenas se medirán en el Grupo A, en la sede de Santiago, a
 ====
 
 categoria: basquetbol
+fecha: 2026-08-04
+etiqueta: Mundial · Básquetbol
+titulo: BAHAMAS, EL APRONTE DE LA ROJA ANTES DE EE.UU.
+bajada: El 22 de agosto, la Roja Cestera se medirá ante el conjunto caribeño como preparación para la serie eliminatoria..
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+El selecionado chileno de básquetbol se medirá el 22 de agosto ante su similar de Bahamas, en lo que será su prueba de fuego antes del duelo contra Estados Unidos, por el Grupo E de las Clasificatorias a la Copa del Mundo  de Catar 2027.
+
+Los dirigidos por Manuel Córdova afrontarán este compromiso ante el conjunto caribeño como una gran opción, que incluso les cae “de perilla” para lo que será la ventana eliminatoria., considerando que tras el duelo ante los estadounidenses, debeán jugar con República Dominicana.
+
+Bahamas, por su parte, aprovechará este duelo también como previo a su duelo clasificatorio, puesto que el 27 de agosto se medirá con Uruguay, en Montevideo, por el grupo F, serie que además incluye a Argentina, Canadá, Panamá  y Puerto Ricco.
+
+En sus filas destacan Deandre Ayrton, pivot de Washington Wizards; VJ Edgecombe, escolta de los Philadelphia 76ers; y Buddy Hield, escolta de los Atlanta Hawks, de la NBA. 
+
+«Estamos muy contentas como Federación por vivir esta semana de Básquetbol Internacional en Chile. Que Santiago sea sede de partidos ante Bahamas con jugadores NBA y contra el número 1 del mundo es un premio al trabajo de nuestros jugadores y una gran fiesta para el básquetbol nacional. Invitamos a toda la hinchada a copar el Estadio Nacional», expresó la Presidenta de la Federación de Básquetbol de Chile, Sra. Karin Heerwagen Bustos.
+
+El compromiso se llevará a cabo en el Centro de Deportes Colectivos del Estadio Nacional, mismo recinto donde el 27 del mismo mes se llevará a cabo el match entre Chile y Estados Unidos.
+
+### LA ROJA FEMENINA DISPUTARÁ EL SUDAMERICANO
+
+or su parte, la selección femenina de básquetbol ya se encuentra en Zárate (Buenos Aires), Argentina, donde participará en el Sudamericano de la especialidad entre el 3 al 9 de agosto.
+
+Las chilenas compartirán el Grupo B con Brasil y Venezuela. De ganar la serie, acceden a semifinales. De quedar segundas o terceras, se medirán con equipos del Grupo A, donde están Argentina, Colombia, Paraguay y Uruguay, para acceder a la ronda de las 4 mejores. 
+
+El torneo entrega 4 cupos para la FIBA AmeriCup del 2027 e El Salvador.
+
+====
+
+categoria: basquetbol
 fecha: 2026-07-28
 etiqueta: Mundial · Básquetbol
 titulo: Contra EE.UU., posiblemente en Santiago
@@ -168,6 +275,33 @@ En cuatro oportunidades se han medido los equipos de básquetbol masculinos de C
 ====
 
 categoria: triatlon
+fecha: 2026-08-04
+etiqueta: Internacional · Triatlón
+titulo: MOYA Y BUC, TOP 10 EN BRASIL
+bajada: Diego Moya y Andree Buc fueron los más destacados en la fecha brasileña de la Copa del Mudno de Triatlón.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+Chile tuvo una destacada participación en la fecha de la Copa del Mundo de Triatlón, desarrollada este domingo en la costa de Copacabana, Río de Janeiro (Brasil), especialmente con dos exponentes nacionales que se ubicaron dentro de los 10 mejores del torneo.
+
+Diego Moya, quien ya había tenido una gran actuación en Londres la semanpasada (entre los 30 mejores), finalizó en el  cuarto lugar, con un tiempo de 51 minutos y 21 segundos para  los 750 metros de nado, 20,8 kilómetros de ciclismo y 5 kilómetros de trote.
+
+El chileno se mantuvo siempre en los puestos de avanzada, principalmente en las pruebas de nado y ciclismo, aunque en el trote se mantuvo en el grupo de los 20 mejores, esto le sirvió para no perder posiciones importantes.
+
+Por su parte, Andree Buc quedó en el décimo lugar, con un tiempo de 51 minutos y 34 segundos.
+
+Los otros chilenos que participaron fueron Ignacio Flores, 18vo con 52 minutos 05 seguindos; Mateo Mendoza, 21ro. con 52:07; y Daniel Ubilla, 45to con 53:10. 
+
+El primer lugar de la prueba fue para el norteamericano Braxton Legg,  con un tiempo de 50:56, seguido por el neocelandés Dylan McCullough, con 50:57; y tercero, el neerlandés Mitch Kolkman, con 51:04.
+
+En la prueba femenina, Daniel Moya quedó en el puesto 29, con un tiempo de 1:00:19; Bárbara Riveros, se ubicó 38va, con 1:01:15; y Rafaela Capó, 39a con 1:01:41.
+
+La prueba fue ganada por la eslovaca Zuzana Michalickova, con un tiempo de 58 minutos 13 segundos. La medalla de plata fue para la norteamericana Kelly Wetteland, con 58:14; y el bronce fue para la italiana Beatrice Mallozzi, con 58:16.
+
+
+====
+
+categoria: triatlon
 fecha: 2026-07-28
 etiqueta: Internacional · Triatlón
 titulo: Diego Moya, entre los 30 mejores en Londres
@@ -192,6 +326,32 @@ El ganador de la carrera fue el australiano Matthew Hauser, con un tiempo de 50:
 ====
 
 categoria: atletismo
+fecha: 2026-08-04
+etiqueta: Panamericano · Atletismo
+titulo: ROMERO Y MANSILLA, GRANDES EN MEDELLÍN
+bajada: El discóbolo Claudio Romero y el lanzador de martillo Humberto Mansilla destacaron en el Panamericano de Atletismo de Medellín.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+Claudio Romero, en el disco,  y Humberto Mansilla, en el martillo,  fueron los más sobresalientes de la presentación chilena en el Campeonato Panamericano Adulto Medellín 2026.
+
+Romero se consagró campeón panamericano tras registrar 65.30 metros, asegurando la medalla de oro en el disco. En la misma prueba, Lucas Nervi finalizó en la sexta posición con un mejor lanzamiento de 60.34 metros.
+
+En el martillo masculino, Chile logró un doble podio gracias a Humberto Mansilla, quien obtuvo la medalla de oro con 75.38 metros, y Gabriel Kehr, que se quedó con el bronce tras alcanzar 74.28 metros.
+
+Otra medalla para la delegación nacional llegó de la mano de Ivana Gallardo en el lanzamiento de bala femenino, tras conseguir la medalla de plata.
+
+A su vez, el relevo femenino 4x100, integrado por Las Pumas, también dejó una actuación destacada al conquistar el bronce con un tiempo de 44.05 segundos.
+
+Otra presea de bronce llegó por parte de Guillermo Correa obtuvo la medalla de bronce en salto con garrocha, tras superar los 5.30 metros.
+
+Por su parte, Catalina Rozas fue finalista en los 100 metros vallas, registrando 13.27 segundos, y estableciendo un nuevo récord de Chile en la prueba, superando la marca de 13.30 que pertenecía a Francisca Guzmán desde 2003. 
+
+! Dato: Entre otros resultados, Mariana García Walker finalizó sexta en el martillo femenino con 62.72 metros, mientras que Klaus Scholz fue séptimo en los 1.500 metros con un registro de 3:54.07.
+
+====
+
+categoria: atletismo
 fecha: 2026-07-28
 etiqueta: Interescolar · Atletismo
 titulo: Iron Maiden cambió el Interescolar
@@ -212,6 +372,40 @@ Esto abre un nuevo flanco para la ministra del Deporte, Natalia Ducó, quien ya 
 Entre esos exponentes destaca la propia secretaria de Estado, además de la velocista y campeona panamericana Martina Weil, el campeón junior del lanzamiento del disco en 2017, Claudio Romero, y el excorredor Sebastián Keitel.
 
 ! Dato: El Interescolar de Atletismo reúne actualmente a más de 4.000 deportistas provenientes de todas las regiones del país.
+
+====
+
+categoria: breves
+fecha: 2026-08-04
+etiqueta: Actualidad · En breve
+titulo: Breves
+bajada: Una vuelta rápida por hockey césped, remo, running, esgrima, vela y deporte máster.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+### Voleibol
+
+La selección chilena femenina Sub 17 finalizó cuarta en los dos cuadrangulares preparatorios para el Mundial de la especialidad que se realizará en nuestros país. Muientras que en Copiapío cayo en manos de Argentina, en Temuco sufrió ante Brasil en la lucha por el bronce. En ambos tronos también participó el equipo de Japón.
+
+### Mounutain Bike
+
+El actual campeón nacional chileno de Cross Country Marathon (XCM), Sebastián Gesche, alcanzó un destacado tercer lugar en el Montafon Mountain Bike Marathon, disputado este fin de semana en la región de Vorarlberg, Austria.
+
+### Balonmano
+
+La selección masculina Sub14 de Balonmano quedó tercera en el Sudamericano de la especialidad que se desarrolló en Paraguay. El torneo fue ganado por Brasil, mientras que la plata se quedó en manos de Argentina. En tanto, el equipo femenino Sub13 finalizó sexta.
+
+### Tenis
+
+El tenista chileno Alejandro Tabilo se despidió del ATP 500 de Washington, luego de caer en las semifinales ante el español Rafael Jodar (24º) por 6-7 (6), 6-4 y 6-4. Con este resultado, el nacional ascendió al puesto 26 de la clasificación general.
+
+### Voley Playa
+
+La dupla de Marco y Esteban Grimalt finalizó quinta en el Beach Pro Tour Elite 16 que se llevó a cabo en Río de Janeiro (Brasil), luego de caer en cuartos de final ante el binomio francés de Rotar y Gauthier-Rat por 2 a 1 (19-21, 25-23 y 15-10).
+
+### Deporte Master
+
+Entre el 26 y el 29 de noviembre se llevará a cabo en el estadio Elías Figueroa Brander, de Valparaíso, el Campeonato Nacional de Atletismo Master, que será organizado por el Club Master Los Robles y que comprenderá con la presencia de cerca de 1.000 atletas de todo el país.
 
 ====
 
