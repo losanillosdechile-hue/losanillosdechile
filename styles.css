@@ -243,7 +243,7 @@ img{ max-width:100%; display:block; }
 
 /* ---------- HOME / PORTADA ---------- */
 .cover{
-  background:var(--navy) var(--cover-img) center 30%/cover no-repeat;
+  background:var(--navy) var(--cover-img, none) center 30%/cover no-repeat;
   color:var(--cream);
   padding:96px 0 64px;
   position:relative;
@@ -428,7 +428,7 @@ img{ max-width:100%; display:block; }
 .category-banner{
   position:relative;
   height:230px;
-  background:var(--navy) var(--banner-img) center 35%/cover no-repeat;
+  background:var(--spine, var(--navy)) var(--banner-img, none) center 35%/cover no-repeat;
 }
 .category-banner::before{
   content:"";

@@ -55,6 +55,13 @@ Si la marcas con `portada: si`, además pasa a ser la protagonista de
 la portada del sitio (deja solo una nota en `si` a la vez; la foto que
 se muestra ahí es la fija de esa categoría).
 
+## Cambiar el número de edición
+
+Abre `edicion.txt` y cambia el número. Es lo único manual — la fecha
+que aparece al lado ("Edición N.º 1 · 15 de agosto de 2026") se
+calcula sola, tomando la fecha de la nota más reciente que haya en
+`notas.txt`. No se edita en ningún otro lado.
+
 ## Agregar una categoría/disciplina nueva
 
 1. Abre `categorias.txt` y agrega una línea nueva:
@@ -93,6 +100,7 @@ atletismo.html       página de la categoría Atletismo
 breves.html          página de la categoría Breves
 notas.txt            ← EDITAS ESTO para publicar
 categorias.txt       ← fotos fijas y lista de disciplinas
+edicion.txt           ← número de edición (la fecha es automática)
 site.js              motor que arma las páginas (no tocar)
 styles.css           estilos visuales del sitio (no tocar)
 img/                 fotos fijas de cada categoría (5-6 fotos en total)

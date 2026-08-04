@@ -133,14 +133,22 @@
   }
 
   /* ---------- CARGA DE DATOS ---------- */
+  var EDICION_NUM = "1";
+  var EDICION_PDF = "descargas/los-anillos-de-chile-edicion-0.pdf";
+
   function loadData() {
     if (dataPromise) return dataPromise;
     dataPromise = Promise.all([
       fetch("categorias.txt").then(function (r) { return r.text(); }),
-      fetch("notas.txt").then(function (r) { return r.text(); })
+      fetch("notas.txt").then(function (r) { return r.text(); }),
+      fetch("edicion.txt").then(function (r) { return r.text(); }).catch(function () { return "numero: 1"; })
     ]).then(function (results) {
       CATEGORIES = parseCategorias(results[0]);
       ARTICLES = parseNotas(results[1]);
+      var m = results[2].match(/numero\s*:\s*(\S+)/i);
+      if (m) EDICION_NUM = m[1];
+      var mp = results[2].match(/pdf\s*:\s*(\S+)/i);
+      if (mp) EDICION_PDF = mp[1];
     }).catch(function (err) {
       console.error("No se pudo cargar categorias.txt / notas.txt:", err);
       showLoadError();
@@ -159,6 +167,34 @@
     main.prepend(div);
   }
 
+  /* ---------- EDICIÓN (número + fecha automática) ---------- */
+  function latestDateOverall() {
+    if (!ARTICLES.length) return null;
+    return ARTICLES.slice().sort(byDateDesc)[0].date;
+  }
+
+  function renderEditionMeta() {
+    var latest = latestDateOverall();
+    var dateText = latest ? formatDateEs(latest) : "";
+    var label = "Edición N.º " + EDICION_NUM;
+    var labelWithDate = dateText ? label + " · " + dateText : label;
+
+    var meta = document.getElementById("edition-meta");
+    if (meta) meta.textContent = labelWithDate;
+
+    var footer = document.getElementById("edition-footer");
+    if (footer) footer.textContent = label;
+
+    var banner = document.getElementById("edition-banner");
+    if (banner) banner.textContent = label;
+
+    var eyebrow = document.getElementById("edition-eyebrow");
+    if (eyebrow) eyebrow.textContent = label;
+
+    var pdfBtn = document.getElementById("mag-pdf-btn");
+    if (pdfBtn) pdfBtn.href = EDICION_PDF;
+  }
+
   /* ---------- NAV (header) ---------- */
   function renderNav(active) {
     var ul = document.getElementById("nav-list");
@@ -168,7 +204,7 @@
     CATEGORIES.forEach(function (cat) {
       html += '<li><a href="' + cat.page + '"' + (active === cat.slug ? ' class="active"' : '') + '>' + cat.label + "</a></li>";
     });
-    html += '<li><a href="descargas/los-anillos-de-chile-edicion-0.pdf" class="pdf-link" target="_blank" rel="noopener"><span>Revista PDF</span></a></li>';
+    html += '<li><a href="' + EDICION_PDF + '" class="pdf-link" target="_blank" rel="noopener"><span>Revista PDF</span></a></li>';
     ul.innerHTML = html;
   }
 
@@ -176,7 +212,7 @@
   function renderFooterSections() {
     var ul = document.getElementById("footer-sections");
     if (!ul) return;
-    var html = '<li><a href="descargas/los-anillos-de-chile-edicion-0.pdf" target="_blank" rel="noopener">Revista digital (PDF)</a></li>';
+    var html = '<li><a href="' + EDICION_PDF + '" target="_blank" rel="noopener">Revista digital (PDF)</a></li>';
     CATEGORIES.forEach(function (cat) {
       html += '<li><a href="' + cat.page + '">' + cat.label + "</a></li>";
     });
@@ -247,6 +283,7 @@
 
     renderNav(slug);
     renderFooterSections();
+    renderEditionMeta();
   }
 
   /* ---------- HOME PAGE ---------- */
@@ -289,6 +326,7 @@
 
     renderNav("index");
     renderFooterSections();
+    renderEditionMeta();
   }
 
   window.LosAnillos = {

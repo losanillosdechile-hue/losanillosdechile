@@ -1,0 +1,10 @@
+# EDICIÓN DE LOS ANILLOS DE CHILE
+# ------------------------------------------------------------------
+# El número de edición y el PDF se cambian acá, a mano, cuando saques
+# una edición nueva. La fecha que se muestra junto al número NO se
+# edita en ningún lado: el sitio la calcula solo, tomando la fecha
+# de la nota más reciente que haya en notas.txt.
+# ------------------------------------------------------------------
+
+numero: 1
+pdf: descargas/los-anillos-de-chile-edicion-1.pdf
