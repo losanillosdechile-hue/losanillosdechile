@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://staticfile-losanillosdechile.wasmer.app/sitemap.xml
