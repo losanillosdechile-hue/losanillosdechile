@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://staticfile-losanillosdechile.wasmer.app/sitemap.xml
+Sitemap: https://losanillosdechile-hue.github.io/losanillosdechile/sitemap.xml
