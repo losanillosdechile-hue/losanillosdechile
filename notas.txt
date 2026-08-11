@@ -54,6 +54,204 @@
 #
 # ======================================================================
 
+
+categoria: editorial
+fecha: 2026-08-11
+etiqueta: Editorial
+titulo: No sólo buenas intenciones
+bajada: La ministra del Deporte, Natalia Ducó, evalúa un proyecto de ley para profesionalizar la actividad deportiva, pero la tarea no puede depender solo del Estado.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+La ministra del Deporte, Natalia Ducó, se refirió en estos últimos días a la posibilidad de enviar un proyecto de ley que permita la profesionalización de la actividad deportiva en su conjunto.
+
+En resumidas cuentas, la idea es modificar el Código del Trabajo, donde se estipula la actividad remunerada de los futbolistas, a que se modifique ese concepto y que cambie a "deportistas".
+
+Es importante destacar este aspecto, ya que la actividad deportiva siempre ha tenido esa iniciativa dentro de los temas pendientes.
+
+Si bien hay una legislación de las actividades deportivas, la Ley 19.712, promulgada en 2001, hay disposiciones en la misma donde se alude el fomento a la actividad profesional y el rol que juegan los estamentos del Deporte en este sentido.
+
+No puede quedar sólo en el papel, ya debe pasar a una realidad clara.
+
+Estamos quedando muy lejos de lo que realizan países como Colombia, Argentina y Brasil, que actualmente conforman el ABC Sudamericano del Deporte. De hecho, anteriormente Chile era la C de ese grupo.
+
+Pero seamos honestos, esta política estatal no puede ser llevada sólo en la teoría ni por respaldo único del gobierno de turno. Son las propias federaciones deportivas las que también deben entender la importancia de que a los deportistas de alto rendimiento les entreguen un incentivo remunerado.
+
+> No sólo que se les pague a los deportistas, sino que permita mejorar la competitividad
+
+Las federaciones de Hockey, Rugby y de Vóleibol, por ejemplo, han optado por planes estratégicos con entrenadores de gran nivel, como los que llevaron adelante "Cachito" Vigil, Pablo Lemoine y el fallecido Paulao, respectivamente, y que permitieron grandes resultados, posicionando al país en la alta competencia.
+
+La apuesta dada a conocer por la ministra apunta a más allá, a que a los deportistas les incentiven con remuneraciones. Pero aquí las propias entidades rectoras deben establecer las bases para que así sea, que los clubes tomen el guante y busquen la manera de generar recursos para sus propios deportistas.
+
+La idea es que no suceda lo que ha pasado, por ejemplo, en el fútbol, donde luego de un amplio período, los clubes pasaron a manos de ciertos grupos de inversión o de firmas asociadas a representantes, donde el interés de mejorar la actividad no está dentro de sus objetivos.
+
+Sí o sí, el crecimiento de la actividad debe ir de la mano con esto, no sólo que se les pague a los deportistas, sino que permita mejorar la competitividad y volver a ser parte del ABC de la región.
+
+====
+
+categoria: voleibol
+fecha: 2026-08-11
+etiqueta: Nota principal · Mundial Femenino Sub17
+titulo: Las Guerreras no dan punto por perdido
+bajada: La Selección femenina Sub 17 de Vóleibol ha debido luchar cada punto ante sus rivales en la primera etapa del Campeonato Mundial que se desarrolla en Chile. Chequia, Tailandia y Estados Unidos han sido duros rivales, pero las Guerreras no les han dado tregua.
+firma: Redacción Los Anillos de Chile
+portada: si
+dato1: 3 | Partidos
+dato2: 1 | Set Ganado
+dato3: 24 | Selecciones Participantes
+texto:
+### Mundial Femenino Sub17
+
+Un duro comienzo ha tenido la selección chilena femenina Sub 17 en el Campeonato Mundial que se desarrolla en el país, donde si bien han sufrido tres derrotas en igual cantidad de partidos, no han dado su brazo a torcer frente a sus rivales.
+
+El debut no fue simple, al frente tenía la escuadra de Chequia, que quedó cuarta en el último torneo europeo de la categoría, detrás de potencias como Italia, Turquía y Polonia.
+
+Claramente las cartas estaban en favor de las europeas, y así se observó en el primer set, el que ganaron por 25 a 18. En el segundo set, las cosas no cambiaron mucho, y las checas se hicieron de la manga por 25 a 15.
+
+La localía y el público apoyando a las chilenas, que disputaron el juego en el Centro de Deportes Colectivos del Estadio Nacional, dieron su efecto en el tercer set, donde hubo más pelea y el duelo quedó 25 a 21 en favor de las centroeuropeas.
+
+El segundo compromiso fue ante el equipo de Tailandia. Las asiáticas accedieron al torneo por ranking y también fueron un hueso duro de roer para las nacionales. No obstante, las Guerreras pusieron lo que tenían para quedarse con el primer set, el cual ganaron por 25 a 19.
+
+Ese esfuerzo no pudo replicarse en los tres sets posteriores, ya que las asiáticas se quedaron con el juego luego de adjudicarse estas mangas por 25-20, 25-17 y 25-15.
+
+> "Podemos aprender mucho, ya que llevarnos ese set no fue una coincidencia, en verdad lo dejamos todo, y siento que pudimos habernos llevado quizás uno más, pero siento que al mismo tiempo jugamos muy bien", señaló Paula Salas, punta del equipo nacional, en la cuenta de Instagram de la Federación (@fevochi).
+
+En cuanto al tercer compromiso, era muy complicado. Se presentaba Estados Unidos, sin duda uno de los más fuertes del grupo y del torneo, por lo que había que trabajar muy bien cada punto y cada set.
+
+Pese a que en la primera manga, las norteamericanas vencieron por 25 a 14, las nacionales pudieron luchar más en el siguiente, y no se dejaron amilanar, ya que sólo cayeron por 25 a 21. El tercer set se luchó pero las gringas mostraron su pedigree y cerraron el compromiso con un 25 a 19.
+
+Los duelos con Egipto —ganadoras del clasificatorio africano— y Turquía —subcampeona europea— van a marcar un gran desafío para las chilenas, que en su Mundial están adquiriendo toda la experiencia posible para poder, a futuro, luchar palmo a palmo con las mejores de la región.
+
+### Posiciones
+
+Cumplidas las tres primeras fechas, las tablas de los grupos van de la siguiente forma.
+
+Grupo A: EE.UU., 9 puntos (mejor cuociente); Chequia, 9 ptos.; Turquía, 6 ptos.; Tailandia, 3 ptos.; Egipto 0 ptos. (mejor cuociente); Chile, 0 ptos.
+
+Grupo B: China, 9 puntos; Filipinas, 6 ptos; Perú, 5 ptos.; Venezuela, 4 ptos.; México, 3 ptos.; Túnez, 0 ptos.
+
+Grupo C: Polonia, 9 puntos; Argentina, 6 ptos. (mejor cuociente); Croacia, 6 ptos. (segundo mejor cuociente); Japón, 6 ptos.; España, 4 ptos. (mejor cuociente); Brasil, 4 ptos.
+
+Grupo D: Corea del Sur, 9 puntos; Italia, 6 ptos.; Puerto Rico, 5 ptos.; China Taipei, 4 ptos.; República Dominicana, 3 ptos.; Argelia, 0 ptos.
+
+====
+
+categoria: atletismo
+fecha: 2026-08-11
+etiqueta: Mundial Sub 20 · Atletismo
+titulo: Sofía Contreras, séptima en Oregon
+bajada: La saltadora nacional logró quedar entre las mejores del Mundial Junior, con un registro de 6,20 metros, mejorando incluso la marca de clasificación en el evento.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+Sofía Contreras fue la deportista más sobresaliente en lo referido a la presentación chilena en el Mundial de Atletismo Junior, que se desarrolló en Oregon (Estados Unidos), luego de alcanzar el séptimo lugar en la final del salto largo.
+
+La deportista nacional consiguió en la instancia decisiva una marca de 6,20 metros, que la posicionó entre las mejores del planeta a nivel juvenil. A su vez, quedó a 32 centímetros de la ganadora de la competencia, la francesa Djelika Diarra.
+
+En tanto, la velocista Roxana Ramírez fue quinta en su serie de los 100 metros, con un tiempo de 11.74 segundos, mientras que, en la ronda de los 200 metros, quedó sexta con 24.24 segundos.
+
+La otra velocista que dijo presente fue Pilar Rodríguez, quien quedó cuarta en su serie de 200 metros, con un tiempo de 24.34 segundos.
+
+Por su parte, Aurora Bertelsen compitió en los 800 metros, donde consiguió un tiempo de 2:12.94, ubicándose séptima en la tanda.
+
+Asimismo, en los 400 metros vallas, Chile también contó con especialistas en damas y varones, que no pasaron las series.
+
+Benjamín Tejos fue quinto en su tanda con 52.10 segundos, mientras que Alonso Guzmán quedó sexto en su ronda con 51.87 segundos. En damas, Elisa Aguado finalizó séptima con 1:01.40.
+
+También Pablo Mackenna quedó sexto en su serie de los 110 metros vallas, con un registro de 14.11 segundos, mientras que Leonor Ferreiro fue séptima en los 100 metros vallas, con 14.11 segundos.
+
+! Relevos: En los 4 x 100 mixtos, el equipo de Franco Stefani, Pilar Rodríguez, Tomás León y Roxana Ramírez, quedó sexto en su serie con 43.14 segundos. En los 4 x 100 femeninos, Roxana Ramírez, Pilar Rodríguez, Elisa Aguado y Leonor Ferreiro fueron novenas con 46.22 segundos. En los 4 x 400 masculinos, Manuel Guzmán, Cristóbal Keim, Tomás Peñaloza y Marc Donat quedaron séptimos en su serie con 3:14.53.
+
+====
+
+categoria: triatlon
+fecha: 2026-08-11
+etiqueta: Internacional · Triatlón
+titulo: Sigue la cosecha de puntos olímpicos
+bajada: Andree Buc y Rafaela Capó fueron los más sobresalientes en la fecha de la Copa del Mundo en Asunción.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+Andree Buc, en varones, y Rafaela Capó, en damas, fueron las cartas chilenas más destacadas de la fecha de la Copa del Mundo de Triatlón disputada este fin de semana en Asunción (Paraguay).
+
+Buc consiguió un destacado séptimo lugar, registrando un tiempo de 1 hora 14 minutos y 54 segundos. En cuanto a posiciones, consiguió mejorar lo alcanzado la semana pasada en Copacabana, donde completó la prueba en décimo lugar.
+
+La prueba comprendió 1.500 metros de nado, 40 kilómetros de bicicleta y 10 kilómetros de trote. Si bien en la primera prueba, Buc logró quedar entre los mejores, en el ciclismo perdió unas posiciones, donde había quedado entre los 30 mejores. Sin embargo, en el trote recuperó todo el terreno perdido, alcanzando a terminar séptimo.
+
+Otro de los chilenos que estuvo en competencia fue Ignacio Flores, décimo tercero con 1 hora 44 minutos y 59 segundos. Mateo Moraga, quien también participó, no pudo completar la prueba.
+
+El primer lugar de la competencia fue para el neocelandés Dylan McCullough, con un tiempo de 1:42:41, seguido por el alemán Justus Tapper, con 1:42:50, y tercero, el australiano Toby Powers, con 1:43:15.
+
+En la prueba femenina, Rafaela Capó fue la más destacada, finalizando en el puesto 25° con 2 horas 1 minuto.
+
+A su vez, Bárbara Riveros llegó en el puesto 27°, con 2 horas 2 minutos y 22 segundos, y Daniela Moya quedó 32° con 2:04:43.
+
+La prueba fue ganada por la norteamericana Danielle Orie, con un tiempo de 1 hora 56 minutos 04 segundos. La medalla de plata fue para la italiana Angélica Prestia, con 1:56:12; y el bronce fue para la italiana Beatrice Mallozzi, con 1:56:21.
+
+! Dato: Al igual que la fecha de Copacabana, la prueba en Asunción entregó puntaje para ranking de World Triathlon.
+
+====
+
+categoria: basquetbol
+fecha: 2026-08-11
+etiqueta: Sudamericano · Básquetbol
+titulo: Mucho por mejorar
+bajada: La selección chilena de básquetbol femenina quedó séptima en el sudamericano clasificatorio para la FIBA AmeriCup, que se desarrolló en Zárate (Argentina).
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+La selección chilena de básquetbol femenina finalizó su participación en el séptimo puesto del Sudamericano que se desarrolló en Zárate (Argentina) y que entregaba cupos para la FIBA AmeriCup 2027.
+
+El conjunto chileno sólo conoció de derrotas en todos los compromisos en los que tomó participación, dejando en evidencia el nivel que sostiene en relación a los otros conjuntos de la región.
+
+En su primer partido, se midió ante Brasil, que le bastó solo dos cuartos para liquidar el pleito, venciendo por 85 a 57. Sin embargo, las chilenas pudieron mostrar un buen juego en el tercer cuarto, el que fueron superiores.
+
+En el segundo duelo, se enfrentaron a Venezuela, donde hubo algo más de paridad, aunque el cuadro llanero mostró diferencias con el juego de Daniela Wallen, quien milita en el Montana 2003 de Bulgaria y que ya conocía a las chilenas tras su paso por Los Leones de Quilpué. Las caribeñas se quedaron con el juego por 62 a 51.
+
+Con estos resultados, la Roja debió disputar los cuartos de final, donde cruzó camino con Colombia, equipo que desde un comienzo mostró su potencial y pese a que se intentó una remontada, el duelo igual se quedó en manos de las cafeteras por 78 a 51.
+
+Sin chance de avanzar a la FIBA AmeriCup, quedó el duelo por el sexto lugar ante Uruguay. Las charrúas, igual que las colombianas, fueron superiores en los primeros cuartos, y aunque el juego de Javiera Campos y Valentina Ojeda ilusionó en dar vuelta el resultado, esto no sucedió y las orientales sellaron su victoria por 66 a 58.
+
+Argentina, Venezuela, Brasil y Colombia avanzaron a la FIBA AmeriCup de El Salvador.
+
+! Aforo lleno ante Bahamas y EE.UU.: La Federación Chilena de Básquetbol anunció aforo lleno para los partidos ante Bahamas, el 22 de agosto, y Estados Unidos, el 27 del mismo mes, ambos a disputarse en el Centro de Deportes Colectivos del Estadio Nacional.
+
+====
+
+categoria: breves
+fecha: 2026-08-11
+etiqueta: Actualidad · En breve
+titulo: Breves
+bajada: Una vuelta rápida por rugby, hockey césped, natación, running, lucha y BMX freestyle.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+### Rugby
+
+Chile albergará el regreso del Americas Rugby Championship, entre el 29 de agosto y el 6 de septiembre. Los locales debutarán ante el XV uruguayo, luego se medirán con los Yacarés de Paraguay y cerrarán con los argentinos.
+
+### Running
+
+El 13 de septiembre se desarrollará en Santiago la edición 2026 de la Corrida Glorias del Ejército, que regresa al calendario de running tras su última versión en 2019. Se tendrán presente las distancias de 3, 5 y 10 kilómetros. Las inscripciones están abiertas en el sitio www.corridagloriasdelejercito.cl
+
+### Hockey césped
+
+Las Diablas disputaron este fin de semana una práctica con las seleccionadas de China, para preparar su debut en la Copa Mundial de Hockey que se desarrollará en Países Bajos y Bélgica. Chile compartirá grupo con las neerlandesas, Japón y Australia.
+
+### Lucha
+
+Las luchadoras Antonia Valdés (-53 kg) y Virginia Jiménez (-68 kg) lograron medallas de plata en el Open Ian Corniau de Rumania. Según consigna el Team Chile en su cuenta de Instagram, ambas se encuentran junto al equipo chileno en una gira por Europa, preparándose para los Juegos Suramericanos de Santa Fe.
+
+### Natación
+
+Del 22 al 25 de octubre, Santiago será sede de la XLIV Copa Pacífico y la XX Copa Julio Maglione, que se disputarán en el Centro Acuático Kristel Köbrich. Los equipos participantes serán Chile, Bolivia, Colombia, Ecuador y Perú, además de los representativos invitados de Argentina, Brasil y Uruguay.
+
+### BMX Freestyle
+
+La ciclista Macarena Pérez terminó undécima en la Copa del Mundo de BMX Freestyle de Birmingham (Estados Unidos), tras mantener los 66,05 puntos de la etapa clasificatoria producto de la lluvia que canceló la final. La prueba se la adjudicó la japonesa Miharu Ozawa.
+
+====
+
 categoria: editorial
 fecha: 2026-08-04
 etiqueta: Editorial
@@ -139,7 +337,7 @@ etiqueta: Nota principal · Running
 titulo: FIESTA DE KILÓMETROS BAJO LA LLUVIA
 bajada: Miles de corredores se dieron cita este domingo en la Asics Golden Run, que se desarrolló en las calles de Ñuñoa y Macul, donde además de desafiar las distancias de 10k y 21k, hicieron frente a los chubascos que cayeron en la jornada.
 firma: Redacción Los Anillos de Chile
-portada: si
+portada: no
 dato1: 15 | Edición
 dato2: 2 | Categorías (10 y 21K)
 dato3: 4.000 | Corredores
