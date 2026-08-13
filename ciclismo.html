@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Los Anillos de Chile — Revista Polideportiva Chilena</title>
-<meta name="description" content="Los Anillos de Chile, revista polideportiva chilena. Vóleibol, básquetbol, triatlón, atletismo y el deporte nacional que no es fútbol.">
+<title>Básquetbol — Los Anillos de Chile</title>
+<meta name="description" content="Notas de básquetbol de Los Anillos de Chile, revista polideportiva chilena.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500&display=swap" rel="stylesheet">
-<link rel="canonical" href="https://losanillosdechile-hue.github.io/losanillosdechile/">
+<link rel="canonical" href="https://losanillosdechile-hue.github.io/losanillosdechile/basquetbol.html">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -25,42 +25,33 @@
   </nav>
 </header>
 
-<section class="cover" id="cover-section">
-  <div class="wrap">
-    <p class="eyebrow cover-eyebrow" id="cover-kicker"></p>
-    <h1 id="cover-title"></h1>
-    <p class="cover-deck" id="cover-deck"></p>
-    <div class="cover-actions">
-      <a href="#" id="cover-read-btn" class="btn primary">Leer nota principal →</a>
-      <a href="editorial.html" class="btn">Editorial: había que regresar</a>
+<div class="article-shell">
+  <aside class="spine">
+    <div class="spine-inner">
+      <span class="spine-label"></span>
     </div>
-  </div>
-</section>
+  </aside>
 
-<section class="mag-banner">
-  <div class="wrap">
-    <div class="mag-banner-text">
-      <span class="mag-banner-icon">PDF</span>
-      <div>
-        <h3>Revista digital — <span id="edition-banner"></span></h3>
-        <p>La edición completa, en formato revista, lista para leer o descargar.</p>
+  <div class="content-col">
+    <div class="category-banner" id="category-banner">
+      <div class="category-banner-inner">
+        <h1 id="category-title"></h1>
       </div>
     </div>
-    <a id="mag-pdf-btn" class="btn primary" href="descargas/los-anillos-de-chile-edicion-0.pdf" target="_blank" rel="noopener">Ver revista digital →</a>
-  </div>
-</section>
 
-<section class="grid-section">
-  <div class="wrap">
-    <div class="sumario-head">
-      <div>
-        <p class="eyebrow" style="color:var(--navy)" id="edition-eyebrow"></p>
-        <h2>Todas las notas</h2>
-      </div>
-    </div>
-    <div class="card-grid" id="card-grid"></div>
+    <main class="article-main">
+      <div id="feed" style="margin-top:8px"></div>
+
+      <a href="#" id="next-category" class="next-story">
+        <span>
+          <span class="eyebrow"></span>
+          <strong></strong>
+        </span>
+        <span class="arrow">→</span>
+      </a>
+    </main>
   </div>
-</section>
+</div>
 
 <footer class="site-footer">
   <div class="wrap">
@@ -89,6 +80,6 @@
 </footer>
 
 <script src="site.js?v=2"></script>
-<script>LosAnillos.renderHomePage().catch(function(e){console.error(e);});</script>
+<script>LosAnillos.renderCategoryPage("ciclismo").catch(function(e){console.error(e);});</script>
 </body>
 </html>
