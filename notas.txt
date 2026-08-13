@@ -164,6 +164,29 @@ También Pablo Mackenna quedó sexto en su serie de los 110 metros vallas, con u
 
 ====
 
+categoria: ciclismo
+fecha: 2026-08-13
+etiqueta: Internacional · Ciclismo
+titulo: Selección Nacional Elite suma 15 medallas en los dos rounds de la Copa UCI C2 Taça Maringá
+bajada: chile tuvo presencia en el podio de las pruebas de Omnium, Madison, Eliminación, Prueba por Puntos, Velocidad y Keirin..
+firma: FDN Ciclismo
+portada: no
+texto:
+Una destaca participación registró la Selección Nacional Elite de Ciclismo de Pista en el 2.º Round de la Copa UCI C2 Taça Maringá, disputado en Brasil, con presencia en el podio de las pruebas de Omnium, Madison, Eliminación, Prueba por Puntos, Velocidad y Keirin.
+
+La jornada del sábado registró a Scarlet Cortés en el primer lugar del Omnium femenino, seguida por Aranza Villalón y Maite Ibarra en la segunda y tercera posición, respectivamente. 
+
+En la Madison femenina, Cortés y Villalón obtuvieron el primer lugar, mientras que la dupla conformada por Maite Ibarra y Paula Molina finalizó en el tercer puesto. En el Omnium masculino, Jacob Decar ocupó la tercera posición.
+
+Durante el domingo, Scarlet Cortés obtuvo el primer lugar en la Eliminación femenina, con Aranza Villalón en el segundo puesto. Villalón también finalizó segunda en la Prueba por Puntos.
+
+En las pruebas masculinas, Ignacio Mambran se adjudicó el Omnium, mientras que Martín Mancilla obtuvo el segundo lugar. En tanto, Paula Molina obtuvo el primer lugar en Velocidad Individual y posteriormente en el Keirin femenino.
+
+Con los resultados obtenidos en ambos rounds disputados en Maringá, la Selección Nacional Elite suma 15 medallas, correspondientes a las seis conseguidas en el primer Round y las nueve obtenidas en esta segunda fecha. 
+
+Los resultados alcanzados en Brasil permiten además a los seleccionados nacionales sumar puntos de cara al proceso clasificatorio para el Campeonato Mundial de Ciclismo de Pista, que se disputará en China durante octubre.
+
+====
 categoria: triatlon
 fecha: 2026-08-11
 etiqueta: Internacional · Triatlón
