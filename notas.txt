@@ -164,6 +164,30 @@ También Pablo Mackenna quedó sexto en su serie de los 110 metros vallas, con u
 
 ====
 
+categoria: voleibol
+fecha: 2026-08-13
+etiqueta: Nacional - Voleibol
+titulo: Gran avance del Centro Olímpico de Excelencia FIVB
+bajada: Las obras, que contemplan espacios de alto rendimiento para el voleibol indoor y de playa, las que presentan un 70% de avance.
+portada: no
+texto:
+Representantes de la Federación de Voleibol de Chile, junto a autoridades deportivas,  municipales y seleccionados de las distintas modalidades visitaron las instalaciones de lo que será el futuro Centro Olímpico de Excelencia FIVB, en la comuna de Cerrillos.
+
+En la oportunidad, inspeccionaron el estado de avance de las obras, que contemplan espacios de alto rendimiento para el voleibol indoor y de playa, las que presentan un 70% de avance.
+
+El presidente de la Federación, Jorge Pino Madrid, destacó en el Instagram de la entidad las bondades de este recinto, señalando que es ”un complejo deportivo que tiene que ver con un gimnasio para 1.200 personas que puedan ampliarse a 2.000, dos canchas de volley playa, con arena de cuarzo, legado de 2023 de los Panamericanos”.
+
+Agregó que “este Centro de Desarrollo Deportivo, de Excelencia Olímpica, que la Federación Internacional nos va a entregar ese título cuando ya esté inaugurándose, evidentemente nos tiene muy contentos”.
+
+Por su parte, la seleccionada nacional Dominga Aylwin, valoró el avance de este recinto, indicando que se encuentra “muy ilusionada por ya empezar a entrenar acá, confío mucho en que va a quedar increíble y muy feliz también por estas tremendas instalaciones”.
+
+A su vez, Marco Grimalt, especialista de voleibol playa, destacó que “se nota aquí que van a tener un estadio a disposición del volley chileno, donde se pueden realizar torneos y donde también se puede aprovechar día a día en el entrenamiento, yo creo que es algo fundamental para dar ese salto en el desarrollo de la disciplina”.
+
+Este avance de las obras se suma al desarrollo en nuestro país del Campeonato Mundial Sub17 de Voleibol Femenino, completando dos semanas de importantes informaciones para dicha disciplina.
+
+
+====
+
 categoria: ciclismo
 fecha: 2026-08-13
 etiqueta: Internacional · Ciclismo
