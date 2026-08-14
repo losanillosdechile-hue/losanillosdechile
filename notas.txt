@@ -90,7 +90,7 @@ Sí o sí, el crecimiento de la actividad debe ir de la mano con esto, no sólo 
 ====
 
 categoria: breves
-fecha: 2026-08-13
+fecha: 2026-08-14
 etiqueta: Nota principal · Breves
 titulo: Francisco Riveros, nuevo ministro del Deporte
 bajada: Su experiencia en deportes considera la gerencia general de Palestino entre 2007 y 2009 y la gerencia jurídica y asuntos corporativos de los JJPP Santiago 2023.
