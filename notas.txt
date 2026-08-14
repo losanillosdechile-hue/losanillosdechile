@@ -89,6 +89,28 @@ Sí o sí, el crecimiento de la actividad debe ir de la mano con esto, no sólo 
 
 ====
 
+categoria: breves
+fecha: 2026-08-13
+etiqueta: Nota principal · Breves
+titulo: Natalia Ducó deja el Mindep
+bajada: La renuncia se hará efectiva este viernes 14.
+firma: Redacción Los Anillos de Chile
+portada: si
+dato1: 5 | Meses en el Cargo
+texto:
+### Renuncia de Natalia Ducó
+
+La Dirección de Prensa de la Presidencia informó que el Presidente de la República, José Antonio Kast, ha aceptado la renuncia de Natalia Duco y Andrés Otero, en los cargos de ministra y subsecretario del Deporte, respectivamente.
+
+“El Gobierno agradece la labor desempeñada por la ex ministra y el ex subsecretario, y les desea el mayor de los éxitos en sus nuevos desafíos profesionales”, constata el comunicado de prensa.
+
+De acuerdo al diario La Tercera, la decisión se tomó tras la exhibición de un video donde participó en un evento tras llegar en un auto público, lo que contradice la versión que entregó a la Contraloría General de la República. 
+
+La renuncia se oficializará este viernes 14 en el Palacio de La Moneda.
+
+
+====
+
 categoria: voleibol
 fecha: 2026-08-11
 etiqueta: Nota principal · Mundial Femenino Sub17
