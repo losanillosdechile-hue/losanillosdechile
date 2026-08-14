@@ -114,7 +114,7 @@ A su vez, Sofía Rengifo asumió como subsecretaria del Deporte, en reemplazo de
 ====
 
 categoria: breves
-fecha: 2026-08-13
+fecha: 2026-08-14
 etiqueta: Nota principal · Breves
 titulo: Natalia Ducó deja el Mindep
 bajada: La renuncia se hará efectiva este viernes 14.
