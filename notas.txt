@@ -92,6 +92,30 @@ Sí o sí, el crecimiento de la actividad debe ir de la mano con esto, no sólo 
 categoria: breves
 fecha: 2026-08-13
 etiqueta: Nota principal · Breves
+titulo: Francisco Riveros, nuevo ministro del Deporte
+bajada: Su experiencia en deportes considera la gerencia general de Palestino entre 2007 y 2009 y la gerencia jurídica y asuntos corporativos de los JJPP Santiago 2023.
+firma: Redacción Los Anillos de Chile
+portada: si
+dato1: 2do | Ministro del Deporte en la administración Kast
+texto:
+### Nuevo Ministro del Deporte
+
+El Presidente de la República, José Antonio Kast, nombró al abogado Francisco Riveros Cantuarias como nuevo ministro del Deporte, cargo que asume desde este viernes 14 de agosto, reemplazando a Natalia Duco, quien renunció el día anterior.
+
+Riveros es abogado de profesión, titulado de la Universidad Católica, y con un magister en Inteligencia Artificial en Harvard. A su vez, ha sido académico de la Universidad de Los Andes.
+
+En materia de experiencia deportiva, se desempeñó como gerente general de Palestino entre los años 2007 y 2009 y durante la administración de Sebastián Piñera tomó el rol de gerente jurídico y de asuntos corporativos de los Juegos Panamericanos Santiago 2023.
+
+Recientemente, ocupaba un cargo de confianza del mandatario, en el segundo piso de La Moneda, cumpliendo roles como asesor en la planificación, coordinación y gestión integral de proyectos presidenciales prioritarios de Presidencia.
+
+A su vez, Sofía Rengifo asumió como subsecretaria del Deporte, en reemplazo de Andrés Otero, quien también renunció ayer. La nueva autoridad se ha desempeñado como directora del Instituto Nacional del Deporte (IND).
+
+
+====
+
+categoria: breves
+fecha: 2026-08-13
+etiqueta: Nota principal · Breves
 titulo: Natalia Ducó deja el Mindep
 bajada: La renuncia se hará efectiva este viernes 14.
 firma: Redacción Los Anillos de Chile
