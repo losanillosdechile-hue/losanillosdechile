@@ -54,6 +54,38 @@
 #
 # ======================================================================
 
+categoria: hockey
+fecha: 2026-08-15
+etiqueta: Mundial - Hockey
+titulo: Firme debut mundialista de las Diablas
+bajada: El equipo chileno de hockey femenino cayó por 2 a 0 ante Países Bajos en su primer partido en el Campeonato Mundial, donde la portera Natalia Salvador impidió que las locales engrosaran las cifras.
+firma: Redacción Los Anillos de Chile
+portada: si
+dato1: 2do | Mundial disputado por las Diablas
+texto:
+### Mundial de Hockey Países Bajos-Bélgica
+
+Las Diablas debutaron este sábado en el Campeonato Mundial de Hockey de Países Bajos y Bélgica con una derrota por 2 a 0 ante el conjunto neerlandés, en un partido válido por el Grupo A del certamen.
+
+El juego, disputado en el Wagner Hockey Stadium de Amstelveen (Países Bajos), fue prácticamente dominado por las locales, quienes no dudaron en mostrar sus credenciales ante las sudamericanas.
+
+Sin embargo, encontraron a un conjunto chileno bien posicionado en la defensa y con una actuación sobresaliente de la portera Natalia Salvador, quien contuvo prácticamente la mayoría de los córneres cortos que sufrió durante todo el encuentro.
+
+La tónica fue prácticamente la misma en todos los cuartos, un claro dominio del equipo europeo que buscó imponerse desde los primeros minutos, pero con una línea defensiva chilena sólida, bajo el liderazgo de la propia portera, quien ya mostraba luces de lo que sería su actuación.
+
+Ya en el segundo cuarto, si bien se mantuvo todo igual, apareció el desequilibrio en el marcador tras una jugada de campo, tras una asistencia de Yibbi Jansen, que finalmente Marijn Veen concretó en gol a los 23 minutos.
+
+Se pensó que se “vendría la noche” para las Diablas, pero Salvador dijo otra cosa y no dejó que el resultado aumentara en ese lapso.
+
+En el tercer cuarto, Chile siguió conteniendo el vendaval tulipán, pero a los 35 minutos, tras un córner corto, Yibbi Jansen colocó el 2 a 0 a su favor.
+
+De ahí, una seguidilla de córneres cortos que tras el tercero y el último cuarto no pudieron ampliar el resultado, y consagrando a la portera chilena como la figura destacada del compromiso.
+
+El próximo partido de las Diablas será este lunes a las 03:30 horas (de Chile) ante el equipo de Japón, que también fue derrotada por Australia por idéntico marcador.
+
+
+====
+
 categoria: atletismo
 fecha: 2026-08-14
 etiqueta: Sudamericano - Atletismo

@@ -27,3 +27,4 @@ atletismo   | Atletismo   | #9C7A1E | atletismo.html   | img/atletismo.jpg?v=1
 breves      | Breves      | #3B4A63 | breves.html      | img/breves.jpg?v=1
 running     | Running     | #3B4A63 | running.html     |
 ciclismo    | Ciclismo    | #3B4A63 | ciclismo.html    |
+hockey      | Hockey      | #1D4E8C | hockey.html      | img/hockey.jpg?v=1
