@@ -54,6 +54,21 @@
 #
 # ======================================================================
 
+categoria: atletismo
+fecha: 2026-08-14
+etiqueta: Sudamericano - Atletismo
+titulo: Lista la fecha para el Sudamericano Sub 23
+bajada: En el evento, a desarrollarse en la ciudad argentina de Santa Fe, se espera la presencia de 13 delegaciones, entre ellas la chilena.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+El XII Campeonato Sudamericano de Atletismo Sub 23 ya tiene fecha confirmada para su realización, llevándose a cabo entre el 16 y 18 de octubre en la ciudad argentina de Santa Fe.
+
+En el evento, a disputarse en dependencias del Centro de Alto Rendimiento Deportivo de dicho lugar, se espera la presencia de los más destacados especialistas de pista y campo de 13 países del subcontinente, entre ellos Chile.
+
+El evento es organizado por Atletismo Sudamericano, respaldado por la World Athletics.
+
+====
 
 categoria: editorial
 fecha: 2026-08-11
