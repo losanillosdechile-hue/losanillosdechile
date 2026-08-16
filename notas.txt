@@ -139,7 +139,7 @@ Sí o sí, el crecimiento de la actividad debe ir de la mano con esto, no sólo 
 categoria: basquetbol
 fecha: 2026-08-15
 etiqueta: Nacional - basquetbol
-titulo: Sportiva Italiana campeó de Liga Dos
+titulo: Sportiva Italiana campeón de Liga Dos
 bajada: Los itálicos vencieron a Huachipato en la serie tras quedarse con los 3 duelos consecutivos..
 firma: Redacción Los Anillos de Chile
 portada: no
