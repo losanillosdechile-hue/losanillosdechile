@@ -102,6 +102,35 @@ El evento es organizado por Atletismo Sudamericano, respaldado por la World Athl
 
 ====
 
+categoria: basquetbol
+fecha: 2026-08-16
+etiqueta: LNB - Basquetbol
+titulo: Las Ánimas, Puente Alto y Puerto Montt, vencedores de la jornada
+bajada: Los tres equipos vencieron en calidad de visita en la jornada sabatina de la LNB.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+Los quintetos de Las Ánimas, Puente Alto y Puerto Montt fueron visitas ingratas en la jornada sabatina de la Liga Nacional de Básquetbol, luego de vencer a domicilio a sus respectivos rivales.
+
+El cuadro valdiviano dio cuenta de Español de Osorno por 94 a 91. Luego de un primer cuarto parejo, donde igualaron a 20 puntos, el “Fantasma” impuso sus términos y se llevó los dos siguientes por 27 a 21 y 23 a 18.
+
+El conjunto hispano buscó recuperarse en el último cuarto, pero no fue suficiente pese a que se quedó con la manga por 32 a 42.
+
+Por su parte, Puente Alto dio cuenta de Basket UC por 80 a 67. Los del sector sur de la capital siempre fueron claros dominadores del encuentro, de hecho, se quedaron con los tres primeros cuartos por 19 a 16, 19 a 13 y 21 a 14.
+
+Los Cruzados, en tanto, sólo les quedó ganar en la última tanda por 24 a 21, ante un cuadro que ya tenía una cómoda ventaja a su haber.
+
+A su vez, Puerto Montt cruzó el canal de Chacao para vencer a Ancud por 88 a 66. Si bien ambas escuadras igualaron a 23 puntos en el primer cuarto, los del continente manejaron las acciones en el resto del encuentro.
+
+Así, las cosas, los cuartos favorecieron a los puertomontinos por 15 a 11, 28 a 17 y 22 a 15.
+
+En la Conferencia Centro, Universidad de Concepción, que el viernes había superado s Español de Talca por 103 a 80, lidera la tabla con 19 puntos, seguido de Los Leones de Quilpué y Puente Alto con 15 unidades.
+
+En la Conferencia Sur, CD Valdivia encabeza con 20 unidades, y lo escoltan Español de Osorno y Ancud, ambos con 18.
+.
+
+====
+
 categoria: editorial
 fecha: 2026-08-11
 etiqueta: Editorial
