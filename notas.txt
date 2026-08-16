@@ -136,13 +136,31 @@ Sí o sí, el crecimiento de la actividad debe ir de la mano con esto, no sólo 
 
 ====
 
+categoria: basquetbol
+fecha: 2026-08-15
+etiqueta: Nacional - basquetbol
+titulo: Sportiva Italiana campeó de Liga Dos
+bajada: Los itálicos vencieron a Huachipato en la serie tras quedarse con los 3 duelos consecutivos..
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+El quinteto de Sportiva Italiana de Valparaíso se coronó campeón de la Liga Dos 2026  del baloncesto nacional tras superar a Huachipato por 73 a 27 en Talcahuano, cerrando la serie 3 a 0.
+
+El equipo de la Joya del Pacífico con este resultado además ascendió a la serie de honor del básquetbol.
+
+En los anteriores encuentros, Sportiva Italiana había superado a los acereros por 107 a 73 y 94 a 82.
+
+La figura del partido decisivo fue el norteamericano Devante Wallace, quien además de sumar 18 puntos, 7 rebotes y 4 asistencias, convirtió el doble que selló la corona para los itálicos.
+
+====
+
 categoria: breves
 fecha: 2026-08-14
 etiqueta: Nota principal · Breves
 titulo: Francisco Riveros, nuevo ministro del Deporte
 bajada: Su experiencia en deportes considera la gerencia general de Palestino entre 2007 y 2009 y la gerencia jurídica y asuntos corporativos de los JJPP Santiago 2023.
 firma: Redacción Los Anillos de Chile
-portada: si
+portada: no
 dato1: 2do | Ministro del Deporte en la administración Kast
 texto:
 ### Nuevo Ministro del Deporte
@@ -166,7 +184,7 @@ etiqueta: Nota principal · Breves
 titulo: Natalia Ducó deja el Mindep
 bajada: La renuncia se hará efectiva este viernes 14.
 firma: Redacción Los Anillos de Chile
-portada: si
+portada: no
 dato1: 5 | Meses en el Cargo
 texto:
 ### Renuncia de Natalia Ducó
@@ -188,7 +206,7 @@ etiqueta: Nota principal · Mundial Femenino Sub17
 titulo: Las Guerreras no dan punto por perdido
 bajada: La Selección femenina Sub 17 de Vóleibol ha debido luchar cada punto ante sus rivales en la primera etapa del Campeonato Mundial que se desarrolla en Chile. Chequia, Tailandia y Estados Unidos han sido duros rivales, pero las Guerreras no les han dado tregua.
 firma: Redacción Los Anillos de Chile
-portada: si
+portada: no
 dato1: 3 | Partidos
 dato2: 1 | Set Ganado
 dato3: 24 | Selecciones Participantes
