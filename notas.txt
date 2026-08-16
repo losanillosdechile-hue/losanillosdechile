@@ -102,6 +102,34 @@ El evento es organizado por Atletismo Sudamericano, respaldado por la World Athl
 
 ====
 
+categoria: natacion
+fecha: 2026-08-16
+etiqueta: Mundial - Natación
+titulo: SOBRESALIENTE ACTUACIÓN EN HUNGRÍA
+bajada: El equipo de natación artística se llevó cuatro Top 10 en el Junior Artistic Swimming Championships 2026 desarrollado en Budapest.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+Más que sobresaliente fue la participación chilena en el Junior Artistic Swimming Championships 2026, que se desarrolló en Budapest, Hungría, donde se obtuvieron cuatro top 10 en las pruebas donde se compitió.
+
+Lo más destacado en la delegación fue lo obtenido en la prueba acrobática por equipos, donde Chile se quedó con el quinto lugar, totalizando con su rutina 194.5234 puntos.
+El oro se lo llevó el conjunto de Rusia, mientras que la plata fue para China y el bronce para España.
+
+El equipo chileno que consiguió este lugar estuvo conformado por Rafaela Amoros, Dominga Cerda, Dominga Cesped, Fernanda Gacitúa, Florencia Lazcano, Josefa Oravec, Chloe Plaut, Eva Rubio y Nicolás Campos.
+
+A nivel individual, lo más sobresaliente fue la actuación del propio Campos, quien logró un quinto lugar en el Solo Técnico y un séptimo puesto en el Solo Libre.
+
+En el técnico, el chileno obtuvo 235.2851 puntos, y la prueba fue ganada por Zakhar Trofimov (Rusia), seguido por Eneko Sánchez Aguilar (España), y Viktor Druzin (Kazajistán), que completaron el podio.
+
+Por su parte, en la prueba libre, totalizó 207.1163 puntos, mientras el podio repitió a los mismos actores de la prueba técnica.
+
+El cuarto Top 10 se logró en la prueba de Duetos Mixtos Técnicos, donde Nicolás Campos izo dupla con Dominga Cerda, y obtuvieron el noveno lugar con 176.4600 puntos. El oro fue para Rusia, la plata para España, y el bronce para China.
+
+Otros resultados conseguidos fueron un vigésimo lugar en el equipo técnico y un vigésimo quinto puesto en el Dueto Técnico Femenino, con participación de Dominga Cesped, Josefa Oravec y Fernanda Gacitúa.
+.
+
+====
+
 categoria: basquetbol
 fecha: 2026-08-16
 etiqueta: LNB - Basquetbol
