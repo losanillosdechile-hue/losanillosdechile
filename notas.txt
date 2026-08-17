@@ -54,6 +54,35 @@
 #
 # ======================================================================
 
+categoria: voleibol
+fecha: 2026-08-16
+etiqueta: Mundial - Voleibol
+titulo: Estados Unidos, campeón Mundial Sub17
+bajada: El representativo norteamericano se quedó con el título del Mundial Sub17 de Voleibol Femenino que se desarrolló en Chile, luego de superar en la final a Turquía por 3 sets a 0.
+firma: Redacción Los Anillos de Chile
+portada: si
+dato1: 1er. | Título Sub 17 para EE.UU.
+texto:
+### Mundial de Voleibol Sub17
+
+La selección de Estados Unidos se coronó campeona del Mundial de Voleibol Femenino Sub17, que se desarrolló en Chile, luego que este domingo venciera en la final al conjunto de Turquía por 3 sets a 0.
+
+El encuentro, disputado en el Centro de Deportes Colectivos del Estadio Nacional, comenzó con un muy disputado set, donde ambos elencos no se dieron tregua, hasta que las norteamericanas desnivelaron para quedarse con un 25-23 en la manga.
+
+Ya en el segundo período, las estadounidenses marcaron las diferencias, y muy poco hicieron las turcas ante ese poderío, porque finalmente se resolvió con un 25-11.
+
+Ya el tercer set, las euroasiáticas volvieron a la pelea, porque sabían que se entregaban esta tanda se les iba el título. Sin embargo, las “gringas” no se dejaron abatir y terminaron por cerrar el juego con un 25-23 y, con ello, alzarse con el campeonato.
+
+Este es el primer título que obtiene el conjunto de las barras y las estrellas en dicha categoría, ya que el anterior, disputado en Perú en 2024 -siendo la edición número 1-, fue para China.
+
+Por otra parte, las mismas asiáticas se quedaron con el bronce, ya que en la definición por el tercer lugar superaron al representativo de China Taipei por 3 sets a 1.
+
+Pese a un buen comenzó de las isleñas, que ganaron el primer set por 28 a 26, las del gigante asiático dieron vuelta la situación y se quedaron con las otras tandas por 25-15, 25-19 y 25-22.
+
+La Clasificación general quedó de la siguiente manera: 1.- Estados Unidos; 2.- Turquía, 3.- China, 4.- China Taipei, 5.- Italia, 6.- Corea del Sur, 7.-Tailandia, 8.- Croacia, 9.- Polonia, 10.- República Dominicana, 11.- Japón, 12.- Argentina, 13.- Perú, 14.- Venezuela, 15.- Filipinas, 16.- Chequia, 17.- Brasil, 18.- España, 19.- México, 20.- Túnez, 21.- Puerto Rico, 22.- Chile, 23.- Egipto, 24.- Argelia.
+
+====
+
 categoria: hockey
 fecha: 2026-08-15
 etiqueta: Mundial - Hockey

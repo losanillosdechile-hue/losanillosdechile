@@ -20,12 +20,11 @@
 # ------------------------------------------------------------------
 
 editorial   | Editorial   | #63472F | editorial.html   | img/atletismo.jpg?v=1
-voleibol    | Vóleibol    | #7C2331 | voleibol.html    | img/voleibol.jpg?v=1
+voleibol    | Vóleibol    | #7C2331 | voleibol.html    | img/voleibol.jpg?v=2
 basquetbol  | Básquetbol  | #B5622C | basquetbol.html  | img/basquetbol.jpg?v=1
 triatlon    | Triatlón    | #1F6F73 | triatlon.html    | img/triatlon.jpg?v=1
 atletismo   | Atletismo   | #9C7A1E | atletismo.html   | img/atletismo.jpg?v=1
 breves      | Breves      | #3B4A63 | breves.html      | img/breves.jpg?v=1
-hockey      | Hockey      | #3B4A63 | hockey.html      | img/hockey.jpg?v=1
 running     | Running     | #3B4A63 | running.html     |
 ciclismo    | Ciclismo    | #3B4A63 | ciclismo.html    |
-natacion    | Natación    | #3B4A63 | natacion.html    |
+hockey      | Hockey      | #1D4E8C | hockey.html      | img/hockey.jpg?v=1
