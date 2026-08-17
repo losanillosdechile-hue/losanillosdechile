@@ -141,6 +141,75 @@ El próximo partido de las Diablas será este lunes a las 03:30 horas (de Chile)
 
 ====
 
+categoria: natacion
+fecha: 2026-08-16
+etiqueta: Nacional - Natación
+titulo: Acuasexta, campeón del Nacional de Desarrollo
+bajada: El elenco de la Región de O’Higgins superó en puntaje a casi 40 clubes en el evento desarrollado en el Complejo Kristel Kobrich.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+El club Acuasexta se adjudicó el Campeonato Nacional de Desarrollo de Invierno, que se efectuó este fin de semana en dependencias del Centro Acuático Kristel Kobrich de Ñuñoa.
+
+En la ocasión, jóvenes especialistas de casi 40 clubes a nivel nacional se dieron cita para competir por las diferentes distancias y estilos que comprendió el evento.
+
+El conjunto de la Región de O’Higgns se quedó con el primer lugar tras sumar 318,5 puntos en todas las modalidades donde se hizo presente.
+
+Con ello superó a la Asociación Regional Santiago Unido, que quedó segunda con 302,5 unidades, y tercera fue la Asociación Regional Sur Poniente, con un acumulado de 284 unidades.
+
+Otros de los clubes destacados fueron Universidad Católica, cuarto con 233 unidades, y el Stadio Italiano, quinto con 217 puntos.
+
+El torneo sirvió como presentación para el flamante ministro del Deporte, Francisco Riveros, quien estuvo entregando medallas en algunas categorías.
+
+
+====
+
+categoria: tenis
+fecha: 2026-08-17
+etiqueta: Copa Davis - Tenis
+titulo: Lista la nómina para enfrentar a España
+bajada: Alejandro Tabilo (29 ATP) será el singlista número 1 de Chile en el duelo de Copa Davis frente a España, en septiembre.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+El Capitán del equipo chileno de Copa Davis, Nicolás Massú, dio a conocer este lunes la nómina de los 4 singlistas que participarán en el duelo contra España por la segunda ronda Qualifiers del certamen internacional.
+
+El excampeón olímpico consideró a Alejandro Tabilo (29 ATP), Cristián Garín (137 ATP), Tomás Barrios (147 ATP) y Matías Soto (262 ATP) para el duelo del 19 y 20 de Septiembre en el Complejo Anita Lizana.
+
+A su vez, se conoció la nómina del cuadro español, en la cual no se consideró a Carlos Alcaraz, segundo del Ranking Mundial. 
+
+Ante esto, el capitán hispano, David Ferrer, nominó a Rafael Jódar (11°), Daniel Mérida (40°), Jaume Munar (46°), Martín Landaluce (67°) y Pedro Martínez (151°) para el duelo con los nacionales.
+
+Chile accedió a esta fase luego de superar en la primera ronda de las Qualifiers a Serbia por 4 a 0, en encuentro desarrollado en febrero en Santiago. Por su parte, los españoles accedieron tras quedar libre en la primera fase, merced a su vicecampeonato del año pasado.
+
+Quien gane esta serie, accederá a la fase final, donde participarán los 8 mejores, en la instancia que se llevará a cabo en Bolonia (Italia), entre el 24 y el 29 de noviembre.
+
+
+====
+
+categoria: natacion
+fecha: 2026-08-17
+etiqueta: Nacional - Natación
+titulo: Acuasexta, campeón del Nacional de Desarrollo
+bajada: El elenco de la Región de O’Higgins superó en puntaje a casi 40 clubes en el evento desarrollado en el Complejo Kristel Kobrich.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+El club Acuasexta se adjudicó el Campeonato Nacional de Desarrollo de Invierno, que se efectuó este fin de semana en dependencias del Centro Acuático Kristel Kobrich de Ñuñoa.
+
+En la ocasión, jóvenes especialistas de casi 40 clubes a nivel nacional se dieron cita para competir por las diferentes distancias y estilos que comprendió el evento.
+
+El conjunto de la Región de O’Higgns se quedó con el primer lugar tras sumar 318,5 puntos en todas las modalidades donde se hizo presente.
+
+Con ello superó a la Asociación Regional Santiago Unido, que quedó segunda con 302,5 unidades, y tercera fue la Asociación Regional Sur Poniente, con un acumulado de 284 unidades.
+
+Otros de los clubes destacados fueron Universidad Católica, cuarto con 233 unidades, y el Stadio Italiano, quinto con 217 puntos.
+
+El torneo sirvió como presentación para el flamante ministro del Deporte, Francisco Riveros, quien estuvo entregando medallas en algunas categorías.
+
+
+====
+
 categoria: atletismo
 fecha: 2026-08-14
 etiqueta: Sudamericano - Atletismo
