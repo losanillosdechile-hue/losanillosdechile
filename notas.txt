@@ -54,6 +54,32 @@
 #
 # ======================================================================
 
+categoria: hockey
+fecha: 2026-08-17
+etiqueta: Mundial - Hockey
+titulo: Duro revés de las Diablas
+bajada: Chile cayó 3 a 0 ante Japón en su segundo partido del Grupo A del Mundial de Países Bajos y Bélgica. Deberá buscar u triunfo frente a Australia si quiere avanzar.
+firma: Redacción Los Anillos de Chile
+portada: si
+texto:
+### Mundial de Hockey Países Bajos-Bélgica
+
+Un duro golpe recibió la selección chilena de Hockey Femenino, luego de caer por 3 a 0 ante Japón, en el segundo partido del equipo por el Grupo A del Mundial que se juega en Países Bajos y Bélgica.
+
+Las Diablas se vieron temprano con un marcador en desventaja, cuando a los 7 minutos del primer cuarto Miyu Hasegawa aprovechó un córner corto y batió a la portera Natalia Salvador.
+
+Las asiáticas supieron controlar las acciones, considerando que al igual que Chile debían buscar el triunfo si querían tener opciones en el próximo partido, ya que cayeron ante Australia en su debut.
+
+En el segundo cuarto, la tónica fue la misma, las niponas mostraron su buen juego y prontamente Hiroka Murayama aprovechó un yerro defensivo para aumentar las cifras.
+
+En la misma etapa, a los ocho minutos, Maho Ueno aprovechó otro córner corto para engrosar las cifras y poner cuesta arriba las opciones de la Roja.
+
+Con este escenario, las nacionales se volcaron para cambiar la historia, pero no pudieron concretar, especialmente en el último cuarto, donde hubo claras oportunidades de convertir, pero finalmente quedó cerrado el juego en favor de las japonesas por 3 a 0.
+
+Con esto, Chile debe derrotar a Australia si quiere tener alguna opción de avanzar de ronda, en el compromiso que se jugará este miércoles a las 03:30 horas (de nuestro país).
+
+====
+
 categoria: voleibol
 fecha: 2026-08-16
 etiqueta: Mundial - Voleibol
