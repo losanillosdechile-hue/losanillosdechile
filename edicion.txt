@@ -7,4 +7,4 @@
 # ------------------------------------------------------------------
 
 numero: 2
-pdf: descargas/los-anillos-de-chile-edicion-2.pdf
+pdf: descargas/los-anillos-de-chile-edicion-3.pdf

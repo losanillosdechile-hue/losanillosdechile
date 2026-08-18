@@ -141,29 +141,6 @@ El próximo partido de las Diablas será este lunes a las 03:30 horas (de Chile)
 
 ====
 
-categoria: natacion
-fecha: 2026-08-16
-etiqueta: Nacional - Natación
-titulo: Acuasexta, campeón del Nacional de Desarrollo
-bajada: El elenco de la Región de O’Higgins superó en puntaje a casi 40 clubes en el evento desarrollado en el Complejo Kristel Kobrich.
-firma: Por el equipo editorial de Los Anillos de Chile
-portada: no
-texto:
-El club Acuasexta se adjudicó el Campeonato Nacional de Desarrollo de Invierno, que se efectuó este fin de semana en dependencias del Centro Acuático Kristel Kobrich de Ñuñoa.
-
-En la ocasión, jóvenes especialistas de casi 40 clubes a nivel nacional se dieron cita para competir por las diferentes distancias y estilos que comprendió el evento.
-
-El conjunto de la Región de O’Higgns se quedó con el primer lugar tras sumar 318,5 puntos en todas las modalidades donde se hizo presente.
-
-Con ello superó a la Asociación Regional Santiago Unido, que quedó segunda con 302,5 unidades, y tercera fue la Asociación Regional Sur Poniente, con un acumulado de 284 unidades.
-
-Otros de los clubes destacados fueron Universidad Católica, cuarto con 233 unidades, y el Stadio Italiano, quinto con 217 puntos.
-
-El torneo sirvió como presentación para el flamante ministro del Deporte, Francisco Riveros, quien estuvo entregando medallas en algunas categorías.
-
-
-====
-
 categoria: tenis
 fecha: 2026-08-17
 etiqueta: Copa Davis - Tenis
@@ -280,6 +257,38 @@ En la Conferencia Centro, Universidad de Concepción, que el viernes había supe
 
 En la Conferencia Sur, CD Valdivia encabeza con 20 unidades, y lo escoltan Español de Osorno y Ancud, ambos con 18.
 .
+
+====
+
+categoria: editorial
+fecha: 2026-08-17
+etiqueta: Editorial
+titulo: El Sillón de Don Otto
+bajada: “Chile necesita políticas públicas, pero responsables, no en base a cantos de sirena populistas”
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+El deporte es clave para la sociedad chilena. Muchas personas están insertas en este universo, considerando a las familias que acompañan a sus hijos, a los mismos padres que juegan su partido y a los que salen a correr en las calles los fines de semana.
+
+Esto es sólo una muestra, ya que si queremos darle más impacto, hay que considerar los torneos escolares, universitarios, juveniles, los llamados “todo competidor” y, por supuesto, los master.
+
+No sólo es en el contexto de la actividad en sí, sino que también no hay que dejar de lado el impacto social, cómo se interactúa, cómo la gente establece vínculos, y porqué no, algunos hasta forman negocios.
+
+Por eso, llama bastante la atención la propuesta de representantes del Partido Nacional Libertario, que aprovechó el escenario que rodeó la salida de Natalia Duco del Ministerio del Deporte para dar una propuesta que, francamente, más resta que suma.
+
+El sólo hecho de sugerir el cierre del Ministerio del Deporte, una institución que por años se buscó dar forma para que la actividad tuviera un ente público que la respalde, no sólo es no entender todo lo que conlleva, sino que busca validar una visión minimalista que no contribuye a hacer de Chile un país mejor, con una buena calidad de vida.
+
+Creer que por un hecho imprudente hay que cerrar todo, es usar la práctica del sillón de Don Otto.
+
+Por suerte, el mundo deportivo no respaldó esta idea, lo cual se agradece y permite mirar con buenos ojos lo que se espera de los propios atletas.
+
+Además, sin una institucionalidad como el Mindep, las posibilidades de un respaldo gubernamental para albergar macro eventos es baja, y eso genera mucho ruido a nivel internacional.
+
+Claramente es loable buscar maneras de cómo financiar la lucha contra la delincuencia y el crimen organizado, pero sacando plata destinada al deporte para esto, es además, quitarle el paracetamol a una persona resfriada, no tiene mucho sentido.
+
+¡Qué mejor política anti delincuencia que el deporte! Una persona  en una población que se dedica a practicar cualquier actividad en un gimnasio, multicancha o correr en la calle lo saca de las garras de las bandas y pandillas criminales.
+
+Chile necesita políticas públicas, pero responsables, no en base a vuelos de pájaro ni cantos de sirena populistas, y que mucho menos provengan de quienes no construyen nada.
 
 ====
 
