@@ -54,6 +54,43 @@
 #
 # ======================================================================
 
+categoria: basquetbol
+fecha: 2026-08-18
+etiqueta: LNB - Basquetbol
+titulo: Los Leones rugieron para acceder al liderato del Centro
+bajada: El cuadro de Quilpué tuvo destacados resultados frente a Español de Talca y Basket UC y comparte el primer lugar de la Conferencia Centro con U. de Concepción.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+### Liga Nacional de Básquetbol
+
+Los Leones de Quilpué fue el conjunto más destacado en las jornadas de domingo y lunes de la Liga Nacional de Básquetbol, luego de conseguir victorias frente a Español de Talca y Basket UC para acceder al liderato de la Conferencia Centro.
+
+Durante el compromiso ante los hispanos, el conjunto de la Región de Valparaíso fue claro dominador en su casa, consiguiendo irse en ventaja en los tres primeros cuartos. En el primer venció 31 a 9, en el segundo, 23 a 19 y en el tercero 23 a 18.
+
+En el último cuarto, el cuadro talquino buscó estrechar las diferencias, consiguiendo quedarse con la manga por 23 a 19, aunque el resultado final favoreció a los anfitriones por 96 a 69.
+
+Para la jornada del lunes, Los Leones visitaron a Basket UC, conjunto que le dio bastante pelea, principalmente en el primer cuarto, donde los cruzados lograron una ventaja de 18 a 14.
+
+Sin embargo, el cuadro de Quilpué mostró su mejor nivel y revirtió esto en el segundo cuarto, venciendo por 22 a 16. Y pese a que en el tercero ambos elencos igualaron a 22, en el último cuarto, la visita desniveló por 21 a 20, parra quedarse en definitiva con el duelo por 79 a 76.
+
+En la jornada dominical, Puerto Varas dio cuenta de Español de Osorno por 95 a 79, donde mostró clara superioridad en la primera mitad del partido (33 a 22 y 26 a 18 fueron los resultados de los dos primeros cuartos).
+
+En el tercer cuarto, sin embargo, los osorninos buscaron recuperarse y no la tuvieron sencilla, puesto que se quedaron con la manga por 22 a 18, con lo que sólo recortaron diferencias.
+
+El último cuarto mostró una paridad de acciones y la balanza sólo se inclinó para los lacustres por un solo punto (18 a 17), aunque ya había quedado claro el resultado final de 95 a 79.
+
+Uno de los duelos más importantes del lunes, fue el que disputaron Puerto Montt y Deportes Castro, donde el conjunto dueño de casa impuso sus condiciones y dominó en todos los cuartos disputados (18-14, 30, 28, 25-18 y 19, 14). Con ello, el resultado final fue de 92 a 72.
+
+Pero esta jornada también contó con un clásico, ya que Las Ánimas recibieron a CD Valdivia, aunque la visita fue bastante ingrata, ya que el Torreón no dejó dudas en ninguno de los cuartos, superando a su rival por 28-12, 20-15, 28-15 y 24-16, para sellar u definitivo de 90 a 58.
+
+En la Conferencia Centro, Los Leones de Quilpué accedieron al primer lugar, compartiendo este honor con la Universidad de Concepción, sumando ambos 19 unidades cada uno, Puente Alto se encuentra tercero con 15 unidades.
+
+En la Conferencia Sur, CD Valdivia encabeza con 22 unidades, y lo escoltan Español de Osorno con 19 y Ancud con 18.
+
+
+====
+
 categoria: hockey
 fecha: 2026-08-17
 etiqueta: Mundial - Hockey
