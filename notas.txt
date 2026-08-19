@@ -54,6 +54,38 @@
 #
 # ======================================================================
 
+categoria: hockey
+fecha: 2026-08-19
+etiqueta: Mundial - Hockey
+titulo: Un gran partido para cerrar el grupo
+bajada: Las Diablas empataron a 4 tantos con Australia, y no pudieron avanzar a Cuartos de Final del Mundial de Países Bajos y Bélgica. Sin embargo, podrá disputar los puestos de consolación.
+firma: Redacción Los Anillos de Chile
+portada: si
+texto:
+### Mundial de Hockey Países Bajos-Bélgica
+
+La selección chilena de Hockey Césped quedó sin posibilidad de avanzar a los Cuartos de Final del campeonato Mundial que se desarrolla en Países Bajos y Bélgica, luego que empatara a 4 tantos con su similar de Australia.
+
+Para acceder a esta ronda debía superar ampliamente a las oceánicas, y esperar el resultado entre Países Bajos y Japón. Sin embargo, ahora sólo le queda luchar por los puestos de consolación.
+
+El partido tuvo grandes matices de buen juego, pero recién pudo abrirse el marcador a los 24 minutos, por medio de Courtney Schonell. Con ello, las australianas se fueron a la mitad del juego en ventaja.
+
+Sn embargo, el no querer cerrar la fase de grupos sin puntos ni goles incidió en la reacción de las Diablas, ya que en el minuto 33, Laura Muller consiguió empatar el marcador. 
+
+Pero antes de cerrar el tercer cuarto, Abigail Wilson volvió a poner en ventaja a las octavas del mundo – Chile es 13° del ranking-, y se pensaba que las nacionales sólo iban a cosechar derrotas.
+
+No obstante, el último cuarto fue al todo o nada, Y ahí las Diablas no se guardaron nada. Recién empezada la manga, Manuela Urroz igualó las cifras, aunque ese “atrevimiento” lo quiso cobrar Australia, con un tanto de Claire Colwill a los 51.
+
+Las oceánicas pensaban que ya estaba todo ok y que podían incluso tener chance de ganar su grupo, pero Florencia Barros, a los 52, y Fernanda Villagrán, a los 54, dieron vuelta la balanza en favor de las chilenas, que por primera vez en el torneo conseguían estar en ventaja en el marcador.
+
+Este escenario incidió en que las esperanzas nacionales de buscar el milagro de los cuartos de final se hicieran casi realidad… y digo, casi, porque en el último minuto, esto se esfumó luego que Mariah Williams convirtiera el 4 a 4 definitivo.
+
+Tras este resultado, deberán disputar la ronda de clasificación, y con ello la posibilidad de mejorar lo conseguido cuatro años antes, donde quedaron decimoterceras.
+
+En esta fase, comenzarán su travesía el viernes 21 de agosto a las 03:30 horas de Chile con un rival a confirmar, que saldrá del grupo D (puede ser Inglaterra, India o Sudáfrica).
+
+====
+
 categoria: basquetbol
 fecha: 2026-08-18
 etiqueta: LNB - Basquetbol
