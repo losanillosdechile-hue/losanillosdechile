@@ -29,4 +29,5 @@ running     | Running     | #3B4A63 | running.html     |
 ciclismo    | Ciclismo    | #3B4A63 | ciclismo.html    |
 natacion    | Natación    | #3B4A63 | natacion.html    |
 tenis       | Tenis       | #3B4A63 | tenis.html       |
+rugby       | Rugby       | #3B4A63 | rugby.html       |
 hockey      | Hockey      | #1D4E8C | hockey.html      | img/hockey.jpg?v=1
