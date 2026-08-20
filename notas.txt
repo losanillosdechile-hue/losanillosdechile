@@ -86,6 +86,29 @@ En esta fase, comenzarán su travesía el viernes 21 de agosto a las 03:30 horas
 
 ====
 
+categoria: atletismo
+fecha: 2026-08-19
+etiqueta: Internacional - Atletismo
+titulo: Claudio Romero destacó en Finlandia
+bajada: El discóbolo chileno consiguió el primer lugar en el GP Espoo Motonet, desarrollado en Finlandia, con un lanzamiento de 64,64 metros. María Ignacia Montt quedó cuarta en los 100 metros.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+El atleta chileno Claudio Romero ganó la prueba del lanzamiento del disco en el Grand Prix Espoo Motonet, que se desarrolló en Finlandia, lanzando el proyectil a una distancia de 64,64 metros.
+
+En la prueba, el especialista nacional compitió con destacados representantes europeos, como el francés Lolassonn Djouhan y el sueco Jesper Ahlin, además de lo más gramado del atletismo finlandés.
+
+Romero quedó primero con un lanzamiento de 64,64 metros, superando ampliamente a Djouhan, que quedó segundo con 62,20 metros. Tercero fue el sueco Ahlin, con 60,28 metros.
+
+Pero no fue el único en competencia. En las pruebas de pista, María Ignacia Montt participó en los 100 metros planos, cumpliendo u gran papel.
+
+Tras sortear la ronda previa como segunda con 11,58 segundos, lo dio todo en la final, para quedar cuarta con un registro de 11,43 segundos.
+
+En oro en la distancia fue para la local Lottta Kemppinen, con un tiempo de 10,95 segundos. La plata fue para la también finesa Nora Lindahl, con 11,07 segundos, y el bronce para la británica Aleeya Sibbons, con 11,23 segundos.
+
+
+====
+
 categoria: rugby
 fecha: 2026-08-19
 etiqueta: Seven - Rugby
