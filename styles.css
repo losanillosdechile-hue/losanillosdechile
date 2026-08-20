@@ -103,17 +103,18 @@ img{ max-width:100%; display:block; }
 .header-nav{
   border-top:1px solid rgba(241,236,221,0.15);
 }
-.header-nav ul{
+.header-nav-inner{
   max-width:var(--maxw);
   margin:0 auto;
   padding:0 28px;
-  list-style:none;
   display:flex;
-  gap:2px;
-  overflow-x:auto;
+  align-items:stretch;
+  justify-content:space-between;
+  gap:6px;
 }
-.header-nav a{
-  display:block;
+.nav-link{
+  display:flex;
+  align-items:center;
   padding:11px 14px;
   text-decoration:none;
   font-family:"Montserrat",sans-serif;
@@ -124,10 +125,80 @@ img{ max-width:100%; display:block; }
   white-space:nowrap;
   border-bottom:3px solid transparent;
 }
-.header-nav a:hover,
-.header-nav a.active{
+.nav-link:hover,
+.nav-link.active{
   color:#fff;
   border-bottom-color:var(--red);
+}
+.nav-left{ display:flex; align-items:stretch; }
+
+.nav-dropdown{ position:relative; display:flex; }
+.nav-dropdown-toggle{
+  display:flex;
+  align-items:center;
+  gap:6px;
+  padding:11px 14px;
+  background:none;
+  border:none;
+  border-bottom:3px solid transparent;
+  cursor:pointer;
+  font-family:"Montserrat",sans-serif;
+  font-size:0.72rem;
+  letter-spacing:0.09em;
+  text-transform:uppercase;
+  color:#d9d3bd;
+  white-space:nowrap;
+}
+.nav-dropdown-toggle:hover,
+.nav-dropdown-toggle.active{ color:#fff; }
+.nav-dropdown.open .nav-dropdown-toggle{ color:#fff; border-bottom-color:var(--red); }
+.nav-dropdown-toggle .caret{
+  font-size:0.6rem;
+  transition:transform 0.15s ease;
+}
+.nav-dropdown.open .nav-dropdown-toggle .caret{ transform:rotate(180deg); }
+
+.nav-dropdown-menu{
+  position:absolute;
+  top:100%;
+  left:0;
+  min-width:220px;
+  max-height:0;
+  overflow:hidden;
+  opacity:0;
+  visibility:hidden;
+  list-style:none;
+  margin:0;
+  padding:0;
+  background:var(--navy-2);
+  border:1px solid rgba(241,236,221,0.15);
+  border-top:none;
+  box-shadow:0 12px 24px rgba(0,0,0,0.35);
+  z-index:60;
+  transition:opacity 0.15s ease;
+}
+.nav-dropdown.open .nav-dropdown-menu{
+  max-height:70vh;
+  overflow-y:auto;
+  opacity:1;
+  visibility:visible;
+}
+.nav-dropdown-menu a{
+  display:block;
+  padding:11px 16px;
+  text-decoration:none;
+  font-family:"Montserrat",sans-serif;
+  font-size:0.74rem;
+  letter-spacing:0.06em;
+  text-transform:uppercase;
+  color:#d9d3bd;
+  border-left:3px solid transparent;
+}
+.nav-dropdown-menu a:hover,
+.nav-dropdown-menu a.active{
+  color:#fff;
+  background:rgba(241,236,221,0.06);
+  border-left-color:var(--red);
 }
 
 /* ---------- FOOTER ---------- */
@@ -231,15 +302,16 @@ img{ max-width:100%; display:block; }
 }
 .mag-banner .btn{ flex:none; }
 
-.header-nav a.pdf-link{
+.nav-link.pdf-link{
   color:var(--cream);
   border-bottom-color:transparent;
+  align-self:center;
 }
-.header-nav a.pdf-link span{
+.nav-link.pdf-link span{
   border:1px solid rgba(241,236,221,0.4);
   padding:5px 10px;
 }
-.header-nav a.pdf-link:hover span{ border-color:var(--red); color:#fff; }
+.nav-link.pdf-link:hover span{ border-color:var(--red); color:#fff; }
 
 /* ---------- HOME / PORTADA ---------- */
 .cover{
@@ -652,6 +724,10 @@ img{ max-width:100%; display:block; }
 /* responsive */
 @media (max-width:860px){
   .header-meta{ display:none; }
+  .header-nav-inner{ padding:0 14px; }
+  .nav-link{ padding:11px 8px; font-size:0.68rem; }
+  .nav-dropdown-toggle{ padding:11px 8px; font-size:0.68rem; }
+  .nav-dropdown-menu{ left:auto; right:0; min-width:200px; }
   .mag-banner .wrap{ flex-direction:column; align-items:flex-start; }
   .footer-grid{ grid-template-columns:1fr; gap:32px; }
   .card-grid{ grid-template-columns:1fr; }

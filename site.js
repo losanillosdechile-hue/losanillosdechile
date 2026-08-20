@@ -197,15 +197,52 @@
 
   /* ---------- NAV (header) ---------- */
   function renderNav(active) {
-    var ul = document.getElementById("nav-list");
-    if (!ul) return;
-    var html = "";
-    html += '<li><a href="index.html"' + (active === "index" ? ' class="active"' : '') + '>Portada</a></li>';
-    CATEGORIES.forEach(function (cat) {
-      html += '<li><a href="' + cat.page + '"' + (active === cat.slug ? ' class="active"' : '') + '>' + cat.label + "</a></li>";
+    var homeLink = document.getElementById("nav-home-link");
+    if (homeLink) {
+      if (active === "index") homeLink.classList.add("active");
+      else homeLink.classList.remove("active");
+    }
+
+    var menu = document.getElementById("nav-cats-menu");
+    var isCategoryActive = active !== "index";
+    if (menu) {
+      var html = "";
+      CATEGORIES.forEach(function (cat) {
+        html += '<li><a href="' + cat.page + '"' + (active === cat.slug ? ' class="active"' : '') + '>' + cat.label + "</a></li>";
+      });
+      menu.innerHTML = html;
+    }
+
+    var toggle = document.getElementById("nav-dropdown-toggle");
+    if (toggle) {
+      if (isCategoryActive) toggle.classList.add("active");
+      else toggle.classList.remove("active");
+    }
+
+    var pdfLink = document.getElementById("nav-pdf-link");
+    if (pdfLink) pdfLink.href = EDICION_PDF;
+
+    setupDropdown();
+  }
+
+  var dropdownWired = false;
+  function setupDropdown() {
+    if (dropdownWired) return;
+    var dropdown = document.getElementById("nav-dropdown");
+    var toggle = document.getElementById("nav-dropdown-toggle");
+    if (!dropdown || !toggle) return;
+    dropdownWired = true;
+
+    toggle.addEventListener("click", function (e) {
+      e.stopPropagation();
+      dropdown.classList.toggle("open");
     });
-    html += '<li><a href="' + EDICION_PDF + '" class="pdf-link" target="_blank" rel="noopener"><span>Revista PDF</span></a></li>';
-    ul.innerHTML = html;
+    document.addEventListener("click", function (e) {
+      if (!dropdown.contains(e.target)) dropdown.classList.remove("open");
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") dropdown.classList.remove("open");
+    });
   }
 
   /* ---------- FOOTER ---------- */
@@ -306,6 +343,10 @@
       var readBtn = document.getElementById("cover-read-btn");
       if (readBtn && heroCat) readBtn.href = heroCat.page;
     }
+
+    var latestEditorial = latestArticleFor("editorial");
+    var editorialTitleEl = document.getElementById("cover-editorial-title");
+    if (editorialTitleEl && latestEditorial) editorialTitleEl.textContent = latestEditorial.title;
 
     var grid = document.getElementById("card-grid");
     if (grid) {

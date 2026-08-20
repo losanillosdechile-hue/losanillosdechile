@@ -21,7 +21,16 @@
     <div class="header-meta">Revista polideportiva chilena<br><span id="edition-meta"></span></div>
   </div>
   <nav class="header-nav">
-    <ul id="nav-list"></ul>
+    <div class="header-nav-inner">
+      <div class="nav-left">
+        <a href="index.html" id="nav-home-link" class="nav-link">Portada</a>
+        <div class="nav-dropdown" id="nav-dropdown">
+          <button type="button" class="nav-dropdown-toggle" id="nav-dropdown-toggle">Categorías <span class="caret">▾</span></button>
+          <ul class="nav-dropdown-menu" id="nav-cats-menu"></ul>
+        </div>
+      </div>
+      <a href="#" id="nav-pdf-link" class="nav-link pdf-link" target="_blank" rel="noopener"><span>Revista PDF</span></a>
+    </div>
   </nav>
 </header>
 
@@ -32,7 +41,7 @@
     <p class="cover-deck" id="cover-deck"></p>
     <div class="cover-actions">
       <a href="#" id="cover-read-btn" class="btn primary">Leer nota principal →</a>
-      <a href="editorial.html" class="btn">Editorial: había que regresar</a>
+      <a href="editorial.html" id="cover-editorial-btn" class="btn">Editorial: <span id="cover-editorial-title"></span></a>
     </div>
   </div>
 </section>
