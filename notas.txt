@@ -86,8 +86,26 @@ En esta fase, comenzarán su travesía el viernes 21 de agosto a las 03:30 horas
 
 ====
 
+categoria: natación
+fecha: 2026-08-20
+etiqueta: Mundial Piscina Corta - Natación
+titulo: Ardiles y Lazzerini, a China
+bajada: Los nadadores fueron nominados tras conseguir la marca B para acceder al Mundial de Natación Piscina Corta de Beijing.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+Los nadadores Elías Ardiles y Mariano Lazzerini fueron nominados para representar a Chile en el Campeonato Mundial World Aquatics de Piscina Corta, que se desarrollará en Beijing, China, entre los días 1 y 6 de diciembre de 2026.
+
+Los especialistas consiguieron su cupo en virtud de sus marcas en el FIISU America Games de Lima y en el Pan-Am Aquatics Swimming Championships de Ibagué (Colombia), respectivamente.
+
+En el caso de Ardiles, en la prueba de 100 metros mariposa del certamen limeño registró una marca de 52,54 segundos.
+
+A su vez, Lazzerini marcó 27,80 segundos en los 50 metros pecho en el certamen colombiano.
+
+====
+
 categoria: atletismo
-fecha: 2026-08-19
+fecha: 2026-08-20
 etiqueta: Internacional - Atletismo
 titulo: Claudio Romero destacó en Finlandia
 bajada: El discóbolo chileno consiguió el primer lugar en el GP Espoo Motonet, desarrollado en Finlandia, con un lanzamiento de 64,64 metros. María Ignacia Montt quedó cuarta en los 100 metros.
