@@ -86,7 +86,7 @@ En esta fase, comenzarán su travesía el viernes 21 de agosto a las 03:30 horas
 
 ====
 
-categoria: natación
+categoria: natacion
 fecha: 2026-08-20
 etiqueta: Mundial Piscina Corta - Natación
 titulo: Ardiles y Lazzerini, a China
