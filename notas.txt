@@ -55,6 +55,36 @@
 # ======================================================================
 
 categoria: hockey
+fecha: 2026-08-21
+etiqueta: Mundial - Hockey
+titulo: Chile sufrió duro traspié con Inglaterra
+bajada: Las Diablas cayeron 4 a 1 ante las inglesas en la ronda de consolación del Mundial, pese a comenzar convirtiendo. Ahora, deberá enfrentarse con Sudáfrica.
+firma: Redacción Los Anillos de Chile
+portada: si
+texto:
+### Mundial de Hockey Países Bajos-Bélgica
+
+La selección chilena femenina cayó por 4 a 1 ante Inglaterra, por el primer partido del Grupo G, correspondiente a la Ronda de Consolación del Mundial de Hockey de Países Bajos y Bélgica.
+
+El resultado fue complejo, considerando que las Diablas abrieron el marcador, por intermedio de Paula Valdivia, a los 3 minutos de juego.
+
+Sin embargo, la ventaja duró muy poco, luego que un minuto más tarde Lily Walker convirtiera el empate por medio de un penal esquinado, y sin opciones para la portera Natalia Salvador.
+
+En el segundo cuarto, Inglaterra buscó marcar la diferencia y precisamente Darcy Bourne, a los 28 y 29 minutos, resolvió para dejar las cosas 3 a 1 en favor de las europeas.
+
+Si bien en el tercer cuarto hubo algunas opciones por parte de las británicas para incrementar la ventaja, mediante córneres cortos, estas no dieron sus frutos. 
+
+En la última parte, Inglaterra estuvo cerca de convertir en el minuto 53, mediante un lanzamiento penal, pero Salvador lo contuvo.
+
+Posteriormente, la golera dejó su puesto para una jugadora de campo y a falta de 3 minutos y medio, Lottie Bingham aprovechó este escenario para anotar el 4 a 1 definitivo.
+
+Con esto, y sumando la derrota con Japón en la primera fase, Chile quedó sin opciones de mejorar su rendimiento del último Mundial, en 2022, donde quedó 13ro y tendrá que medirse este domingo ante Sudáfrica (04:00 hora chilena) para determinar el próximo compromiso de consolación.
+
+De quedar terceras en el grupo, las Diablas lucharán por los puestos 13° y 14°, y si quedan cuartas, lucharán por los lugares 15° y 16°.
+
+====
+
+categoria: hockey
 fecha: 2026-08-19
 etiqueta: Mundial - Hockey
 titulo: Un gran partido para cerrar el grupo
@@ -83,6 +113,74 @@ Este escenario incidió en que las esperanzas nacionales de buscar el milagro de
 Tras este resultado, deberán disputar la ronda de clasificación, y con ello la posibilidad de mejorar lo conseguido cuatro años antes, donde quedaron decimoterceras.
 
 En esta fase, comenzarán su travesía el viernes 21 de agosto a las 03:30 horas de Chile con un rival a confirmar, que saldrá del grupo D (puede ser Inglaterra, India o Sudáfrica).
+
+====
+
+categoria: basquetbol
+fecha: 2026-08-21
+etiqueta: Clasificatorias - Basquetbol
+titulo: EE.UU. ya tiene a sus jugadores para el duelo contra Chile
+bajada: En la nómina destaca el base Mike James, quien milita en Mónaco en Francia..
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+La escuadra de Estados Unidos dio a conocer la nómina de 12 jugadores que toman parte de la ventana FIBA en agosto, donde disputarán las clasificatorias al Mundial de Catar 2027, con partidos ante Chile y Colombia.
+
+En la lista, destacan ocho integrantes que militan fuera de as ligas norteamericanas, siendo el más destacado Mike James, quien milita en Mónaco en Francia.
+
+Terry Stotts, exentrenador de Milwaukee Bucks y Portland Trail Blazers, será quien dirija al plantel. Su última experiencia fue asistir a Steve Kerr en Golden State Warriors la última temporada.
+
+Cabe recordar que la selección chilena se medirá ante el elenco de las barras y las estrellas este 37 e agosto en el Centro de Deportes Colectivos del Estadio Nacional, y el 31 del presente se medirá ante República Dominicana en Santo Domingo.
+
+A su vez, los estadounidenses luego del periplo en Santiago, enfrentarán a Colombia en Washington el 31 de agosto.
+
+La nómina de EE.UU. es la siguiente: 
+
+Mike James, base (Anadolu Efes, Turquía)
+
+Darius Brown II, base/escolta (Cleveland Chargue, G-League)
+
+Dejon Jarreau, escolta (agente libre)
+
+Kevon Harris, escolta/alero (Xinjiang Flying Tigers, China)
+
+Cole Swider, ala pívot (agente libre)
+
+Pedro Bradshaw, escolta/alero (Maine Celtics, G-League)
+
+James Nunnally, alero (AEK Atenas, Grecia)
+
+Dillon Jones, alero (Nueva York Knicks, NBA)
+
+Jaron Blossomgame. alero/ala pívot (Mónaco, Francia)
+
+Tyler Smith, ala pívot (Dallas Mavericks, NBA)
+
+Garrison Brooks, pívot (Birmingham Squadron, G-League)
+
+Orlando Robinson, pívot (Memphis Hustle, G-League)
+
+
+====
+
+categoria: ciclismo
+fecha: 2026-08-21
+etiqueta: Copa del Mundo MTB - Ciclismo
+titulo: Martín Vidaurre, top 10 en Les Gets
+bajada: El especialista chileno del Mountain Bike finalizó noveno en la short track de la categoría Elite de la Copa del Mundo UCI en Les Gets, Francia. 
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+El chileno Martín Vidaurre finalizó en el noveno puesto en la categoría Elite Masculina de la short track MTB de la Copa del Mundo UCI que se desarrolló en Les Gets, Francia.
+
+El nacional tuvo una gran actuación, manteniéndose en el circuito, que comprendió 9 vueltas, siempre en los puestos de avanzada.
+
+La carrera la completó con un tiempo de 23 minutos 3 segundos, a 31 segundos del ganador de la prueba, el francés Adrien Boichis. La plata fue para el también galo Luca Martin y el bronce para el alemán David List.
+
+Por su parte, en la prueba Elite Femenina, Catalina Vidaurre finalizó en el puesto 35° en la prueba que fue ganada por la suiza Sina Frei, seguida por la sueca Jenny Rissveds y la norteamericana Savilia Blunk.
+
+A su vez, en la Categoría U23 Femenina, Florencia Monsálvez quedó décimo octava, en la carrera en que quedó con el oro la italiana Valentina Corvi, seguida por la suiza Monique Halter y la también helvética Anina Hutter.
+
 
 ====
 
