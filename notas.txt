@@ -116,6 +116,31 @@ En esta fase, comenzarán su travesía el viernes 21 de agosto a las 03:30 horas
 
 ====
 
+categoria: atletismo
+fecha: 2026-08-21
+etiqueta: Mundial Master - Atletismo
+titulo: Destacado debut nacional en Daegu
+bajada: La delegación chilena comenzó su participación en el Campeonato Mundial de Atletismo Master, que se desarrolla en Daegu (Corea del Sur).
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+Chile comenzó su participación en la primera jornada del Campeonato Mundial de Atletismo Master, que se desarrolla en Daegu (Corea del Sur), con varios atletas destacando en las diferentes competencias.
+
+Sin duda, lo más sobresaliente fue el séptimo lugar de Bárbara Tapia en el lanzamiento del martillo W50, quedando en el séptimo lugar con u registro de 35,01 metros.
+
+La prueba fue ganada por la alemana Bettina Schardt, con 46,33 metros, seguida de la finlandesa Marju Kiri, con 46,05 metros, y por la suiza Jasmin Schorno, con 45,13 metros.
+
+Otro de los resultados sobresalientes fue el Oscar Sotomayor, quien avanzó a las semifinales de los 100 metros M70, tras quedar tercero en su serie con un tiempo de 14,12 segundos.
+
+Asimismo, en los 3.000 metros con obstáculos Renato Orellana finalizó sexto en la prueba con un tiempo de 15:03,62. El oro fue para el español José Ramón Arredondo, con 10:57.38, la plata para el australiano Andrew Evans, con 11:11.16, y el bronce para el también hispano Albert Casals, con 11:22.32.
+
+Hoy también dijeron presente en los 100 metros los atletas Pablo Ramírez y Claudio Reyes, en la categoría M45, quedando cuarto y sexto en sus respectivas series con 12,76 y 13,35, y José Luis López, en la categoría M40, quien terminó sexto en su ronda con 13,80 segundos. En estos casos, no pudieron avanzar a semifinales.
+
+El evento se desarrolla hasta el 3 de septiembre.
+
+
+====
+
 categoria: basquetbol
 fecha: 2026-08-21
 etiqueta: Clasificatorias - Basquetbol
