@@ -191,6 +191,31 @@ La campeona panamericana de 400 metros se presentó a la cita con un crono de 36
 
 ====
 
+categoria: ciclismo
+fecha: 2026-08-23
+etiqueta: Copa del Mudo MTB - Ciclismo
+titulo: Martín Vidaurre, bronce en Les Gets
+bajada: El ciclista nacional fue tercero en la prueba de Cross Country Olímpico de la Copa del Mudo de Les Gets.
+firma: Redacción Los Anillos de Chile
+portada: Si
+texto:
+El ciclista chileno Martín Vidaurre consiguió la medalla de bronce en la prueba de Cross Country Olímpico (XCO) de la Copa del Mundo de Les Gets (Francia), disputada este domingo.
+
+El nacional desde un comienzo se apegó al pelotón de los favoritos, donde destacaban los franceses Adrien Boichis, Luca Martin y el neerlandés Mathieu Van Der Poel, moviéndose entre el quinto y sexto lugar.
+
+Ya en la sexta vuelta (de ocho que contemplaba la prueba), Vidaurre acechaba el podio con un expectante cuarto puesto y en la última vuelta, esperó atacar a Luca Martin, quien hizo el esfuerzo en gran parte de la carrera.
+
+Además, debía sostener el ritmo, ya que el italiano Simone Avondetto estaba quinto y no se le despegaba.
+
+Al final, Vidaurre y Martin tuvieron un duelo palmo a palmo para atacar el podio, que a metros de la meta se resolvió en favor del chileno.
+
+La carrera fue ganada por el francés Adrien Boichins con un tiempo de 01:19:48, segundo el neerlandés Van Der Poel, con 1:9:55 y tercero Vidaurre con 1:20:20.
+
+El próximo desafío del nacional es el Mundial de Val di Sole, en Italia, que parte la próxima semana.
+
+
+====
+
 categoria: atletismo
 fecha: 2026-08-23
 etiqueta: Mundial Master - Atletismo
