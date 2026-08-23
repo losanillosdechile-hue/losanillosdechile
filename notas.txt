@@ -224,7 +224,7 @@ bajada: El atleta chileno Óscar Sotomayor finalizó undécimo tras las semifina
 firma: Redacción Los Anillos de Chile
 portada: no
 texto:
-El atleta chileno óscar Sotomayor finalizó en el undécimo puesto tas desarrollarse las semifinales de los 100 metros masculinos M70 del Mundial de Atletismo Master de Daegu (Corea del Sur).
+El atleta chileno Óscar Sotomayor finalizó en el undécimo puesto tas desarrollarse las semifinales de los 100 metros masculinos M70 del Mundial de Atletismo Master de Daegu (Corea del Sur).
 
 El nacional completó el hectómetro con un tiempo de 14,25 segundos, un poco más bajo que en las series, pero le permitió para quedar sexto en la ronda semifinal.
 
