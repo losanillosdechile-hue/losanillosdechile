@@ -197,7 +197,7 @@ etiqueta: Copa del Mudo MTB - Ciclismo
 titulo: Martín Vidaurre, bronce en Les Gets
 bajada: El ciclista nacional fue tercero en la prueba de Cross Country Olímpico de la Copa del Mudo de Les Gets.
 firma: Redacción Los Anillos de Chile
-portada: Si
+portada: Sí
 texto:
 El ciclista chileno Martín Vidaurre consiguió la medalla de bronce en la prueba de Cross Country Olímpico (XCO) de la Copa del Mundo de Les Gets (Francia), disputada este domingo.
 
