@@ -142,13 +142,44 @@ En esta fase, comenzarán su travesía el viernes 21 de agosto a las 03:30 horas
 
 ====
 
+categoria: hockey
+fecha: 2026-08-24
+etiqueta: Mundial - Hockey
+titulo: Chile cayó, pero luchó ante Sudáfrica
+bajada: Las Diablas si bien comenzaron arriba en el marcador, no pudieron ante la efectividad de Sudáfrica y terminaron cayendo 3 a 2.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+### Mundial de Hockey Países Bajos-Bélgica
+
+La selección chilena de hockey femenino cerró su participación en el grupo G del Mundial de Países Bajos y Bélgica tras caer este domingo ante su similar de Sudáfrica por 3 a 2.
+
+Las Diablas tuvieron un buen comienzo, de hecho, abrieron el marcador por intermedio de un córner corto convertido por Fernanda Arrieta a los 12 minutos. 
+
+Ya había tenido dos córneres cortos previos a este, por lo que el juego se mostraba más predominante para las nacionales ante una Sudáfrica que sólo había tenido una chaca similar en el primer cuarto.
+
+El segundo cuarto, sin embargo, tuvo más acciones de peligro al final, y es ahí donde las sudafricanas lograron igualar las cifras, por intermedio de Edith Molikoe, en el minuto 21. 
+
+De ahí, las chilenas acusaron el golpe y fueron a buscar la ventaja, pero ya finalizado el cuarto, no se pudo conseguir luego de tres córneres cortos consecutivos a su favor.
+
+En el tercer cuarto, las sudafricanas aprovecharon la contra de un córner corto chileno y dieron vuelta las cifras a su favor con una anotación de Ntsopa Mokoena, a los 34 minutos.
+
+La efectividad de las rivales se vio reflejada también en el último cuarto, cuando Caylin Maree, a los 47 minutos, ampliara las cifras 3 a 1. Sin embargo, Simone Avelli, tres minutos después descontó para dejar todo 3 a 2, resultado que a la postre fue el definitivo.
+
+Ahora, las chilenas, que quedaron cuartas en el grupo G luego de las derrotas ante Inglaterra y Sudáfrica (el otro equipo de la serie era Japón, pero se contabilizó el triunfo asiático en primera ronda), deberán esperar a su rival, que saldrá de la cuarta del grupo H (Estados Unidos, Nueva Zelanda, Irlanda y Escocia). 
+
+El compromiso por los puestos 15° y 16° se llevará a cabo el jueves a las 05:00 (hora chilena).
+.
+
+====
+
 categoria: atletismo
 fecha: 2026-08-23
 etiqueta: Diamond League - Atletismo
 titulo: Martina Weil, tercera en Silesia con PB
 bajada: La especialista nacional en pista finalizó tercera en la prueba de 300 metros de la Diamond League disputada en Silesia, Polonia.
 firma: Redacción Los Anillos de Chile
-portada: no
+portada: si
 texto:
 La atleta chilena Martina Weil finalizó tercera en la prueba de los 300 metros planos en la Diamond League que se desarrolló este domingo en Silesia, Polonia, al cruzar la meta en 36,16 segundos, consiguiendo además su mejor marca en la distancia.
 
