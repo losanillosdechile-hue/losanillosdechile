@@ -54,6 +54,32 @@
 #
 # ======================================================================
 
+categoria: basquetbol
+fecha: 2026-08-22
+etiqueta: Internacional - Basquetbol
+titulo: Gran apronte previo a las clasificatorias
+bajada: La selección chilena de básquetbol tuvo un duro apronte para su compromiso clasificatorio ante Estados Unidos, cayendo este sábado ante Bahamas por 94 a 87.
+firma: Redacción Los Anillos de Chile
+portada: si
+texto:
+La selección chilena de básquetbol masculina tuvo un fuerte apronte de cara a su compromiso clasificatorio ante Estados Unidos, luego de caer este sábado ante su similar de Bahamas por 94 a 87, en partido disputado en el Centro de Deportes Colectivos del Estadio Nacional.
+
+Los dirigidos por Manuel Córdova se pararon ante un cuadro caribeño que apeló bastante a su juego físico y al aprovechamiento de los tiros de 3, lo que les permitió manejar las acciones del juego en gran parte del mismo.
+
+Sin embargo, Chile apeló a un juego más sólido en la zona y con buen trabajo colectivo, lo que ayudó a que el marcador no se disparara en favor de los bahameños. De hecho, en el primer cuarto cayeron por 19 a 30.
+
+En el segundo cuarto, la tónica no varió mucho, aunque ya la visita acrecentó su conversión en la zona de 3, apelando a un plantel con gran despliegue y manejo de cancha. Esto le permitió cerrar la primera mitad del encuentro por 54 a 40.
+
+Esto reflejó además que el conjunto nacional si bien sufrió con el juego caribeño, se las arregló para mantener la dinámica y que las cifras no se escaparan. De hecho, sólo la diferencia era de 14 puntos.
+
+El tercer cuarto fue más favorable al conjunto de Manu Córdova. Supo controlar el juego, aprovechó los rebotes y por supuesto pudo cerrar en ventaja la manga 25 a 24, estrechando en parte el global a un 65 a 78.
+
+En la última parte, Chile mostró gran nivel y los bahameños tuvieron que controlar ese ímpetu con los minutos técnicos y buscando el error local en los lanzamientos. El mejor juego de la Roja -que incluso estuvo a dos triples de empatar- se reflejó en el parcial, que fue de 22 a 16, estrechando a 7 puntos el marcador final de 94 a 87.
+
+Ahora, los esfuerzos se centrarán en llegar de la mejor forma para el compromiso del jueves ante Estados Unidos, también en el recinto Ñuñoíno, y que abre los fuegos de la segunda ronda clasificatoria para el Mundial de Catar 2027. 
+
+====
+
 categoria: hockey
 fecha: 2026-08-21
 etiqueta: Mundial - Hockey
@@ -117,7 +143,7 @@ En esta fase, comenzarán su travesía el viernes 21 de agosto a las 03:30 horas
 ====
 
 categoria: atletismo
-fecha: 2026-08-21
+fecha: 2026-08-22
 etiqueta: Mundial Master - Atletismo
 titulo: Destacado debut nacional en Daegu
 bajada: La delegación chilena comenzó su participación en el Campeonato Mundial de Atletismo Master, que se desarrolla en Daegu (Corea del Sur).
