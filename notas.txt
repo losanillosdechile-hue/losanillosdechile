@@ -217,7 +217,7 @@ categoria: running
 fecha: 2026-08-23
 etiqueta: Media Maratón de Buenos Aires - Running
 titulo: Silva y Bugueño, chilenos destacados en Buenos Aires
-bajada: Matías Silva (11°) y Manuela Burgueño (293°) fueron los mejores representantes chilenos en la Media Maratón de Buenos Aires.
+bajada: Matías Silva (11°) y Manuela Bugueño (293°) fueron los mejores representantes chilenos en la Media Maratón de Buenos Aires.
 firma: Redacción Los Anillos de Chile
 portada: No
 texto:
