@@ -143,6 +143,24 @@ En esta fase, comenzarán su travesía el viernes 21 de agosto a las 03:30 horas
 ====
 
 categoria: atletismo
+fecha: 2026-08-23
+etiqueta: Diamond League - Atletismo
+titulo: Martina Weil, tercera en Silesia con PB
+bajada: La especialista nacional en pista finalizó tercera en la prueba de 300 metros de la Diamond League disputada en Silesia, Polonia.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+La atleta chilena Martina Weil finalizó tercera en la prueba de los 300 metros planos en la Diamond League que se desarrolló este domingo en Silesia, Polonia, al cruzar la meta en 36,16 segundos, consiguiendo además su mejor marca en la distancia.
+
+En la carrera, siempre se mantuvo en los puestos de avanzada, palmo a palmo con la checa Lurdes Manuel, quien finalmente se quedó con la carrera con un tiempo de 35,76 segundos.
+
+Detrás de la ganadora quedó la británica Charlotte Henrich, con 35,92 segundos, mientras que Weil llegó tercera con 36,16 y cuarta la estadounidense Alexis Holmes, con 36,18, con quien cruzó la línea final en una llegada muy cerrada.
+
+La campeona panamericana de 400 metros se presentó a la cita con un crono de 36,65 segundos, por lo que mejoró bastante ese registro en la carrera de hoy.
+
+====
+
+categoria: atletismo
 fecha: 2026-08-22
 etiqueta: Mundial Master - Atletismo
 titulo: Destacado debut nacional en Daegu
