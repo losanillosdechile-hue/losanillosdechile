@@ -191,13 +191,58 @@ La campeona panamericana de 400 metros se presentó a la cita con un crono de 36
 
 ====
 
+categoria: triatlon
+fecha: 2026-08-23
+etiqueta: Internacional - Triatlon
+titulo: Riveros y Mendoza, lo más sobresaliente en Lima
+bajada: Los triatletas chilenos destacaron en la Americas Triathlon Cup de Lima, quedando cuartos en las categorías Elite en damas y varones, respectivamente.
+firma: Redacción Los Anillos de Chile
+portada: No
+texto:
+Bárbara Riveros y Mateo Mendoza fueron los más destacados de la participación chilena en la Americas Triathlon Cup de Lima, que se desarrolló este fin de semana, luego que quedar cuartos en sus categorías Elite Femenina y Masculina, respectivamente.
+
+Riveros completó las pruebas de nado, ciclismo y trote en un tiempo de 01:01:11, a 1:19 detrás de la norteamericana Faith Duncan, quien se quedó con el oro en tierras limeñas.
+
+La otra chilena que participó fue Rafaela Capó, quien quedó octava con u tiempo de 01:02:57.
+
+Por su parte, Mateo Mendoza completó su labor en la prueba masculina con un registro de 00:54:01, a 39 segundos del ganador de la prueba, el estadounidense Carter Stuhlmacher.
+
+Otros chilenos participantes fueron Andrés Gras, 13° con 00:54:34; Raimundo San Martín, 31° con 00:56:29; Enrique Pau, 36° con 00:57:05; y Mateo Silva, 44° con 01:03:31.
+
+Por su parte, en la carrera Junior, Max Bobadilla se quedó con la medalla de plata, seguido muy de cerca por Tomás Maza, quien terminó en el cuarto puesto. Además, Agustín Parada, finalizó en la 14ª posición.
+
+====
+
+categoria: running
+fecha: 2026-08-23
+etiqueta: Media Maratón de Buenos Aires - Running
+titulo: Silva y Bugueño, chilenos destacados en Buenos Aires
+bajada: Matías Silva (11°) y Manuela Burgueño (293°) fueron los mejores representantes chilenos en la Media Maratón de Buenos Aires.
+firma: Redacción Los Anillos de Chile
+portada: No
+texto:
+Matías Silva y Manuela Bugueño fueron los representantes chilenos más destacados en la Media Maratón de Buenos Aires que se desarrolló este fin de semana en la capital trasandina.
+
+En varones, Silva completó la distancia en el undécimo puesto con un tiempo de 1 hora 3 minutos 45 segundos, siendo además el cuarto mejor latinoamericano en la prueba.
+
+Asimismo, en la competencia se batió el récord mundial de los 21,095 kilómetros, de la mano del etíope Yomif Kejelcha, quien cruzó la meta en 56 minutos 51 segundos. También, el nacional fue el cuarto latinoamericano en la competencia.
+
+El segundo mejor chileno en la carrera fue Daniel Cortés (33° en la general), con 1 hora 6 minutos 8 segundos, mientras que el tercero fue Sebastián Cordero (79°), con 1 hora 9 minutos 53 segundos.
+
+Por su parte, en damas, Manuela Bugueño fue la mejor chilena (293° en la general), al completar la media maratón en un tiempo de 1 hora 17 minutos 38 segundos.
+
+El “podio chileno” lo completan Ingrid Galloso (300°) con 1 hora 18 minutos 33 minutos, y Camila Ugarte (673°) con 1 hora 24 minutos 19 segundos.
+
+
+====
+
 categoria: ciclismo
 fecha: 2026-08-23
 etiqueta: Copa del Mudo MTB - Ciclismo
 titulo: Martín Vidaurre, bronce en Les Gets
 bajada: El ciclista nacional fue tercero en la prueba de Cross Country Olímpico de la Copa del Mudo de Les Gets.
 firma: Redacción Los Anillos de Chile
-portada: Sí
+portada: sí
 texto:
 El ciclista chileno Martín Vidaurre consiguió la medalla de bronce en la prueba de Cross Country Olímpico (XCO) de la Copa del Mundo de Les Gets (Francia), disputada este domingo.
 
