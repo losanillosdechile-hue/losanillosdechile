@@ -262,6 +262,33 @@ El próximo desafío del nacional es el Mundial de Val di Sole, en Italia, que p
 ====
 
 categoria: atletismo
+fecha: 2026-08-24
+etiqueta: Mundial Master - Atletismo
+titulo: Alejandra Tapia, plata en el martillo
+bajada: La lanzadora de martillo Alejandra Tapia consiguió la primera medalla para Chile en el Mundial de Atletismo Master de Daegu, tras quedar segunda en la prueba de la categoría M55.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+La chilena Alejandra Tapia consiguió la primera presea para el país en el Campeonato Mundial de Atletismo de Daegu, luego que quedar segunda en el lanzamiento de martillo categoría W55.
+
+La especialista alcanzó el podio con un registro de 40,82 metros, detrás de la luxemburguesa Mireille Kosmala, oro con 42,48, y sobre la ucraniana Svitlana Sorochhuk, bronce con 36,72 metros.
+
+En la misma prueba, la chilena María Alejandra Tapia quedó décima, con un registro de 28,40 metros.
+
+La jornada también entregó cuatro pasajes a las finales para atletas chilenos. La primera fue por parte de Juan Jaque, quien quedó tercero en su serie de 800 metros M55, con un tiempo de 2:16,76.
+
+También, en la prueba de 100 metros femenino W40, Mariela Sepúlveda quedó cuarta, con un tiempo de 13,05 segundos, accediendo también a la instancia decisiva.
+
+Otros pasajes a la final se dieron en representantes de la misma prueba y categoría, ya que Nicolás Cornejo y David Escobar avanzaron a la lucha por las medallas en los 800 metros M35, con registros de 2:00,98 (1ro en su serie) y 2:06,04 (8vo en su serie), respectivamente.
+
+El día también destacó con el paso a semifinales de Magdalena Rosenfeld, quien quedó segunda en su serie de 100 metros W45, con 13,13 segundos.
+
+En otros resultados, Paula Torres alcanzó el undécimo puesto en el lanzamiento del disco W40, con un registro de 18,58 metros, y Renato Orellana fue 17° en el salto largo M55, con una distancia de 4,39 metros.
+
+
+====
+
+categoria: atletismo
 fecha: 2026-08-23
 etiqueta: Mundial Master - Atletismo
 titulo: Sotomayor, 11° del Mundo
