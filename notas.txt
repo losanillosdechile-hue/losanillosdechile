@@ -265,7 +265,7 @@ categoria: atletismo
 fecha: 2026-08-24
 etiqueta: Mundial Master - Atletismo
 titulo: Alejandra Tapia, plata en el martillo
-bajada: La lanzadora de martillo Alejandra Tapia consiguió la primera medalla para Chile en el Mundial de Atletismo Master de Daegu, tras quedar segunda en la prueba de la categoría M55.
+bajada: La lanzadora de martillo Alejandra Tapia consiguió la primera medalla para Chile en el Mundial de Atletismo Master de Daegu, tras quedar segunda en la prueba de la categoría W55.
 firma: Redacción Los Anillos de Chile
 portada: no
 texto:
