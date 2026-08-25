@@ -1,0 +1,36 @@
+name: Publicar notas nuevas en Instagram
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "notas.txt"
+  workflow_dispatch: {}
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Publicar notas nuevas en Instagram
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: node scripts/post-to-instagram.js
+
+      - name: Guardar el registro de publicaciones
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add instagram-posted.json
+          git diff --staged --quiet || git commit -m "Actualiza registro de publicaciones en Instagram [skip ci]"
+          git push
