@@ -751,6 +751,42 @@ En la Conferencia Sur, CD Valdivia encabeza con 20 unidades, y lo escoltan Espa�
 ====
 
 categoria: editorial
+fecha: 2026-08-25
+etiqueta: Editorial
+titulo: ¿HAY RECAMBIOS?
+bajada: “La misión ahora es mantener este entusiasmo con nuevos talentos, enriquecer la competencia local y por supuesto, tener mayor roce internacional.”
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+En el último tiempo, Chile ha contado con grandes equipos en diversas disciplinas. De hecho, el Rugby (Los Cóndores) y el Hockey (Las Diablas) tienen representantes yendo a Mundiales.
+
+El asunto es que ya están tomando presencia en su segundo mundial consecutivo. Y es ahí donde cabe analizar algunas cosas.
+
+¿Estos procesos son suficientes? ¿Hay un despegue real de las actividades?
+
+Todo hace pensar que así es. Pero, en virtud de la campaña de las Diablas en el último Mundial, el recambio puede darse, quizás no con el ímpetu del debut en torneos de alto vuelo.
+
+Hay rodaje, los equipos poderosos buscan competir con los chilenos en estas disciplinas, ya no son parte de una alternativa B, C o D.
+
+De hecho, tiempo atrás equipos de primer orden buscaron jugar con Los Cóndores una serie de test match. El problema: los recursos para sacar adelante estos desafíos.
+
+Mucho tiempo se habló de falta de recursos, que el Gobierno debiera meter más aporte, pero hoy, con una institucionalidad más sólida, independiente del reciente cambio de ministro, el problema pasa más por si el talento que hay alcanza.
+
+Me inclino a pensar que sí, y seguramente las propias federaciones hacen lo mismo. Hay apuestas grandes, a soñar alto. El voleibol, por ejemplo, está en eso, y hasta se trajo un Mundial al país.
+
+ Si hay instituciones sólidas, federaciones que buscan sacar adelante grandes desafíos, una generación actual que no se había visto por muchísimo tiempo... la misión ahora es mantener este entusiasmo con nuevos talentos, enriquecer la competencia local y por supuesto, tener mayor roce internacional.
+
+Hay que trabajar en esto. Años atrás, en Perú, llegó un coach japonés, Akira Kato, y se empecinó a buscar en todo el país los mejores talentos jóvenes para sacar adelante su proyecto de generar un elenco poderoso.
+
+El resultado, protagonismo en los mundiales y un podio olímpico en Seúl 1988.
+
+Podemos decir que aprovechamos a Cachito Vigil en el hockey, Pablo Lemoine en el rugby y el ya fallecido Paulao en el Voleibol Playa, pero, ¿es suficiente? ¿qué pasará cuando estas generaciones actuales ya cumplan su nivel?, ¿hay más por donde buscar?
+
+No podemos confiarnos. Acá hay que trabajar en eso, en conseguir estos talentos, y que no pase como en otra disciplina, que ganó dos títulos continentales y después desapareció del mapa, incluso quedando últimos en Sudamérica.
+
+====
+
+categoria: editorial
 fecha: 2026-08-17
 etiqueta: Editorial
 titulo: El Sillón de Don Otto
