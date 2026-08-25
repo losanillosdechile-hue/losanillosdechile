@@ -631,6 +631,22 @@ El próximo partido de las Diablas será este lunes a las 03:30 horas (de Chile)
 
 ====
 
+categoria: breves
+fecha: 2026-08-25
+etiqueta: Mundial de Remo - Breves
+titulo: Hermanas Abraham, a semifinales
+bajada: Antonia y Melita Abraham avanzaron a semifinales del Mundial de Ámsterdam.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+Las hermanas Antonia y Melita Abraham avanzaron a las semifinales del Mundial de Ámsterdam (Países Bajos), luego de arrasar en su heat clasificatorio.
+
+La premiada dupla chilena lideró de principio a fin y ganó con un tiempo de 7:51.95, por casi cinco segundos de ventaja sobre República Checa.
+
+Este miércoles, en horario por confirmar, buscarán su segunda final mundial adulta.
+
+====
+
 categoria: tenis
 fecha: 2026-08-17
 etiqueta: Copa Davis - Tenis
