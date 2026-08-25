@@ -631,6 +631,30 @@ El próximo partido de las Diablas será este lunes a las 03:30 horas (de Chile)
 
 ====
 
+categoria: atletismo
+fecha: 2026-08-25
+etiqueta: Mundial Master de Daegu - Atletismo
+titulo: Nicolás Cornejo, muy cerca el podio
+bajada: El atleta nacional se quedó con el cuarto puesto en la final de los 800 metros M35, en el Mundial Master de Daegu.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+El atleta nacional Nicolás Cornejo consiguió la actuación más sobresaliente de la jornada en el Mundial de Atletismo Master de Daegu, tras quedarse con el cuarto puesto en la final de los 800 metros M35.
+
+El especialista nacional demostró un gran nivel en la carrera, peleando palmo a palmo la entrada al podio, considerando que se presentaba con el quinto mejor tiempo de las semifinales y con un registro de 2:00,98.
+
+En la final de hoy, Cornejo terminó cuarto con un registro de 1:55,83, mejorando claramente lo obtenido el día anterior.
+
+Otro de los chilenos que participó en la prueba fue David Escobar, quien quedó en el lugar 12° con un tiempo de 2:06,24, muy similar a lo conseguido en las semifinales, donde tuvo un crono de 2.06,04.
+
+El oro fue para el español Alejandro Matienzo, con 1:53,89; la plata para el francés Mehdi Naciri, con 1:54,27, y el bronce para el también galo Habib Tiour, con 1:54,72.
+
+Asimismo, hubo tras finales con presencia nacional. De hecho, dos de ellas en los 100 metros, en las categorías W40 y W45. En la primera, Mariela Sepúlveda finalizó séptima con un tiempo de 13,05 segundos, mientras que, en la siguiente categoría, Magdalena Rosenfeld consiguió el mismo puesto, con un crono de 13,25 segundos.
+
+Chile también tuvo presencia en las pruebas de lanzamientos. Paula Torres quedó novena en el peso categoría W40, con un registro de 7,98 metros, mientras que Renato Orellana finalizó 16to. en el martillo M55, con 31,06 metros. 
+
+====
+
 categoria: breves
 fecha: 2026-08-25
 etiqueta: Mundial de Remo - Breves
