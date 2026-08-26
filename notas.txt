@@ -651,6 +651,97 @@ El próximo partido de las Diablas será este lunes a las 03:30 horas (de Chile)
 
 ====
 
+categoria: rugby
+fecha: 2026-08-25
+etiqueta: Américas Ruby Championship - Rugby
+titulo: Chile XV tiene nómina para el Americas Rugby Championship 2026
+bajada: El plantel reúne jugadores provenientes del rugby nacional y nombres que desarrollan su carrera en el extranjero.
+firma: Anillos de Chile/ Fuente: Chilerugby.cl
+portada: no
+texto:
+El equipo de Chile XV confirmó una nómina de 33 jugadores para afrontar el Americas Rugby Championship 2026, certamen que se disputará en nuestro país entre el 29 de agosto y el 6 de septiembre, con encuentros en Talcahuano, Santiago y Valparaíso.
+
+La convocatoria reúne una importante base de jugadores provenientes de clubes nacionales, junto con nombres que han sumado experiencia fuera de Chile. Entre las novedades aparece Christian López, actualmente vinculado al rugby francés y recientemente incorporado a Bergerac Rugby Club tras desarrollar parte de su proceso en la estructura Espoirs del CA Périgourdin.
+
+También aparecen jugadores con experiencia internacional y dentro del alto rendimiento chileno, como Clemente Armstrong, Matías Garafulic, Iñaki Gurruchaga, Santiago Pedrero, Juan Cruz Reyes, Clemente Saavedra, Ernesto Tchimino y Marcelo Torrealba, entre otros.
+
+El campeonato reunirá a Chile XV, Argentina XV, Uruguay XV y Paraguay, que competirán bajo un formato de todos contra todos.
+
+El debut nacional será el sábado 29 de agosto frente a Uruguay XV, en el Estadio CAP Acero de Talcahuano. Posteriormente, enfrentará a Paraguay el miércoles 2 de septiembre en Escuela Militar, para cerrar su participación ante Argentina XV el domingo 6 de septiembre en el Estadio Elías Figueroa Brander de Valparaíso.
+
+Para Chile, el torneo aparece como una nueva oportunidad para dar competencia internacional y ampliar la base de jugadores vinculados al alto rendimiento, permitiendo observar nuevas alternativas y continuar desarrollando profundidad de plantel.
+
+Los 33 convocados de Chile XV son los siguientes:
+
+Norman Aguayo — Los Troncos / PWCC
+
+Marco Alvano — Old Boys
+
+Clemente Armstrong — DOBS
+
+Tom Baguely — Old Boys
+
+Augusto Böhme — UC
+
+Thomas Cooper — Old Boys
+
+Matías Dittus — UC
+
+Alfonso Escobar — COBS
+
+Rodrigo Fernández — COBS
+
+Matías Garafulic — COBS
+
+Baltazar Gurruchaga — Old John’s / Old Boys
+
+Iñaki Gurruchaga — Old John’s
+
+Max Kennedy — Old Locks
+
+Christian López — Bergerac Rugby Club
+
+Salvador Lues — COBS
+
+Felipe Méndez — Old John’s
+
+Joaquín Milesi — PWCC
+
+Santiago Pedrero — COBS
+
+Juan Cruz Reyes — Los Tordos
+
+Claudio Roa — Old John’s
+
+Clemente Saavedra — Old Boys
+
+Domingo Saavedra — Old Boys
+
+Bruno Sáez — Old Boys
+
+Tomás Salas — COBS
+
+Max Schlesinger — CD Alumni
+
+Emilio Shea — Old Boys
+
+Rafael Silva — Old Boys
+
+Ernesto Tchimino — DOBS
+
+Marcelo Torrealba — Old Boys
+
+Santiago Valenzuela — UC / COBS
+
+Benjamín Videla — Old Boys
+
+Santiago Videla — Old Boys
+
+Lukas Winkler — CD Alumni
+
+
+========
+
 categoria: atletismo
 fecha: 2026-08-25
 etiqueta: Mundial Master de Daegu - Atletismo
