@@ -655,6 +655,26 @@ Chile también tuvo presencia en las pruebas de lanzamientos. Paula Torres qued�
 
 ====
 
+categoria: ciclismo
+fecha: 2026-08-25
+etiqueta: American Track Cup UCI C2 - Ciclismo
+titulo: Chile suma siete podios en el American Track Cup UCI C2 Argentina
+bajada: Diego Rojas, Scarlet Cortés, Jacob Decar y Aranza Villalón fueron los especialistas nacionales más sobresalientes en el evento.
+firma: Los Anillos de Chile /Fdnciclismo Chile
+portada: no
+texto:
+Con siete podios concluyó la participación de la Selección Nacional Elite de Pista Medio Fondo durante este fin de semana en la Copa UCI C2, correspondiente al circuito American Track Cup, disputada en el Velódromo de Rafaela, Argentina. 
+
+Diego Rojas, Scarlet Cortés, Jacob Decar y Aranza Villaón fueron los especialistas nacionales más sobresalientes en el evento y quienes se colgaron preseas.
+
+Durante la jornada del sábado, Scarlet Cortés finalizó tercera en el Omnium femenino, mientras que Diego Rojas obtuvo el primer lugar en la Prueba por Puntos. En la Madison masculina, la dupla integrada por Jacob Decar y Diego Rojas ocupó el segundo lugar.
+
+En la jornada del domingo, Jacob Decar se adjudicó el Omnium masculino. Por su parte, Diego Rojas y Scarlet Cortés obtuvieron el primer lugar en sus respectivas pruebas de Puntuación, mientras que Aranza Villalón finalizó segunda en la Eliminación femenina.
+
+La participación nacional se desarrolló como parte del proceso de acumulación de puntos para el ranking UCI anual, con miras a la clasificación al Campeonato Mundial de Ciclismo de Pista, que se disputará en China durante octubre.
+
+====
+
 categoria: hockey
 fecha: 2026-08-25
 etiqueta: Mundial Hockey Patin - Hockey
