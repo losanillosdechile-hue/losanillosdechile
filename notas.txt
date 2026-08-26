@@ -655,6 +655,30 @@ Chile también tuvo presencia en las pruebas de lanzamientos. Paula Torres qued�
 
 ====
 
+categoria: hockey
+fecha: 2026-08-25
+etiqueta: Mundial Hockey Patin - Hockey
+titulo: Chile ya tiene fixture mundialista
+bajada: Las Marcianitas juegan contra España, Suiza, Francia y Argentina, mientras los varones juegan con Angola, Francia y Argentina.
+firma: Los Anillos de Chile /Fedpatinaje Chile
+portada: no
+texto:
+Las selecciones chilenas de hockey patín femenina y masculina ya tiene definidas les fechas de sus partidos en el marco de los Mundiales de la especialidad que se desarrollarán en forma conjunta en Asunción, Paraguay, en octubre próximo.
+
+Esto, dado que la organización de los Mundiales de Hockey sobre Patines -XVIII edición del Mundial Femenino, XLVII del Campeonato Masculino- dio a conocer la programación de los certámenes que se escenificarán en los lares guaraníes.
+
+Femenina. Faltando sólo saber los horarios de cada cotejo, Las Marcianitas, enmarcadas en el Grupo A, debutarán el lunes 5 de octubre ante España. Al día siguiente, será el turno con Suiza. El miércoles 7 se jugará el pleito con Francia finalizando la Primera Ronda el jueves 8 en el lance con Argentina.
+
+De acuerdo al sistema de campeonato, las cuatro mejor ubicadas en el pentagonal clasificarán a Cuartos de Final.
+
+Masculino. Por el lado de la Roja Absoluta, que forma parte del Grupo B, el estreno será el lunes 12 de octubre ante Angola. El martes 13 tocará el choque con Francia culminando la Ronda Inicial, el miércoles 14, con Argentina.
+
+En función del sistema de campeonato, los tres mejores de este cuadrangular más los tres mejor ubicados del Grupo A uniendo también a los campeones de los Grupos C y D -que forman en el llamado Campeonato Intercontinental o Mundial B- jugarán los Cuartos de Final.
+
+En tanto, los que terminen en la cuarta casilla del Grupo A y del Grupo B pasarán al certamen intercontinental para disputar los puestos 9° al 18° del certamen.
+
+====
+
 categoria: breves
 fecha: 2026-08-25
 etiqueta: Mundial de Remo - Breves
