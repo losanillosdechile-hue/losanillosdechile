@@ -80,6 +80,26 @@ Ahora, los esfuerzos se centrarán en llegar de la mejor forma para el compromis
 
 ====
 
+categoria: breves
+fecha: 2026-08-26
+etiqueta: Mundial de Remo - Breves
+titulo: Hermanas Abraham, a la final en Ámsterdam
+bajada: Melita y Antonia Abraham accedieron a la instancia decisiva tras quedar segundas en las semifinales.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto:
+Melita y Antonia Abraham accedieron por segunda vez en su carrera a una final planetaria (adulta), luego de ser segundas en las semifinales del Mundial de Remo que se desarrolla en Ámsterdam (Países Bajos).
+
+En la regata de Dos Sin Timonel, las hermanas Abraham partieron fuertes y superaron a Italia en los metros finales y solo fueron sobrepasadas por la experimentada dupla rumana.
+
+Las centroeuropeas se quedaron con la ronda con un tiempo de 7:20,94, mientras que las chilenas quedaron a 8,91 segundos, y las italianas a 10,40 segundos de la primera.
+
+El viernes, a las 10:28 (de Chile), buscarán una inédita presea. En 2023, en el torneo desarrollado en Belgrado (Serbia), fueron quintas.
+
+El martes, las nacionales habían ganado su serie eliminatoria, con un tiempo de 7:51.95.
+
+====
+
 categoria: hockey
 fecha: 2026-08-21
 etiqueta: Mundial - Hockey
@@ -656,7 +676,7 @@ Chile también tuvo presencia en las pruebas de lanzamientos. Paula Torres qued�
 ====
 
 categoria: ciclismo
-fecha: 2026-08-25
+fecha: 2026-08-26
 etiqueta: American Track Cup UCI C2 - Ciclismo
 titulo: Chile suma siete podios en el American Track Cup UCI C2 Argentina
 bajada: Diego Rojas, Scarlet Cortés, Jacob Decar y Aranza Villalón fueron los especialistas nacionales más sobresalientes en el evento.
