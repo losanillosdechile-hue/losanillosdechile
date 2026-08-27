@@ -80,6 +80,37 @@ Ahora, los esfuerzos se centrarán en llegar de la mejor forma para el compromis
 
 ====
 
+categoria: atletismo
+fecha: 2026-08-27
+etiqueta: Mundial de Atletismo Master - Atletismo
+titulo: Jornada de podios para Chile
+bajada: La posta 4x100 femenina W40, Eric Recart (Altura M50) y John Araneda (Triple M60) se subieron al podio esta jornada en el Mundial de Atletismo Master de Daegu.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto:
+Una gran actuación cumplió este jueves la representación chilena que compite en el Mundial de Atletismo Master de Daegu (Corea del Sur), al conseguir dos medallas de plata y una de bronce en las pruebas de pista y salto.
+
+A primera hora, Eric Recart se alzó con la presea de plata en el salto con altura M50, al llegar a un impulso de 1,80 metros, siendo superado sólo por el Yoshihisa Fukumoto, con 1,85 metros. El bronce lo consiguió el francés Nils Portemer, con 1,75 metros.
+
+Sin lugar a dudas, esta actuación pudo presagiar un gran día para los atletas master chilenos, porque en la jornada de la tarde (hora coreana) se vendría lo mejor.
+
+Y es así como en la posta de 4x100 metros damas W40, donde el equipo conformado por Magdalena Rosenfeld, Andrea Gómez, Evelyn Ortiz y Mariela Sepúlveda tuvo una gran carrera que le permitió quedarse con la medalla de plata, con un tiempo de 53,92 segundos.
+
+Las chilenas sólo fueron superadas por Francia, que se adjudicó el oro con un tiempo de 49,33 segundos. El bronce fue para la cuarteta de Singapur, con un registro de 55,23 segundos.
+
+Y para completar la gran actuación nacional, John Araneda se alzó con la medalla de bronce en el salto triple M60, con una distancia de 10,25 metros. El oro fue para el japonés Manabu Nakazawa, con 11,99 metros; y la plata parra el kazajo Igor Bogdanov, con 10,36 metros.
+
+Sumado a la plata de Alejandra Tapia en el martillo el día 24, ya Chile cuenta con 3 preseas de plata y 1 de bronce.
+
+Otros resultados destacados de la jornada llegaron por parte de Juan Jaque, quien avanzó a la final de los 1.500 metros M55, con un tiempo de 4:49,48 en su serie, donde quedó séptimo; y por parte de Óscar Sotomayor, quien pasó a semifinales de los 200 metros M70, con un registro de 29,64 segundos. 
+
+Chile también contó con presencia en las pruebas de 200 metros M40, con José Luis López, quedando séptimo en su serie con 28,99 segundos; en la M45, con Pablo Ramírez y Claudio Reyes quedando cuarto (26,21) y sexto (34,03) en sus respectivas series. 
+
+Además, Pablo Verdugo quedó décimo en su serie de 1.500 metros M45, con 4:41.87, y en el lanzamiento de la Jabalina, Renato Orellana quedó decimoquinto, con 26,10 metros.
+
+
+====
+
 categoria: breves
 fecha: 2026-08-26
 etiqueta: Mundial de Remo - Breves
