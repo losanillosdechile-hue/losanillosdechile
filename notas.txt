@@ -132,7 +132,7 @@ El martes, las nacionales habían ganado su serie eliminatoria, con un tiempo de
 ====
 
 categoria: hockey
-fecha: 2026-08-21
+fecha: 2026-08-27
 etiqueta: Mundial - Hockey
 titulo: Bastante por aprender
 bajada: La selección chilena de Hockey Femenina cayó 3 a 2 ante Nueva Zelanda y finalizó en el puesto 16° del Mundial en Países Bajos y Bélgica.
