@@ -134,6 +134,24 @@ El martes, las nacionales habían ganado su serie eliminatoria, con un tiempo de
 categoria: hockey
 fecha: 2026-08-21
 etiqueta: Mundial - Hockey
+titulo: Bastante por aprender
+bajada: La selección chilena de Hockey Femenina cayó 3 a 2 ante Nueva Zelanda y finalizó en el puesto 16° del Mundial en Países Bajos y Bélgica.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+La selección chilena de Hockey Femenino cerró su participación en el Mundial de Países Bajos y Bélgica en el puesto 16° luego de perder ante el representativo de Nueva Zelanda por 3 a 2.
+
+Las oceánicas abrieron el marcador a los 10 minutos por medio de un córner corto convertido por Kaitlin Cotter. 
+
+Luego del esfuerzo nacional por intentar emparejar las cifras, recién a los 37 minutos pudo hacerlo gracias a Manuela Urroz, quien, además, dio vuelta el marcador a los 45 minutos para poner a las Diablas en ventaja.
+
+Sin embargo, las neocelandesas revirtieron todo gracias a las anotaciones de Riana Pho, a los 50 minutos, y de Katie Doar, faltando tres minutos para el término del partido.
+
+====
+
+categoria: hockey
+fecha: 2026-08-21
+etiqueta: Mundial - Hockey
 titulo: Chile sufrió duro traspié con Inglaterra
 bajada: Las Diablas cayeron 4 a 1 ante las inglesas en la ronda de consolación del Mundial, pese a comenzar convirtiendo. Ahora, deberá enfrentarse con Sudáfrica.
 firma: Redacción Los Anillos de Chile
