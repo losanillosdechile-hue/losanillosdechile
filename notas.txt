@@ -131,6 +131,35 @@ El martes, las nacionales habían ganado su serie eliminatoria, con un tiempo de
 
 ====
 
+categoria: atletismo
+fecha: 2026-08-28
+etiqueta: Mundial de Atletismo Master - Atletismo
+titulo: Alejandra Tapia, doble medallista mundial
+bajada: La especialista en lanzamientos master se quedó con la presea de plata en el martelete W55, con un registro de 12,71 metros. Días atrás fue segunda en el martillo W55.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+Una nueva medalla sumó la representación chilena en el Mundial de Atletismo Master que se desarrolla en Daegu (Corea del Sur, y es que Alejandra Tapia se quedó con la presea de plata en el martelete W55, con un registro de 12,71 metros.
+
+La prueba se desarrolló bajo una inusual lluvia, donde la luxemburguesa Mireille Kosmala se alzó con el oro, con 14,77, mientras que el bronce fue para la finlandesa Satu Lehtonen, con 12,57.
+
+En la misma especialidad, María Angélica Tapia quedó décima, con un lanzamiento de 8,76 metros.
+
+Alejandra ya había conseguido la plata en el martillo W55, el 24 de agosto, por lo que la de este viernes es su segunda presea en este mundial.
+
+Por su parte, en el martelete categoría W50, Bárbara Tapia finalizó quinta, con un envío de 11,70 metros.
+
+En otra de las pruebas del día, Marcela Barrientos finalizó sexta en el lanzamiento de peso, W60, con un registro de 10,62 metros.
+
+Ya en la pista, Óscar Sotomayor quedó séptimo en la final de los 200 metros M70, con un tiempo de 29,22 segundos. Horas antes había quedado cuarto en las semifinales con 29,36 segundos.
+
+A su vez, Magdalena Ronsenfeld avanzó a semifinales de los 200 metros W45, tras quedar tercera en su serie, con un registro de 27,57 segundos. 
+
+Otro de los resultados del día ocurrió en la prueba de los 5.000 metros M45, donde Pablo Verdugo quedó sexto, con un tiempo de 16:57.43.
+
+
+====
+
 categoria: hockey
 fecha: 2026-08-27
 etiqueta: Mundial - Hockey
