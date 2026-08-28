@@ -149,6 +149,34 @@ Sin embargo, las neocelandesas revirtieron todo gracias a las anotaciones de Ria
 
 ====
 
+categoria: basquetbol
+fecha: 2026-08-27
+etiqueta: Clasificatorias Mundial - Basquetbol
+titulo: Con un cuarto marcó la diferencia
+bajada: Estados Unidos derrotó a Chile por 89 a 71 en el marco de la segunda ronda de las Clasificatorias para el Mundial de Catar 2027
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+Estados Unidos derrotó a Chile por 89 a 71 en el marco de la segunda ronda de las Clasificatorias para el Mundial de Catar 2027, en el encuentro disputado en el Centro de Deportes Colectivos del Estadio Nacional.
+
+Los dirigidos por Manuel Córdova tuvieron un primer cuarto muy complicado ante un quinteto norteamericano que aprovechó el nerviosismo local para marcar la diferencia y cerrar a primera manga por 22 a 8. No obstante, en los primeros 3 minutos, fue Chile el que tuvo el marcador a su favor.
+
+Tras el término de la primera parte, se pensó en lo peor, que iba a ser una victoria abultada para los de las barras y estrellas, pero la Roja se empezó a acomodar y logró mantener las acciones en un buen juego en el segundo cuarto. Sin embargo, cayó por 20 a 21.
+
+Con esto, los norteamericanos sólo buscaron sostener el resultado y la diferencia. Sin embargo, un incidente con el tablero marcador debió interrumpir las acciones, aunque una vez que se retomó el juego, Chile no pudo variar el resultado. 
+
+El tercer cuarto, tras este escenario. quedó definitivo con un 24 a 23 para la visita, en el que fue el espacio con mayor convertibilidad bajo los aros para ambas escuadras.
+
+En el último cuarto, las cosas partieron fuerte para los estadounidenses, que no dudaron en ampliar la ventaja hasta bien entrada la mitad del período, llegando incluso a estar 80 a 59, pero Chile reaccionó y logró evitar este escenario, estrechando las cifras, pero dejando igual la manga en favor de los rivales por 21 a 20.
+
+Pese al resultado, el encuentro dejó muy buenas sensaciones, donde mostró a un cuadro local que pudo evitar una debacle, si bien no desequilibró las acciones, aunque en instantes pudo “faltarle el respeto” a una escuadra que es la principal favorita para ganar el grupo.
+
+De hecho, en los datos más fríos, Chile pudo tener mejores cifras en rebotes ofensivos y en robos de balón, aunque claramente los de Estados Unidos fueron superiores en puntos, asistencias y rebotes defensivos.
+
+Ahora, los dirigidos por Manuel Córdova viajarán a República Dominicana donde disputarán su segundo encuentro por la ronda ante el conjunto local el lunes 31 a las 20:10 horas (de Chile).
+
+====
+
 categoria: hockey
 fecha: 2026-08-21
 etiqueta: Mundial - Hockey
