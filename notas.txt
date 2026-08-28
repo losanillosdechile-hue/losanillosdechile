@@ -54,6 +54,28 @@
 #
 # ======================================================================
 
+categoria: breves
+fecha: 2026-08-28
+etiqueta: Mundial de Remo - Breves
+titulo: Hermanas Abraham, sextas del Mundo
+bajada: Melita y Antonia Abraham quedaron sextas en la final del Dos Sin Timonel del Mundial de Amsterdam (Países Bajos).
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto:
+Las chilenas Melita y Antonia Abraham finalizaron en el sexto lugar de la prueba Dos Sin Timonel del Mundial de Remo que se desarrolla en Amsterdam, Países Bajos, logrando así su segunda mejor actuación en este tipo de competencias.
+
+La prueba comenzó casi una hora más tarde debido a inclemencias del tiempo, pero una vez que amainó, se pudo llevar a cabo.
+
+En ella, las mellizas buscaron mejorar su quinto puesto conseguido en 2023 en Belgrado (Serbia). De hecho, pasados los 500 metros, iban en el cuarto puesto.
+
+Sin embargo, el ritmo de la competencia era fuerte, considerando la calidad de rivales que debieron enfrentar, y sólo pudieron cruzar la meta en un sexto lugar, con un tiempo de 7:07,54, a casi 4 minutos de quien la precedía, la dupla de Chequia.
+
+Sin lugar a dudas, esto reflejó el esfuerzo que entregaron en toda la regata, considerando que ya venían de series fuertes, donde se ganó la manga clasificatoria y se llegó en segundo puesto en su semifinal.
+
+El oro fue conseguido por Rumania, con un tiempo de 6:49,86, mientras que la plata fue para Francia, con 6:56,21 y el bronce para Estados Unidos, con 6:59,76.
+
+====
+
 categoria: basquetbol
 fecha: 2026-08-22
 etiqueta: Internacional - Basquetbol
