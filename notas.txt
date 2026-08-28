@@ -152,10 +152,10 @@ Sin embargo, las neocelandesas revirtieron todo gracias a las anotaciones de Ria
 categoria: basquetbol
 fecha: 2026-08-27
 etiqueta: Clasificatorias Mundial - Basquetbol
-titulo: Con un cuarto marcó la diferencia
+titulo: Estados Unidos marcó la diferencia en un cuarto
 bajada: Estados Unidos derrotó a Chile por 89 a 71 en el marco de la segunda ronda de las Clasificatorias para el Mundial de Catar 2027
 firma: Redacción Los Anillos de Chile
-portada: no
+portada: si
 texto:
 Estados Unidos derrotó a Chile por 89 a 71 en el marco de la segunda ronda de las Clasificatorias para el Mundial de Catar 2027, en el encuentro disputado en el Centro de Deportes Colectivos del Estadio Nacional.
 
