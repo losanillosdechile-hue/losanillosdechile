@@ -54,6 +54,37 @@
 #
 # ======================================================================
 
+categoria: atletismo
+fecha: 2026-08-29
+etiqueta: Mundial de Atletismo Master - Atletismo
+titulo: Sara Montecinos, campeona Mundial Master
+bajada: La velocista chilena se quedó con el oro en los 2000 metros W70 en el Mundial de Atletismo Master de Daegu (Corea del Sur). En Jabalina, Paula Torres se quedó con el bronce en la W40.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto:
+La atleta chilena Sara Montecinos se alzó con la medalla de oro en los 200 metros categoría W70, tras ganar la final en el Campeonato Mundial que se desarrolla en Daegu (Corea del Sur).
+
+La especialista chilena completó el doble hectómetro en un tiempo de 30,33 segundos, superando a la canadiense Wendy Alexis, plata con 31,51, y a la tailandesa Somsanga Boonnok, con 34,42 segundos.
+
+Horas antes, Montecinos había ganado su serie en semifinales con un tiempo de 30,22 segundos, con récord del campeonato. En otra de las semifinales, la chilena Ariella Bergamin había quedado cuarta con 51,48 segundos, sin poder llegar a la instancia decisiva.
+
+Además, Chile sumó un nuevo bronce, esta vez de la mano de Paula Torres, quien quedó tercera en el lanzamiento de la jabalina W40, con una marca de 21,63 metros, detrás de la rumana Beatrice Puiu, oro con 35,06 metros, y la australiana Rachel Gruschka, plata con 29,34. 
+
+La jornada también contó con otras destacadas actuaciones. En los 200 metros W45, Madgalena Rosenfeld quedó sexta en la final con un tiempo de 27,46, algo similar al que consiguió en semifinales, donde había quedado cuarta con 27,38 segundos.
+
+A su vez, en los 200 metros categoría W40, Mariela Sepúlveda quedó séptima en la final, con un registro de 26,65 segundos, mejorando lo obtenido en semifinales, donde corrió en 26,88 segundos.
+
+En el salto largo, John Araneda quedó cuarto en la categoría M60, consiguiendo una marca de 4,97 metros, 5 centímetros detrás del británico Ian Allen, quien se colgó el bronce.
+
+Por su parte, en los 400 metros vallas M50, Iván González ganó su semifinal, con un tiempo de 1:04,77, mientras que en la M35, David Escobar quedó décimo con 1:00,95.
+
+En otra de las pruebas, en los 400 metros M35, José Luis López quedó sexto en su serie con 1:05,80. En la categoría M45, Claudio Reyes quedó quinto en su ronda, con 1:03,99.
+
+Además, en el lanzamiento del disco W60, Marcela Barrientos finalizó en el puesto 7°, consiguiendo enviar el proyectil a una distancia de 28,58 metros, mientras que John Ramírez quedó duodécimo en el martelete M45, con un envío de 7,81 metros.
+
+
+====
+
 categoria: breves
 fecha: 2026-08-28
 etiqueta: Mundial de Remo - Breves
