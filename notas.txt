@@ -184,6 +184,33 @@ El martes, las nacionales habían ganado su serie eliminatoria, con un tiempo de
 
 ====
 
+categoria: rugby
+fecha: 2026-08-29
+etiqueta: Américas Rugby Championship - Rugby
+titulo: Chile XV comenzó con triunfo el Americas Rugby Championship
+bajada: El conjunto nacional debutó en el torneo con una victoria por 33 a 12 sobre Uruguay XV en el Estadio CAP de Talcahuano.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+El conjunto de Chile XV comenzó con el pie derecho su participación en el Americas Rugby Championship, luego de derrotar en la primera fecha al representativo de Uruguay XV por 33 a 12.
+
+El conjunto nacional comenzó de manera sólida, con un try de Benjamín Videla a los 2 minutos, con conversión de Santiago Videla. Luego, a los 6, Alfonso Escobar logró un nuevo try y otra vez Videla adicionó el marcador con una conversión.
+
+Con un 14-0, los chilenos mantuvieron las acciones de buena forma y recién a los 21 minutos, Joaquín Myszka logró un try para la visita, con conversión de Justo Ferrario; y a los 34 minutos, nuevamente Myszka sumó un try para estrechar las cifras.
+
+No obstante, a los 39 minutos, Matías Dittus anotó para los nacionales, y Santiago Videla sumó su tercera conversión en el partido, para sellar un 21 a 12 en el marcador terminando la primera parte.
+
+En el segundo lapso, el juego se encontró con una normalidad en las acciones hasta que en el minuto 51, una defensa a destiempo de Myszka contra Emilio Shea generó un altercado entre ambos conjuntos, lo que generó la expulsión del agresor y de los capitanes Clemente Saavedra (Chile XV) y Lucas Bianchi (Uruguay XV).
+
+Una vez resuelto todo, el conjunto de Pablo Lemoine se adueñó del partido y sumó dos nuevos tries, uno a los 69 por intermedio de Augusto Bohme -con conversión de Santiago Videla- y otro a los 71, de Matías Garafulic.
+
+Con esto, se liquidó el partido y selló el 33 a 12 en favor de Chile, que lo pone en los puestos de avanzada del torneo, junto con Argentina XV que superó a Paraguay por 58 a 11. 
+
+Los próximos duelos de Chile son el miércoles 2 frente a Paraguay, en la Escuela Militar en Santiago, y el domingo 6 con Argentina XV en el Estadio Elías Figueroa de Valparaíso.
+
+
+====
+
 categoria: atletismo
 fecha: 2026-08-28
 etiqueta: Mundial de Atletismo Master - Atletismo
