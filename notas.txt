@@ -206,6 +206,28 @@ En tanto, María José Mailliard quedó cuarta en la final B del C2 500 con Paul
 
 ====
 
+categoria: ciclismo
+fecha: 2026-08-30
+etiqueta: Mundial de Val di Sole - Ciclismo
+titulo: Vidaurre, muy cerca del podio mundial
+bajada: Martín Vidaurre finalizó en el cuarto puesto en el Mundial de Mountain Bike, disputado este domingo en Val di Sole, Italia.
+firma: Redacción Los Anillos de Chile
+portada: si
+texto:
+Martín Vidaurre finalizó en el cuarto puesto en el Mundial de Mountain Bike, disputado este domingo en Val di Sole, Italia, quedando a pocos segundos de entregar un podio para Chile.
+
+El ciclista nacional peleó durante gran parte de la carrera por los puestos de avanzada, pero un pinchazo en el tramo decisivo terminó alejándolo del podio y lo dejó en el cuarto lugar del XCO élite.
+
+Vidaurre completó las ocho vueltas del exigente circuito en 1 hora, 26 minutos y 25 segundos, a 59 segundos del británico Tom Pidcock, quien se quedó con el título mundial (1:25:26).
+
+La plata fue para el también británico Charlie Aldridge, que completó el circuito en 1:25:43 y la presea de bronce fue para el canadiense Cole Punchard, que llegó a la meta en 1:25:57.
+
+Por su parte, Florencia Monzálvez se quedó con el sexto puesto en el Cross Country Olímpico Femenino U23, finalizando a tan solo 2 minutos de la medalla de bronce, y 18 segundos del 5to lugar.
+
+A su vez, Catalina Vidaurre quedó en el puesto 26° en la categoría Elite Cross Country Olímpica Femenina.
+
+====
+
 categoria: atletismo
 fecha: 2026-08-30
 etiqueta: Mundial de Atletismo Master - Atletismo
