@@ -184,6 +184,27 @@ El martes, las nacionales habían ganado su serie eliminatoria, con un tiempo de
 
 ====
 
+categoria: running
+fecha: 2026-08-30
+etiqueta: Maratón de Sydney - Running
+titulo: Chile presente en la Maratón de Sydney
+bajada: Antonio Peñailillo y Maricela Soto fueron los mejores chilenos en la carrera inserta en las Abbott World Marathon Majors.
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+Una gran participación de atletas chilenos dijo presente este domingo (tarde-noche del sábado) en la Maratón de Sydney, adscrita en el circuito de las Abbott World Marathon Majors, y que contó con exponentes de todo el mundo.
+
+Antonio Peñailillo fue el mejor chileno en la carrera, cruzando la meta con un tiempo en 2:43:39. José Pachcho fue el segundo nacional con 2:45:06 y tercero José Martabid  con 2:54:59.
+
+En damas, Maricela Soto fue la mejor chilena en completar la distancia con un tiempo de 3:27:25; Balkiria Vásquez fue la segunda con 3:29:47; y Manuela Besomi, tercera con 3:36:47.
+
+La prueba fue ganada por el etíope Addis Addisu, con un tiempo de 2:04:42, seguido por el también representante de Etiopía Chimdessa Gudeta, con 2:04:46 y por Tebello Ramakongoana, de Lesotho, con 2:04:57.
+
+En damas, la ganadora fue la keniata Peres Jepchirchir, con 2:18:31, seguida de la también representante de Kenia Irene Chjeptai, con 2:22:11 y tercera la etíope Shure Ware, con 2:22:33.
+
+
+====
+
 categoria: rugby
 fecha: 2026-08-29
 etiqueta: Américas Rugby Championship - Rugby
