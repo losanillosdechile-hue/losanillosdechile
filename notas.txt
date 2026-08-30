@@ -184,6 +184,28 @@ El martes, las nacionales habían ganado su serie eliminatoria, con un tiempo de
 
 ====
 
+categoria: breves
+fecha: 2026-08-30
+etiqueta: Mundial de Canotaje - Breves
+titulo: Mailliard, cuarta del Mundo en Poznan
+bajada: María José Mailliard consiguió el cuarto lugar en la final de los C1 5.000 metros en el Mundial de Canotaje de Poznan, Polonia.
+firma: Redacción Los Anillos de Chile
+portada: si
+texto:
+La deportista chilena María José Mailliard consiguió el cuarto lugar en la final de los C1 5.000 metros en el Mundial de Canotaje de Poznan, Polonia, tras completar la distancia en un tiempo de 31:54,38.
+
+La competencia fue liderada por la alemana Carlotta Loske, quien se quedó con el oro con 31:15.19, seguida por la húngara Zsofia Katalin Csorba (31:45.85) y la bielorrusa Maryia Papichych (31:47.48). 
+
+También disputó la final B de los 200 metros, donde quedó octava con un tiempo de 49,67 segundos.
+
+A su vez, el joven kayakista nacional Sebastián Alveal (19 años), se impuso en la final C de los 500 metros con un tiempo de 1:42,77, para rematar en el puesto 19° del mundo en lo que significó su debut en un Mundial adulto.
+
+El torneo también dejó otros resultados para los representantes chilenos. Alveal fue quinto en la final C de los 1000 metros, con 3:36,86, concluyendo 23º a nivel general.
+
+En tanto, María José Mailliard quedó cuarta en la final B del C2 500 con Paula Gómez, llegando a la meta con un registro de 2:11,73.
+
+====
+
 categoria: atletismo
 fecha: 2026-08-30
 etiqueta: Mundial de Atletismo Master - Atletismo
