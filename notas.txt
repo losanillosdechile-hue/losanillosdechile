@@ -184,6 +184,32 @@ El martes, las nacionales habían ganado su serie eliminatoria, con un tiempo de
 
 ====
 
+categoria: atletismo
+fecha: 2026-08-30
+etiqueta: Mundial de Atletismo Master - Atletismo
+titulo: Alejandra Tapia lanzó todo para ganar el oro
+bajada: La especialista chilena se quedó con la medalla de oro en el pentatlón de lanzamientos W55 del Mundial de Atletismo Máster al totalizar 2.999 puntos. Iván González también se sumó al podio chileno con plata en los 4000 metros vallas M50. 
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+Siguen las buenas noticias para el atletismo chileno en Corea del Sur. En el marco del Mundial de Atletismo Máster que se desarrolla en Daegu, Alejandra Tapia fue la gran protagonista de la jornada al quedarse con la medalla de oro en el pentatlón de lanzamientos de la categoría W55, sumando 2.999 puntos que la dejaron en lo más alto del podio.
+
+La chilena mostró consistencia en las cinco pruebas que componen la disciplina: lanzó 36,33 metros en el martillo, 7,97 en la bala, 25,23 en el disco, 21,19 en la jabalina y 12,45 en el martelete. Ese conjunto de marcas le alcanzó para superar a la belga Ingrid Vos, que se llevó la plata con 2.954 puntos, y a la finlandesa Satu Lehtonen, tercera con 2.941.
+
+Cabe recordar que Alejandra había conseguido preseas de plata en el martillo y el martelete en la cita mundialista días antes.
+
+Pero el oro de Tapia no fue lo único para celebrar. Iván González también subió al podio, con una medalla de plata en los 400 metros vallas M50 tras cruzar la meta en 1:00,49. El primer lugar fue para el estadounidense Ian Weakly (57,38), mientras el bronce quedó en manos del japonés Taiji Onoue (1:01,12).
+
+En esa misma prueba, ahora en la rama W35, Elisa Vergara tuvo una buena actuación y terminó quinta, con un tiempo de 1:09,25.
+
+Buenas noticias también para Oscar Sotomayor, que aseguró su lugar en la final de los 400 metros M70 luego de correr en 1:05,83.
+
+En salto de altura, Marcela Barrientos cerró sexta en la categoría W60, con un impulso de 1,26 metros, y en la media maratón Gloria Aparicio llegó quinta en su rango W70, con un registro de 2:48,46.
+
+La delegación nacional también contó con las participaciones de Renato Orellana, quien finalizó 10° en el pentatlón de lanzamientos M55 con 2.075 puntos, y de John Ramírez, que fue 12° en el lanzamiento de la bala con 8,96 metros.
+
+====
+
 categoria: running
 fecha: 2026-08-30
 etiqueta: Maratón de Sydney - Running
