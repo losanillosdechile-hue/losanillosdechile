@@ -229,7 +229,7 @@ A su vez, Catalina Vidaurre quedó en el puesto 26° en la categoría Elite Cros
 ====
 
 categoria: basquetbol
-fecha: 2026-08-30
+fecha: 2026-08-31
 etiqueta: Eliminatorias Mundial Catar 2027 - Basquetbol
 titulo: Dura caída ante República Dominicana
 bajada: La selección chilena de básquetbol masculina cayó por 101 a 66 ante República Dominicana por la segunda ronda de las Clasificatorias al Mundial de Catar 2027. 
