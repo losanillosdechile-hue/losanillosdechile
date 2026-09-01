@@ -228,6 +228,30 @@ A su vez, Catalina Vidaurre quedó en el puesto 26° en la categoría Elite Cros
 
 ====
 
+categoria: basquetbol
+fecha: 2026-08-30
+etiqueta: Eliminatorias Mundial Catar 2027 - Basquetbol
+titulo: Dura caída ante República Dominicana
+bajada: La selección chilena de básquetbol masculina cayó por 101 a 66 ante República Dominicana por la segunda ronda de las Clasificatorias al Mundial de Catar 2027. 
+firma: Redacción Los Anillos de Chile
+portada: no
+texto:
+La selección chilena de básquetbol fue superada por República Dominicana por 101 a 66 en partido disputado en Santo Domingo, válido por la segunda ronda de las clasificatorias al Mundial de Catar 2027.
+
+Si bien los dirigidos de Manuel Córdova llegaron a tierras caribeñas luego de un duro encuentro con Estados Unidos, este lunes le tocó ver a un conjunto dominicano sólido, con buen manejo defensivo y con un despliegue táctico que le costó contener.
+
+En el primer cuarto, las cosas no fueron tan complicadas, incluso en los primeros 4 minutos Chile estuvo en ventaja, pero de ahí en adelante, todo fue hacia el conjunto local, que cerró la manga con un parcial de 20 a 16.
+
+En el segundo cuarto, la tónica fue la misma, con un claro dominio dominicano, pero la Roja buscó que la distancia no fuera amplia, y consiguió cerrar el período con un 22 a 20 en contra, sólo con 2 puntos de diferencia.
+
+Ya en la tercera manga el conjunto caribeño apretó el acelerador y se fue con todo para asegurar el juego. Tanto así que completó la manga por 33 a 10.
+
+Chile salió en el último cuarto con la intención de mejorar las acciones, y de hecho hubo un lapso en que iba acortando las cifras, pero el cuadro local se hizo valer en su terreno y terminó liquidando el juego con un 26 a 20 en el parcial y 101 a 66 en el total.
+
+El conjunto nacional marcha en el sexto puesto del grupo, con 10 unidades, y en noviembre deberá afrontar como local los próximos desafíos ante México (27-11) y República Dominicana (30-11). 
+
+====
+
 categoria: atletismo
 fecha: 2026-08-30
 etiqueta: Mundial de Atletismo Master - Atletismo
