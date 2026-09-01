@@ -57,7 +57,7 @@
 
 categoria: breves
 fecha: 2026-09-01
-etiqueta: Mundial de Atletismo Master - Atletismo
+etiqueta: Premio Nacional del Deporte - Breves
 titulo: Katherine Wollermann, Premio Nacional del Deporte
 bajada: La representante del Team ParaChile y tricampeona mundial de para canotaje fue elegida este lunes por la comisión encargada de discernir el galardón, en una sesión encabezada por el ministro del Deporte, Francisco Riveros.
 firma: Los Anillos de Chile/ Mindep.cl
@@ -80,6 +80,28 @@ En esa misma línea, el director nacional (s) del IND, Juan Pablo Salgado, manif
 El Premio Nacional del Deporte de Chile, creado por el artículo 79° de la Ley N°19.712, consiste en un galardón que se otorga anualmente por el Estado de Chile al deportista o equipo de deportistas chilenos, tanto convencionales o paralímpicos, que en el año calendario anterior se haya distinguido por sus resultados competitivos o por su trayectoria destacada y ejemplar para la juventud del país.
 
 El galardón está compuesto por un Diploma de Distinción Deportiva, firmado por el Presidente de la República, José Antonio Kast y una suma única en dinero equivalente a 245 Unidades Tributarias Mensuales, si se trata de un deportista, o equivalente a 367 Unidades Tributarias Mensuales, si se trata de un equipo de deportistas, distribuido a prorrata entre sus integrantes..
+
+====
+
+categoria: atletismo
+fecha: 2026-09-01
+etiqueta: Mundial de Atletismo Master - Atletismo
+titulo: Bárbara Tapia, campeona mundial en garrocha
+bajada: La especialista nacional consiguió el primer lugar en la categoría W50 del salto con garrocha en el Mundial de Atletismo Master de Daegu. Su hermana, Angélica, se quedó con la plata en la categoría W55, mientras que Óscar Sotomayor fue bronce en los 400 metros M70.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+La atleta chilena Bárbara Tapia se alzó como campeona mundial del salto con garrocha, categoría W50, en el Mundial Máster que se desarrolla en Daegu (Corea del Sur), entregando la tercera medalla dorada para el país en esta cita.
+
+Tapia, se quedó con el primer lugar de la garrocha W50, con un registro de 2,50 metros en una jornada donde la lluvia incidió en cómo afrontaron el desafío las atletas. La plata fue para Melanie Opp, de Alemania, con 2,30 metros, y el bronce para Renata Szykulska, de Polonia, con 2,00 metros.
+
+A su vez, las alegrías para Chile en el torneo no se quedaron con este logro. Angélica Tapia, se quedó con la presea de plata en garrocha W55, con un registro de 1,40 metros. El oro fue para Gaelyne Kenshole, de Australia, con 2,70 metros, y el bronce para Rosecy Lee Onong, de Estados Unidos, con1,40 metros.
+
+Por su parte, Óscar Sotomayor, se alzó con el tercer lugar y medalla de bronce en los 400 metros W70, con un tiempo de 1:05,83. El oro quedó para para Gerhard Zorn, de Alemania, con 59:07, y la plata para Juan Carlos Rodríguez, de España, con 1:02,00.
+
+En tanto, Sara Montecinos avanzó a la final de los 400 metros W70, tras ganar su ronda semifinal con un tiempo de 1:10,01, siendo además récord del campeonato.  Ariella Bergamin, otra de las nacionales en competencia, fue sexta en su ronda de semifinales de 400 metros W70.
+
+Otro paso chileno a la final vino por cuenta de Mariela Sepúlveda, quien resultó tercera en su serie de semifinal de 400 metros W40 con 1:03,78, mientras que Evelyn Ortiz quedó sexta en su semifinal de 400 metros W40 con 1:06:64.
 
 ====
 
