@@ -54,6 +54,35 @@
 #
 # ======================================================================
 
+
+categoria: breves
+fecha: 2026-09-01
+etiqueta: Mundial de Atletismo Master - Atletismo
+titulo: Katherine Wollermann, Premio Nacional del Deporte
+bajada: La representante del Team ParaChile y tricampeona mundial de para canotaje fue elegida este lunes por la comisión encargada de discernir el galardón, en una sesión encabezada por el ministro del Deporte, Francisco Riveros.
+firma: Los Anillos de Chile/ Mindep.cl
+portada: si
+texto:
+La campeona paralímpica y tricampeona mundial de para canotaje, Katherinne Wollermann, fue elegida este lunes como ganadora del Premio Nacional del Deporte 2025, tras la sesión de la comisión encargada de discernir el máximo reconocimiento que entrega anualmente el Estado de Chile a un deportista o equipo de deportistas por sus resultados competitivos o trayectoria destacada y ejemplar.
+
+La deportista del Team ParaChile suma este reconocimiento a una de las trayectorias más destacadas del deporte paralímpico nacional. En los Juegos Paralímpicos de París 2024, Wollermann conquistó la medalla de oro en la prueba KL1 200 metros, estableciendo además un nuevo récord mundial, con un tiempo de 51,95 segundos.
+
+A nivel mundial, la deportista ha conseguido tres títulos consecutivos en la misma prueba. En 2024 se consagró campeona mundial en Szeged, Hungría; en 2025 revalidó el título en Milán, Italia, con un registro de 53,52 segundos; y el sábado recién pasado conquistó nuevamente el oro en el Campeonato Mundial de Para Canotaje de Polonia, alcanzando así el tricampeonato mundial.
+
+La comisión que discernió el Premio Nacional del Deporte 2025 estuvo presidida por el ministro del Deporte, Francisco Riveros, y conformada además por el senador Sebastián Keitel, el diputado Cristian Tapia, el director nacional (s) del Instituto Nacional de Deportes, Juan Pablo Salgado, y el presidente del Círculo de Periodistas Deportivos, Pablo Vargas.
+
+Al respecto, el secretario de Estado sostuvo que: “Estamos muy contentos de que Katherine sea la ganadora del Premio Nacional del Deporte 2025. Es un reconocimiento muy merecido a una trayectoria marcada por el esfuerzo, la perseverancia y grandes logros para Chile. Su medalla en los Juegos Paralímpicos de París y su reciente tricampeonato mundial dan cuenta de una carrera extraordinaria. Como país, le agradecemos por representarnos y llevar el nombre de Chile a lo más alto”.
+
+Por su parte, Katherinne Wollermann, quien fue notificada de su galardón por medio de una videollamada, indicó que "este es un premio muy importante, no solo para mí, sino también para el deporte chileno y, especialmente, para el deporte paralímpico. Poder coronar este reconocimiento con el tricampeonato mundial y la medalla de París lo hace aún más especial. Estoy muy agradecida del IND, de mi equipo y de todas las personas que me han acompañado durante estos años. Un deportista no llega a estos resultados sin apoyo institucional”.
+
+En esa misma línea, el director nacional (s) del IND, Juan Pablo Salgado, manifestó que “estamos muy contentos por esta tremenda noticia para Katherinne. Venimos de celebrar su gran triunfo del fin de semana y sabemos que revalidar un título requiere aún más esfuerzo. Por eso, nos alegra especialmente poder entregarle este reconocimiento a una deportista que ha llevado el nombre de Chile a lo más alto. La esperamos a su regreso al país”.
+
+El Premio Nacional del Deporte de Chile, creado por el artículo 79° de la Ley N°19.712, consiste en un galardón que se otorga anualmente por el Estado de Chile al deportista o equipo de deportistas chilenos, tanto convencionales o paralímpicos, que en el año calendario anterior se haya distinguido por sus resultados competitivos o por su trayectoria destacada y ejemplar para la juventud del país.
+
+El galardón está compuesto por un Diploma de Distinción Deportiva, firmado por el Presidente de la República, José Antonio Kast y una suma única en dinero equivalente a 245 Unidades Tributarias Mensuales, si se trata de un deportista, o equivalente a 367 Unidades Tributarias Mensuales, si se trata de un equipo de deportistas, distribuido a prorrata entre sus integrantes..
+
+====
+
 categoria: atletismo
 fecha: 2026-08-29
 etiqueta: Mundial de Atletismo Master - Atletismo
