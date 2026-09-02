@@ -55,6 +55,25 @@
 # ======================================================================
 
 
+categoria: atletismo
+fecha: 2026-09-02
+etiqueta: Mundial de Atletismo Master - Atletismo
+titulo: Sara Montecinos, doble campeona mundial
+bajada: Sara Montecinos se quedó con el oro en la final de los 400 metros planos W70 del Mundial de Atletismo Máster de Daegu, sumando al título que ya se adjudicó en los 200 metros.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+La velocista Sara Montecinos nuevamente se subió al podio para recibir una medalla de oro en el Campeonato Mundial Máster de Daegu (Corea del Sur), luego de ganar esta vez la final de los 400 metros planos W70.
+
+Montecinos, quien ya había ganado días atrás los 200 metros, se quedó este miércoles con la vuelta a la pista con un tiempo de 1:09,59, consiguiendo además el récord de la competencia para esa categoría.
+
+El podio lo completaron Leandra Funk, de Estados Unidos, quien se quedó con la medalla de plata con 1:19,61, mientras que el bronce fue para la finlandesa Raija Hildén, con 1:21,96.
+
+En otros resultados de nacionales, Elisa Vergara quedó séptima en los 100 metros vallas W35, con un tiempo de 16,54, mientras que John Ramírez finalizó noveno en el pentatlón de lanzamientos M45 con 2.067 puntos.
+
+
+====
+
 categoria: breves
 fecha: 2026-09-01
 etiqueta: Premio Nacional del Deporte - Breves
