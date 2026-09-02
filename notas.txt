@@ -61,7 +61,7 @@ etiqueta: Mundial de Atletismo Master - Atletismo
 titulo: Sara Montecinos, doble campeona mundial
 bajada: Sara Montecinos se quedó con el oro en la final de los 400 metros planos W70 del Mundial de Atletismo Máster de Daegu, sumando al título que ya se adjudicó en los 200 metros.
 firma: Por el equipo editorial de Los Anillos de Chile
-portada: no
+portada: si
 texto:
 La velocista Sara Montecinos nuevamente se subió al podio para recibir una medalla de oro en el Campeonato Mundial Máster de Daegu (Corea del Sur), luego de ganar esta vez la final de los 400 metros planos W70.
 
