@@ -54,6 +54,27 @@
 #
 # ======================================================================
 
+categoria: atletismo
+fecha: 2026-09-03
+etiqueta: Mundial de Atletismo Master - Atletismo
+titulo: Chile cerró participación con podio en 4x400
+bajada: El bronce del equipo de 4x400 W40 terminó de coronar un gran torneo para la representación chilena en tierras asiáticas.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto:
+Con un nuevo podio cerró la participación chilena en el mundial de Atletismo Master que se desarrolló en Daegu, Corea del Sur, luego que el cuarteto chileno de 4x400 W40 se quedó con el bronce en dicha prueba.
+
+El equipo, conformado por Evelyn Ortiz, Andrea Gómez, María Elena Aguilera y Mariela Sepúlveda resultó tercera en la prueba con un tiempo de 4:19,74, manteniéndose siempre en los puestos de avanzada.
+
+El oro se lo llevó el conjunto de Alemania, que completó la posta con un registro de  4:10,36 y la plata el conjunto de Kenia, con 4:17,21, que en ocasiones tanto luchó por el oro como se vio exigida por las chilenas.
+
+La última jornada también contó con la presencia de David Escobar, quien finalizó noveno en su serie semifinal de 110 metros vallas M35 con un tiempo de 18,20 segundos.
+
+Al completar el torneo, el equipo chileno se quedó con 4 medallas de oro 6 preseas de plata y 4 bronces, siendo, además, el mejor equipo sudamericano y el segundo mejor latinoamericano, detrás de México.
+
+El equipo con más medallas fue el cuadro de Estados Unidos, con 96 de oro, 62 de plata y 68 de bronce; seguido por Australia, con 59 oros, 60 plata y 51 bronces y tercero, Japón, con 54 preseas doradas, 59 plateadas y 53 de bronce.
+
+====
 
 categoria: atletismo
 fecha: 2026-09-02
