@@ -102,6 +102,32 @@ El galardón está compuesto por un Diploma de Distinción Deportiva, firmado po
 
 ====
 
+categoria: rugby
+fecha: 2026-09-02
+etiqueta: Americas Rugby Championship - Rugby
+titulo: Chile XV goleó a Paraguay y decide el título con Argentina XV
+bajada: Ocho tries le bastaron a los dirigidos por Pablo Lemoine para liquidar el juego y llegará a la última fecha del Americas Rugby Championship con chances de ser campeón del torneo.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+Chile XV venció 54-26 a Paraguay este miércoles en la Escuela Militar, por la segunda fecha del Americas Rugby Championship, y deberá definir el título con Argentina el domingo en Valparaíso.
+
+Para esta ocasión, el coach del conjunto nacional, Pablo Lemoine, hizo 13 cambios respecto al equipo que había superado a Uruguay XV por 33-12 en el debut. 
+
+En tanto, Paraguay, que llegaba de caer 58-11 ante Argentina XV, se vio superado prontamente por los locales, tanto así que terminó cediendo ocho tries en el global del encuentro.
+
+Cristián López, Joaquín Milesi (en dos ocasiones) y Marco Alvano, todos con conversión de Tomás Salas, dejaron claro que no querían sorpresas y cerraron la primera mitad por 28 a 0.
+
+En el segundo tiempo, y luego de un tempranero try de Marcelo Torrealba, los guaraníes descontaron, por intermedio de Juan González.
+
+Ya la visita pudo tener más acción, y aunque a los 49 minutos Alvano aumentaba las cifras para Chile, a los 58 Facundo Paiva logró el segundo try para los guaraníes. 
+Los nacionales siguieron engrosando las cifras y gracias a Norman Aguayo y Claudio Roa, estaban dejando todo 54 a 12.
+
+No obstante, los dirigidos por Pablo Lemoine terminaron con dos hombres menos, por amonestaciones a Santiago Valenzuela y Matías Dittus, lo cual fue aprovechado por la visita para estrechar el marcador gracias a dos trues de Jordy Chávez, con conversiones de Sebastián Urbieta, para dejar las cosas 54 a 26.
+
+
+====
+
 categoria: atletismo
 fecha: 2026-09-01
 etiqueta: Mundial de Atletismo Master - Atletismo
