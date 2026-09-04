@@ -56,6 +56,27 @@
 
 categoria: atletismo
 fecha: 2026-09-03
+etiqueta: World Athletics Ultimate Championship - Atletismo
+titulo: Martina Weil, confirmada para el World Athletics Ultimate Championship
+bajada: La velocista nacional aseguró su presencia para el torneo que reunirá a cerca de 400 atletas de alrededor de 70 países y que se llevará a cabo entre el 11 y 13 del presente mes en Budapest (Hungría).
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto:
+La atleta chilena Martina Weil volverá a vestir los colores nacionales en uno de los grandes escenarios del atletismo internacional. La velocista aseguró su clasificación en los 400 metros planos para disputar el World Athletics Ultimate Championship Budapest 2026, que se realizará entre el 11 y el 13 de septiembre en Hungría.
+
+Weil será parte de la primera edición de una competencia que llega para marcar un nuevo capítulo en el calendario mundial. Cerca de 400 atletas de alrededor de 70 países se reunirán en Budapest para definir, al cierre de la temporada, a los campeones entre los campeones.
+
+El formato será tan exigente como exclusivo. No habrá rondas preliminares: las pruebas de pista comenzarán directamente desde semifinales, mientras que las pruebas de campo irán a finales. 
+
+En total serán 28 finales distribuidas en tres jornadas nocturnas, con los principales nombres del atletismo mundial como protagonistas.
+
+Con una bolsa de premios de 10 millones de dólares y US$150.000 para cada campeón, el Ultimate Championship tendrá además el mayor premio económico entregado hasta ahora en una competencia de atletismo.
+
+
+====
+
+categoria: atletismo
+fecha: 2026-09-03
 etiqueta: Mundial de Atletismo Master - Atletismo
 titulo: Chile cerró participación con podio en 4x400
 bajada: El bronce del equipo de 4x400 W40 terminó de coronar un gran torneo para la representación chilena en tierras asiáticas.
