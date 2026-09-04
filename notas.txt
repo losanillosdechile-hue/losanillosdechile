@@ -55,7 +55,7 @@
 # ======================================================================
 
 categoria: atletismo
-fecha: 2026-09-03
+fecha: 2026-09-04
 etiqueta: World Athletics Ultimate Championship - Atletismo
 titulo: Martina Weil, confirmada para el World Athletics Ultimate Championship
 bajada: La velocista nacional aseguró su presencia para el torneo que reunirá a cerca de 400 atletas de alrededor de 70 países y que se llevará a cabo entre el 11 y 13 del presente mes en Budapest (Hungría).
