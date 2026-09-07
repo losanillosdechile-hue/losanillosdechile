@@ -54,6 +54,27 @@
 #
 # ======================================================================
 
+categoria: rugby
+fecha: 2026-09-06
+etiqueta: Américas Rugby Championship - Rugby
+titulo: ¡Histórico título para Chile XV!
+bajada: El conjunto nacional se corona campeón invicto del Americas Rugby Championship tras vencer a Argentina XV
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto:
+El equipo de Chile XV se consagró campeón por primera vez del Americas Rugby Championship, luego de superar a Argentina XV por 28-27 en la última fecha, en partido disputado en el Estadio Elías Figueroa de Valparaíso. 
+
+El encuentro, que reunía a los dos mejores equipos del certamen en condición de invictos, comenzó con una amplia ventaja en favor de la visita, gracias a los tries de Bautista Lescano y Franco Rossetto, además de un drop y las ejecuciones de Ignacio Dogliani, que pusieron el marcador 15-0. 
+
+Sin embargo, el conjunto nacional descontó antes del descanso con una conquista de Santiago Videla, estirada por la conversión de Matías Garafulic para irse al entretiempo 15-7 abajo.
+
+En el complemento, los trasandinos siguieron imponiendo sus términos con dos ensayos de Martín Vaca. Pese a la adversidad, los nacionales, mediante tries de Benjamín Videla y Matías Dittus, pudieron meter a Chile en la pelea.
+
+Sin embargo, la jugada clave se originó en el minuto 79 del encuentro, cuando tras una jugada de alta presión, Ernesto Tchimino apoyó el try que dejó a los locales a tiro de hazaña. 
+
+Y esta llegó con la conversión de Matías Garafulic, que dejó las cifras 28 a 27, resultado que selló el encuentro y el primer título de este certamen para los chilenos. 
+
+
 categoria: atletismo
 fecha: 2026-09-04
 etiqueta: World Athletics Ultimate Championship - Atletismo
