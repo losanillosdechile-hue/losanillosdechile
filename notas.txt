@@ -54,6 +54,29 @@
 #
 # ======================================================================
 
+categoria: santafe2026
+fecha: 2026-09-07
+etiqueta: Juegos Suramericanos - Santa Fe 2026
+titulo: Emmanuelle Siva y Manuela Urroz, abanderados en Santa Fe 2026
+bajada: El patinador Emmanuelle Silva y la hockista Manuela Urroz portarán la bandera del Team Chile en los Juegos Suramericanos Santa Fe 2026
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto:
+El patinador Emmanuelle Silva y la hockista Manuela Urroz serán los encargados de portar la bandera del Team Chile en los Juegos Suramericanos Santa Fe 2026, que se desarrollarán entre el 12 al 26 de septiembre.
+
+Dentro de sus palmarés, Silva ostenta un mundial en Montecchio Maggiore 2023 y en los Juegos Mundiales de Cali 21013, ambos en la distancia de 200 metros, además de oros panamericanos en Toronto 2015 y Santiago 2023.
+
+En Juegos Suramericanos, tiene un oro en 200 metros y bronce en 500 metros, ambas en Asunción 2022.
+
+Por su parte, Urroz es seleccionada desde 2009 y ha brillado con las Diablas, sumando preseas a nivel sudamericano, panamericano e internacional, destacando los bronces en los Juegos Panamericanos de Guadalajara 2011 y Santiago 2023.
+
+En Juegos Suramericanos, ostenta un oro en Asunción 2012, plata en Santiago 2014 y bronce en Cochabamba 2018.
+
+Hoy lidera al equipo desde la capitanía y fue parte del equipo que participó e los dos mundiales en los que Chile ha estado presente (2022 Y 2026)
+
+
+====
+
 categoria: rugby
 fecha: 2026-09-06
 etiqueta: Américas Rugby Championship - Rugby
@@ -74,6 +97,7 @@ Sin embargo, la jugada clave se originó en el minuto 79 del encuentro, cuando t
 
 Y esta llegó con la conversión de Matías Garafulic, que dejó las cifras 28 a 27, resultado que selló el encuentro y el primer título de este certamen para los chilenos. 
 
+====
 
 categoria: atletismo
 fecha: 2026-09-04

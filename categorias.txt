@@ -21,6 +21,7 @@
 
 editorial   | Editorial   | #63472F | editorial.html   | img/atletismo.jpg?v=1
 voleibol    | Vóleibol    | #7C2331 | voleibol.html    | img/voleibol.jpg?v=2
+santafe2026 | Santa Fe 2026    | #7C2331 | santafe.html    | img/santafe.jpg?v=1
 basquetbol  | Básquetbol  | #B5622C | basquetbol.html  | img/basquetbol.jpg?v=1
 triatlon    | Triatlón    | #1F6F73 | triatlon.html    | img/triatlon.jpg?v=1
 atletismo   | Atletismo   | #9C7A1E | atletismo.html   | img/atletismo.jpg?v=1
