@@ -189,6 +189,38 @@ El galardón está compuesto por un Diploma de Distinción Deportiva, firmado po
 
 ====
 
+categoria: editorial
+fecha: 2026-09-08
+etiqueta: Maratón de La Serena - Editorial
+titulo: No se prepara para errores
+bajada: “Los organizadores de estos eventos deben tener claro que si se paga una inscripción, es porque hay una seguridad de que lo que ofrecen es lo que se tendrá”.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+El running es una actividad muy noble, donde muchas personas aprovechan los espacios como plazas, parques e incluso las calles para practicarla.
+
+Varios de estos cultores no sólo se dedican a correr por la vida sana, sino que también se preparan para algunas carreras, ya sea 5, 10, 21 o 42k.
+
+Entonces, la dedicación es importante, ya que para muchos estas distancias son un desafío principal.
+
+Y qué sucede, buscan un team, aplicaciones o consejos para llegar de la mejor manera a estas carreras, las que normalmente tienen servicios adscritos al cupo que se consigue.
+
+Y bueno, cuando se presentan a estas instancias, la idea es que todo salga bien.
+
+Sin embargo, en el último tiempo han ocurrido situaciones que han dejado mucho que desear y que generan molestia, enfado e incomodidades para quienes participan.
+
+Los problemas de las mediciones de las distancias, el que no lleguen las medallas, los kits de competencia, los resguardos de seguridad, la hidratación, los banderilleros, la entrega de resultados... y así un suma y sigue que lejos de ser un anecdotario, lleva a los runners a considerar a futuro si participan o no en las próximas ediciones, siempre que éstas tengan futuras ediciones.
+
+El reciente fin de semana se desarrolló la Maratón de La Serena, donde se esperaban a miles de runners ansiosos de desafiarse en las distancias de 5, 10, 21 y 42k.
+
+¿Y qué pasó? Fallas logísticas, carteles de cartón imperceptibles, mala medición de las distancias y para peor, problemas con los banderilleros y el poco conocimiento de la ruta de quienes debían escoltar a los corredores de avanzada. Y ni siquiera consultar sobre la entrega de los resultados.
+
+Problemas como estos son impresentables para eventos que buscan posicionarse en el calendario de corridas en el país, ya que tal como se señaló, hay tiempo, preparación, planificación de estrategias que se echan a la borda por desprolijidades.
+
+Por eso, las productoras y los organizadores de estos eventos deben tener claro que si se paga una inscripción, es porque hay una seguridad de que lo que ofrecen es lo que se tendrá, ya que el esfuerzo de quienes buscan estar presente es importante. 
+
+====
+
 categoria: rugby
 fecha: 2026-09-02
 etiqueta: Americas Rugby Championship - Rugby
