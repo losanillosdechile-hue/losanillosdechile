@@ -54,6 +54,26 @@
 #
 # ======================================================================
 
+
+categoria: voleibol
+fecha: 2026-09-06
+etiqueta: Sudamericano de Río de Janeiro - Voleibol
+titulo: Chile se recuperó y derrotó a Venezuela
+bajada: A punta de remaches, las Guerreas Rojas derrotaron por 3 a 1 a Venezuela en el Sudamericano de Río de Janeiro.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto:
+Las Guerreras Rojas consiguieron su primera victoria en el Campeonato Sudamericano Femenino, tras imponerse por 3-1 Venezuela en el mítico Maracanãzinho.
+
+Las chilenas 🇨🇱 dominaron el encuentro y se quedaron con el triunfo por parciales de 25-18, 25-20, 21-25 y 25-22.
+
+Dominga Aylwin fue la máxima anotadora del partido, aportando 28 puntos para la victoria nacional.
+
+Tras este repunte, considerando la derrota del martes ante Colombia (3 a 00), las chilenas volverán a la cancha mañana, cuando enfrenten a Argentina, nuevamente desde las 14:00 horas (de Chile).
+
+
+====
+
 categoria: santafe2026
 fecha: 2026-09-07
 etiqueta: Juegos Suramericanos - Santa Fe 2026
