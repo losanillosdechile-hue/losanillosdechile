@@ -56,7 +56,7 @@
 
 
 categoria: voleibol
-fecha: 2026-09-06
+fecha: 2026-09-09
 etiqueta: Sudamericano de Río de Janeiro - Voleibol
 titulo: Chile se recuperó y derrotó a Venezuela
 bajada: A punta de remaches, las Guerreas Rojas derrotaron por 3 a 1 a Venezuela en el Sudamericano de Río de Janeiro.
