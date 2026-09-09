@@ -189,6 +189,33 @@ El galardón está compuesto por un Diploma de Distinción Deportiva, firmado po
 
 ====
 
+categoria: atletismo
+fecha: 2026-09-08
+etiqueta: Zonal Sur - Atletismo
+titulo: Curicó recibió a los atletas máster
+bajada: Sobre 500 atletas de más de 50 clube de todo el país tomaron parte del Campeonato Zonal Sur de Atletismo Máster en el Estadio La Granja de Curicó.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+Los Robles, CAS Chillán y Asecon fueron los clubes más destacados en el Campeonato Zonal Sur de Atletismo Máster, que se desarrolló este fin de semana en el estadio La Granja de Curicó.
+
+El evento contó con la participación de sobre 500 atletas de más de 50 clubes de atletas seniors de todo el país, desde los 30 años en adelante, quienes compitieron en pruebas de pista, lanzamientos, saltos y ruta.
+
+Los Robles totalizó 32 medallas de oro, 28 de plata y 10 de bronce; CAS Chillán quedó con 28 oros, 10 platas y 7 bronces, mientras que Asecon terminó con 19 preseas de oro, 11 de plata y 6 de bronce. 
+
+En el Club Los Robles destacaron Daniela Hidalgo, quien ganó los 80 metros vallas, los el lanzamiento de la bala, el salto alto y la posta 4 x 100 metros W40.
+
+Además, sobresalieron Angélica Rubina, con medallas de oro en los 2.000 con obstáculos, 800 metros planos y el relevo de 4x100 metros W65; y Roberto Flores, vencedor en los 10K Ruta, 3.000 metros con obstáculos y Cross Country M30.
+
+Por parte de CAS Chillán los más destacados fueron Rebeca Soto, que ganó en los lanzamientos del disco, jabalina, martelete y martillo W50; y Ariel Torres, que se quedó con el primer lugar en 80 metros vallas, y los saltos alto, largo y triple M70.
+
+Además, hubo actuaciones sobresalientes de José Miguel Ferrada, ganador en los 100 y 200 metros planos, además de la posta 4 x 100 M50.
+
+En tanto, por parte de Asecon, destacaron Genoveva Hormazábal, que se quedó con los oros de los saltos alto, largo y triple W75; y Luisa Parra, vencedora en los 100 y 200 metros planos W90. 
+
+
+====
+
 categoria: editorial
 fecha: 2026-09-08
 etiqueta: Maratón de La Serena - Editorial
