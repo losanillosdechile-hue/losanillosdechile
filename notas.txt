@@ -248,6 +248,27 @@ Por eso, las productoras y los organizadores de estos eventos deben tener claro 
 
 ====
 
+categoria: voleibol
+fecha: 2026-09-02
+etiqueta: Sudamericano - Voleibol
+titulo: Duro debut de las Guerreras en el Sudamericano
+bajada: Las Guerreras Rojas cayeron ante Colombia en la primera jornada del torneo que se desarrolla en Río de Janeiro.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+La selección chilena de vóleibol femenina cayó ante su similar de Colombia por 0-3 (19-25, 20-25 y 19-25) en su debut en el Sudamericano Femenino, que se disputa en Río de Janeiro.
+
+Las Guerreras Rojas, pese a luchar en cada jugada, se vieron superaras ante las cafeteras, que no dudaron en mostrar sus credenciales.
+
+La máxima anotadora del encuentro fue la colombiana Montaño, con 17 puntos, mientras que por Chile destacó Dominga Aylwin, quien aportó 16 unidades.
+
+Cabe recordar que las chilenas ya habían sufrido una derrota similar ante las colombianas por 0-3 (19-25, 20-25 y 13-25) en la Copa Sudamericana de Lima, en julio.
+
+Este miércoles, las Guerreras Rojas tendrán una nueva oportunidad para ir por la victoria cuando enfrenten a Venezuela, desde las 14:00 horas.
+
+
+====
+
 categoria: rugby
 fecha: 2026-09-02
 etiqueta: Americas Rugby Championship - Rugby
