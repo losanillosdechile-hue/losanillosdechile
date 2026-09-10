@@ -210,6 +210,24 @@ El galardón está compuesto por un Diploma de Distinción Deportiva, firmado po
 ====
 
 categoria: atletismo
+fecha: 2026-09-09
+etiqueta: JJOO de la Juventud - Atletismo
+titulo: Gorziglia, Ramírez y Cancino, a Dakar
+bajada: La Federación Atlética entregó la nómina de los representantes para los Juegos Olímpicos de la Juventud de Dakar.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+La Federación Atlética de Chile informa la selección nacional que nos representará en los Juegos Olímpicos de la Juventud Dakar 2026, que se realizarán en Senegal entre el 31 de octubre y el 13 de noviembre de 2026.
+
+Según comunicó la entidad, los atletas son: Vittorio Gorziglia, en el Lanzamiento del disco; Valentina Cancino, en los 800 metros planos, y Roxana Ramírez, en los 100 metros planos.
+
+En el disco, Gorziglia tiene una marca de 54,34 metros; Cancino tiene una tiempo de 2:10,96 en los 800 metros, y Ramírez ostenta un registro de 11,47 en los 100 metros.
+
+La delegación nacional estará acompañada por el entrenador Eduardo Sotomayor Garretón.
+
+====
+
+categoria: atletismo
 fecha: 2026-09-08
 etiqueta: Zonal Sur - Atletismo
 titulo: Curicó recibió a los atletas máster
