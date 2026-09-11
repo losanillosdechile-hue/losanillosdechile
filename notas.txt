@@ -56,6 +56,27 @@
 
 
 categoria: voleibol
+fecha: 2026-09-10
+etiqueta: Sudamericano de Río de Janeiro - Voleibol
+titulo: Las Guerreras lucharon, pero no pudieron ante Argentina
+bajada: La selección femenina de voleibol cayó por 3 a 0 ante las trasandinas y sumó su segunda derrota en el Sudamericano de Río.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto:
+Las Guerreras Rojas, pese al esfuerzo y la entrega en la cancha, no pudieron ante el sexteto de Argentina y cayeron por 0-3 (21-25, 18-25 y 17-25) en su tercer partido del Campeonato Sudamericano Femenino, que se disputa en Río de Janeiro.
+
+Si bien en el primer set se podía visualizar un encuentro que podría estar abierto, en las mangas posteriores las trasandinas mostraron su oficio y logaron imponerse al conjunto nacional.
+
+Dominga Aylwin volvió a destacar como la máxima anotadora chilena, aportando 15 puntos. Por Argentina, la capitana Cugno lideró la ofensiva con 19 unidades.
+
+Cabe recordar que, en julio, la Selección Chilena Adulta Femenina también cedió el juego ante las argentinas, en la Copa Sudamericana Lima 2026, donde cayó por 0-3 (14-25, 21-25 y 20-25) en la definición por el tercer puesto.
+
+El sábado, las Guerreras Rojas tendrán una nueva oportunidad de ir por su segunda victoria en el torneo, cuando enfrenten a las locales en el Maracanazinho.
+
+
+====
+
+categoria: voleibol
 fecha: 2026-09-09
 etiqueta: Sudamericano de Río de Janeiro - Voleibol
 titulo: Chile se recuperó y derrotó a Venezuela
