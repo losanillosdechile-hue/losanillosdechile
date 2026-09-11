@@ -54,6 +54,25 @@
 #
 # ======================================================================
 
+categoria: atletismo
+fecha: 2026-09-10
+etiqueta: World Athletics Ultimate Championship - Atletismo
+titulo: Martina Weil, a la final del World Athletics Ultimate Championship
+bajada: La atleta chilena cumplió la vuelta a la pista en 50,32 segundos en la World Athletics Ultimate Championship.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto:
+La atleta chilena Martina Weil avanzó a la final de la World Athletics Ultimate Championship, que se desarrolla en Budapest, Hungría, tras conseguir un registro de 50,32 segundos en la ronda semifinal.
+
+La campeona panamericana de Santiago 2023 integró la serie, en el carril 3, enfrentándose a exponentes como la noruega Henriette Jaeger, la neerlandesa Lieke Klaver y la norteamericana Aaliyah Butler, quienes también avanzaron a la final en la manga.
+
+La chilena no soltó el ritmo, siempre entre las mejores, y en la recta final logró meterse entre las 4 primeras, desplazando a la jamaicana Stacey Ann Williams y la polaca Natalia Bukowiecka, quienes hasta los 300 metros iban sobre la nacional.
+
+Weil llega a esta importante competencia con una mejor marca de 50.39 segundos durante la presente temporada y con el récord nacional de 49.72 segundos. Con lo logrado en Budapest, mejoró su marca del año.
+
+Este sábado disputará la final a las 13:08 (hora chilena).
+
+====
 
 categoria: voleibol
 fecha: 2026-09-10
