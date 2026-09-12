@@ -55,6 +55,25 @@
 # ======================================================================
 
 categoria: atletismo
+fecha: 2026-09-12
+etiqueta: World Athletics Ultimate Championship - Atletismo
+titulo: Martina Weil, quinta en el Ultimate
+bajada: La velocista chilena mejoró su marca de la temporada conseguida el viernes con sus 50 segundos clavados en los 400 metros.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto:
+La velocista chilena Martina Weil alcanzó un histórico quinto lugar en la final de los 400 metros planos del World Athletics Ultimate Championship, disputado en Budapest.
+
+Martina detuvo el cronómetro en 50.00 segundos, su mejor marca de la temporada, mejorando los 50.32 registrados en la semifinal de este viernes.
+
+En una carrera fuerte, donde en los 250 metros debió apretar para meterse en los puestos de avanzada y así logró quedar quinta, muy cerca de la neerlandesa Lieke Klaver.
+
+La carrera fue ganada por la dominicana Marileidy Paulino, con un tiempo de 49,07; seguida de la noruega Henriette Jaeger, con 49,28: y tercera la jamaicana Nickisha Pryce, con 49,56.
+
+====
+
+
+categoria: atletismo
 fecha: 2026-09-10
 etiqueta: World Athletics Ultimate Championship - Atletismo
 titulo: Martina Weil, a la final del World Athletics Ultimate Championship
