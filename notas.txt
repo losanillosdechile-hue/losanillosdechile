@@ -249,6 +249,27 @@ El galardón está compuesto por un Diploma de Distinción Deportiva, firmado po
 
 ====
 
+categoria: breves
+fecha: 2026-09-12
+etiqueta: Juegos Suramericanos 2030 - Breves
+titulo: Biobío, interesada en los Juegos Suramericanos 2030
+bajada: La Región del Biobío da el primer paso formal para convertirse en la sede de los Juegos Suramericanos (Odesur) 2030.
+firma: Por el equipo editorial de Los Anillos de Chile 7 COCH
+portada: no
+texto:
+El presidente del Comité Olímpico de Chile, Miguel Ángel Mujica, presentó el interés de la Región del Biobío para organizar la edición 2030 de los Juegos Suramericanos en reunión del Comité Ejecutivo de la Organización Deportiva Suramericana (ODESUR).
+
+La cita, enmarcada en los Juegos Suramericanos Santa Fe 2026 que comienzan este sábado en cinco ciudades de Argentina, fue la ocasión ideal para entregar formalmente la carta recibida por el COCH y firmada por el Gobernador Regional del Biobío, Sergio Giacaman.
+
+“Agradecemos el interés del Gobernador Giacaman por llevar a su región un evento tan importante como los Juegos Suramericanos. Para un país como Chile siempre será una gran noticia el albergar un Megaevento, pero si este se realiza fuera de Santiago tiene un beneficio extra: el de la descentralización y regionalización, algo que como Comité Olímpico celebramos y que puede traer grandes beneficios al deporte de alto rendimiento en el mediano plazo”, explicó el timonel del COCH, Miguel Ángel Mujica.
+
+“Ahora que el interés formal de la Región del Biobío fue presentado por el COCH ante ODESUR, tendremos que preparar un documento formal de postulación que cumpla con todos los requisitos que se nos presenten en el cuaderno de cargos. Este es un trabajo que requerirá a muchas personas e instituciones, incluyendo por supuesto al Ministerio del Deporte y el IND. Esperamos tener buenas noticias en los próximos meses”, agregó.
+
+La región tiene recitos deportivos de gran nivel que pueden albergar este magno evento, como el estadio Ester Roa Rebolledo de Concepción, el Estadio CAP de Talcahuano, las pruebas de piragüismo y remo en San Pedro de la Paz, y el gimnasio La Tortuga de Talcahuano, entre otros. 
+
+
+====
+
 categoria: atletismo
 fecha: 2026-09-09
 etiqueta: JJOO de la Juventud - Atletismo
