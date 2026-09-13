@@ -268,6 +268,27 @@ El galardón está compuesto por un Diploma de Distinción Deportiva, firmado po
 
 ====
 
+categoria: santafe2026
+fecha: 2026-09-13
+etiqueta: Juegos Suramericanos - Santa Fe 2026
+titulo: Atletas desfilaron en la Ceremonia Inaugural de Santa Fe 2026
+bajada: Cerca de 60 deportistas y miembros de la delegación desfilaron en la Ceremonia Inaugural de los Juegos Suramericanos de Santa Fe
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+Un grupo de 60 integrantes de la delegación chilena, entre deportistas, técnicos y delegados, participaron de la Ceremonia Inaugural de los Juegos Suramericanos de Santa Fe, que se desarrolló anoche en la ciudad trasandina. 
+
+De la mano de la hockista Manuela Urroz y el patinador Emanuelle Silva, los integrantes del Team Chile compartieron este momento junto a varios deportistas de los 15 países que competirán en las diferentes pruebas que comprende el evento.
+
+En el desfile, junto a los abanderados, participaron deportistas de esgrima, natación, bochas, esports, ecuestre y pentatlón, entre otras disciplinas.
+
+Sin embargo, las acciones y las competencias comienzan hoy domingo co presencia de chilenos en al menos nueve deportes: natación en aguas abiertas, natación clásica, hockey césped, esgrima, gimnasia artística, clavados, adiestramiento ecuestre, esports y vóleibol playa.
+
+A su vez, se informó de las bajas de Humberto Pizarro (Adiestramiento Ecuestre) y Arantzazú Pavez (Levantamiento de Pesas), por lo que la delegación nacional quedó definitivamente en 533 deportistas. 
+
+
+====
+
 categoria: breves
 fecha: 2026-09-12
 etiqueta: Juegos Suramericanos 2030 - Breves
