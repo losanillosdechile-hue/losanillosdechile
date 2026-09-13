@@ -388,6 +388,22 @@ Por eso, las productoras y los organizadores de estos eventos deben tener claro 
 ====
 
 categoria: voleibol
+fecha: 2026-09-13
+etiqueta: Sudamericano - Voleibol
+titulo: Chile cae ante Brasil y busca recuperarse ante Perú
+bajada: Las Guerreras Rojas cayeron por 3 a 0 ante las brasileñas en el Sudamericano de Río de Janeiro.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto:
+A pesar del esfuerzo y la entrega en cancha, las Guerreras Rojas cayeron este sábado ante la selección local en el Campeonato Sudamericano Femenino, que se desarrolla en Río de Janeiro.
+
+Las seleccionadas nacionales perdieron por 0-3 (13-25, 28-30 y 11-25) ante Brasil, en un encuentro donde Chile dejó todo en la cancha, destacando especialmente el segundo set, que se definió en un ajustado 28-30.
+
+Sin embargo, tienen la posibilidad de recuperarse este domingo, cuando enfrenten a Perú a partir de las 15:00 horas.
+
+====
+
+categoria: voleibol
 fecha: 2026-09-02
 etiqueta: Sudamericano - Voleibol
 titulo: Duro debut de las Guerreras en el Sudamericano
