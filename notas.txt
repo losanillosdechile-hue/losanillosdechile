@@ -54,6 +54,45 @@
 #
 # ======================================================================
 
+categoria: santafe
+fecha: 2026-09-13
+etiqueta: Juegos Suramericanos Santa Fe 2026 - Santa Fe 2026
+titulo: Chile ya sumó podios en la primera jornada
+bajada: Dos bronces en natación y otros dos en esgrima abrieron la cosecha de medallas para los chilenos en la primera jornada de los Juegos Suramericanos de santa Fe 2026. Kristel Köbrich consiguió su presea 19° en Juegos Suramericanos.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto:
+Con cuatro medallas de bronce, dos en esgrima y dos en natación, comenzó la primera jornada para el representativo chileno en los Juegos Suramericanos de Santa Fe 2026. 
+
+En la esgrima, Tanto Katina Proestakis como Arantza Inostroza tras cumplir una gran jornada, se quedaron con las preseas de bronce, tras caer ante la brasileña Di Renzo y la peruana Soriano, quienes se quedaron con el oro y la plata respectivamente.
+
+Las otras medallas cayeron en la natación. Kristel Köbrich apeló a su expertise y luchó para quedarse con el bronce en los 800 metros, los que completó con 8:41,47, detrás de las brasileñas Gabrielle Roncato (oro) y Beatriz Pimentel (plata). Con este logro, sumó 19 medallas en Juegos Suramericanos a su haber.
+
+A su vez, Mariano Lazzerini quedó terceo en la final de 100 metros braza con 1:01,22 detrás de los brasileños Caio Rodrigues (oro) y Joao Gomes (plata).
+
+Pero la jornada también tuvo importantes resultados. En el Beach Volley, la dupla de primos Marco y Esteban Grimalt comenzó con el pie derecho su participación, luego de superar a los uruguayos Fernández y Rubio por 2 a 0. 
+
+Por su parte, en damas, la dupla de Ale Dubost y Sofía Ohlsson cayó en la jornada ante las duplas de Argentina (Ghigliazza y Albala) y Paraguay (Valiente y Corrales), en ambos duelos, por 2 a 0.
+
+En clavados, Martina Flores finalizó octava en la final de clavados 1 metro con 135,65 puntos.
+
+En el sable masculino, Manuel Bahamonde perdió en cuartos de final ante el argentino Juan Bacha, mientras que, en la ronda de 16, Ricardo Álvarez perdió ante el brasileño Renato Saliba.
+
+En el hockey sobre césped, las Diablas derrotaron con comodidad por 16 a 0 a Paraguay, mientras que los Diablos iniciaron su participación dando cuenta de Perú por 7 a 0.
+
+En nado de aguas abiertas, en la prueba de 10 kilómetros, Daniel Quaas finalizó décimo con 1:58:18, mientras que, en damas, Eloisa Godoy terminó octava con 2:07:27.
+
+La natación también tuvo otras finales con presencia chilena. En los 100 metros libres femenino, Inés Marín finalizó quinta. En la prueba masculina, Elías Ardiles y Luis Toledo quedaron quinto y sexto, respectivamente.
+
+En los 200 metros combinados, Matías Mejía y Pedro Aguilera finalizaron cuarto y quinto, respectivamente. En los 50 espalda varones, Edhy Vargas quedó quinto y en los 100 metros braza, Laura Fingerhuth quedó octava.
+
+Por su parte, en la doma ecuestre, Daniela Araneda, con Unno; y Constance Porte, con Moro XL, se encuentren en los puestos 12° y 14°, respectivamente, en la primera ronda.
+
+Tras la jornada, Brasil lidera el medallero con 14 oros, 8 plata y 6 bronce; seguido por Argentina, con 3 de oro, 1 de plata y 7 de bronce, y tercero Colombia, con 2 preseas doradas y 4 de plata. Chile se encuentra octavo con las 4 de bronce. 
+
+
+====
+
 categoria: atletismo
 fecha: 2026-09-12
 etiqueta: World Athletics Ultimate Championship - Atletismo
