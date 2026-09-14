@@ -54,9 +54,9 @@
 #
 # ======================================================================
 
-categoria: santafe
+categoria: santafe2026
 fecha: 2026-09-13
-etiqueta: Juegos Suramericanos Santa Fe 2026 - Santa Fe 2026
+etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Chile ya sumó podios en la primera jornada
 bajada: Dos bronces en natación y otros dos en esgrima abrieron la cosecha de medallas para los chilenos en la primera jornada de los Juegos Suramericanos de santa Fe 2026. Kristel Köbrich consiguió su presea 19° en Juegos Suramericanos.
 firma: Por el equipo editorial de Los Anillos de Chile
