@@ -55,10 +55,10 @@
 # ======================================================================
 
 categoria: santafe2026
-fecha: 2026-09-13
+fecha: 2026-09-14
 etiqueta: Juegos Suramericanos - Santa Fe 2026
-titulo: Chile ya sumó podios en la primera jornada
-bajada: Dos bronces en natación y otros dos en esgrima abrieron la cosecha de medallas para los chilenos en la primera jornada de los Juegos Suramericanos de santa Fe 2026. Kristel Köbrich consiguió su presea 19° en Juegos Suramericanos.
+titulo: El BMX y los Esports sumaron los primeros oros en Santa Fe
+bajada: Catalina Vidaurre y Ángel Inostroza, en BMX Cross Country y en Asseto Corsa, respectivamente, se quedaron con las primeras medallas de oro chilenas en los Juegos Suramericanos.
 firma: Por el equipo editorial de Los Anillos de Chile
 portada: si
 texto:
@@ -107,11 +107,10 @@ Con los resultados de hoy, Chile marcha quinto con 2 medallas de oro, 4 de plata
 ====
 
 categoria: santafe2026
-fecha: 2026-09-14
+fecha: 2026-09-13
 etiqueta: Juegos Suramericanos - Santa Fe 2026
-titulo: El BMX y los Esports sumaron los primeros oros en Santa Fe
-bajada: Catalina Vidaurre y Ángel Inostroza, en BMX Cross Country y en Asseto Corsa, respectivamente, se quedaron con las primeras medallas de oro chilenas en los Juegos Suramericanos.
-firma: Por el equipo editorial de Los Anillos de Chile
+titulo: Chile ya sumó podios en la primera jornada
+bajada: Dos bronces en natación y otros dos en esgrima abrieron la cosecha de medallas para los chilenos en la primera jornada de los Juegos Suramericanos de santa Fe 2026. Kristel Köbrich consiguió su presea 19° en Juegos Suramericanos.
 portada: si
 texto:
 Con cuatro medallas de bronce, dos en esgrima y dos en natación, comenzó la primera jornada para el representativo chileno en los Juegos Suramericanos de Santa Fe 2026. 
