@@ -62,6 +62,58 @@ bajada: Dos bronces en natación y otros dos en esgrima abrieron la cosecha de m
 firma: Por el equipo editorial de Los Anillos de Chile
 portada: si
 texto:
+El lunes comenzó de buena manera para el Team Chile en los Juegos Suramericanos de Santa Fe, ya que sumó sus primeras medallas de oro, las que llegaron por parte del BMX y los Esports.
+
+En el BMX Cross Country, Chile hizo el 1-2 con el triunfo de Catalina Vidaurre y secundada por Florencia Monsálvez, que terminaron quedándose con el oro y la plata, respectivamente El bronce fue para la brasileña Karen Olimpio.
+
+En el Cross Country Masculino, Ignacio Gallo finalizó sexto y Patricio Farías terminó octavo.
+
+En los Esports, Ángel Inostroza se posicionó como el ganador suramericano de Asseto Corsa en Santa Fe 2026, sumando su presea dorada. La plata fue para el argentino Nectar Coleff y el bronce para el colombiano Omar Escorcia.
+
+La natación entregó la mayor cantidad de medallas para los chilenos en esta jornada. El equipo de 4 x 100 combinados masculino, compuesto por Edhy Vargas, Mariano Lazzerini, Elías Ardiles y Luis Toledo se quedó con la plata tras quedar segundo con un tiempo de 3:38,01, 1,64 segundos más que el equipo de Brasil, que se quedó con el oro. El bronce fue para Argentina.
+
+Mariano Lazzerini finalizó tercero y medalla de bronce en los 200 metros pecho, con un tiempo de 2:14,30, detrás del brasileño Caio Pumputis (oro) y el colombiano Juan Giraldo (plata). Con ello, el chileno suma tres preseas en estos juegos, tras la obtenida el domingo y el relevo de hoy.
+
+En los 200 metros libres femeninos, Inés Marín quedó tercera y se colgó la presea de bronce, tras registrar un tiempo de 2:02,19. El oro fue para la brasileña Aline Rodrigues y la plata para la también brasileña Gabrielle Roncatto.
+
+Edhy Vargas casi se suma al podio en los 100 metros espalda, tras quedar cuarto en la prueba. Pedro Aguilera quedó quinto en los 400 metros combinados, mismo puesto para Elías Ardiles en los 50 metros mariposa; Joaquina Negrete quedó séptima en los 200 metros pecho; Paz Ardiles quedó octava en los 100 metros espalda.
+
+La cuarteta de 4x100 combinados femenina (Paz Ardiles, Laura Fingerhuth, Inés Marín y Fernanda Reyes, quedó cuarta. 
+
+Por su parte, en la halterofilia, Macarena García finalizó segunda en la categoría 49 kilos, detrás de la colombiana Nayive Medina, quien obtuvo el oro. El bronce fue para la peruana Fabiana Gavidia.
+
+En el patinaje de velocidad, Catalina Lorca fue medalla de plata en los 1000 metros femenino, tras quedar 22 centésimas sobre la ganadora, la colombiana Kollin Castro (1:32,64). El bronce fue para la argentina Naiara Sagasti.
+
+En tanto, en la prueba masculina, Gabriel Reyes se colgó el bronce, tras finalizar a 1.18 segundos del ganador, el colombiano Jhon Tascon. La plata fue para el paraguayo Julio Mirena.
+
+En esgrima, Leopoldo Alarcón consiguió la presea de bronce en florete masculino, luego de perder en semifinales ante el argentino Andrea Nigosanti, quien a su vez perdió el oro frente a su compatriota Augusto Servello.  En tanto, Vicente Otayza cayó en octavos ante el venezolano César Aguirre.
+
+En la modalidad espada, Analía Fernández perdió en cuartos de final ante la argentina Isabel Di Tella, mientras que Paula Vásquez cayó en la ronda de 16 ante la peruana María Doig. 
+
+En el Beach Volley, los primos Marco y Esteban Grimalt vencieron por 2 a 0 (21-14 y 21-12) a la dupla uruguaya de Llambías y Mocellini.
+
+En la doma ecuestre, Daniela Araneda, junto a Unno, marcha undécima, mientras que Constance Porte va 13° con Moro XL.
+
+Martina Flores y Sofía Casella fueron las más destacadas del equipo chileno en el All Around de la gimnasia artística, finalizando en los puestos 18° y 20°.
+
+En el patinaje artístico, Josefa Ramos encabeza la tabla en la serie del programa corto femenino, mientas que Abel Latallada va quinto en la prueba masculina. Por su parte, Valentina Soto va novena en la prueba de Solo femenina, mientras que Benjamín Bravo marchas séptimo en la masculina. 
+
+En bochas, la dupla de Rodolfo Gálvez y Franca Martini suman dos triunfos ante las parejas de Venezuela y Uruguay en la modalidad Punta Rafa Volo, a su vez, Sabrina Polito venció a la peruana Nicole Koster. Por su parte, Franco Barbano lidera la fase clasificatoria en el single masculino, mientras que en la Petanca Mixta, Rodolfo Gálvez y Sabrina Polito cayeron ajustadamente ante la dupla uruguaya.
+
+En boxeo, en la categoría -54kilos, Denisse “China” Bravo superó a la boliviana Ayda Rodríguez por nocaut técnico.
+
+Con los resultados de hoy, Chile marcha quinto con 2 medallas de oro, 4 de plata y 8 de bronce. Brasil encabeza el medallero con 21 oros, 19 plata y 12 bronce; seguido por Argentina con 12 medallas de oro, 5 de plata y 15 de bronce, y tercero Colombia con 10 doradas, 9 platas y 9 bronces.
+
+====
+
+categoria: santafe2026
+fecha: 2026-09-14
+etiqueta: Juegos Suramericanos - Santa Fe 2026
+titulo: El BMX y los Esports sumaron los primeros oros en Santa Fe
+bajada: Catalina Vidaurre y Ángel Inostroza, en BMX Cross Country y en Asseto Corsa, respectivamente, se quedaron con las primeras medallas de oro chilenas en los Juegos Suramericanos.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto:
 Con cuatro medallas de bronce, dos en esgrima y dos en natación, comenzó la primera jornada para el representativo chileno en los Juegos Suramericanos de Santa Fe 2026. 
 
 En la esgrima, Tanto Katina Proestakis como Arantza Inostroza tras cumplir una gran jornada, se quedaron con las preseas de bronce, tras caer ante la brasileña Di Renzo y la peruana Soriano, quienes se quedaron con el oro y la plata respectivamente.
