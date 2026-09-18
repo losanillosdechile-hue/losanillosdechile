@@ -55,6 +55,47 @@
 # ======================================================================
 
 categoria: santafe2026
+fecha: 2026-09-17
+etiqueta: Juegos Suramericanos - Santa Fe 2026
+titulo: El remo, las bochas y la esgrima nos anticiparon el “18”
+bajada: La gran performance en el remo, las bochas y la esgrima permitieron al equipo chileno escalar a la cuarta posición del medallero en los Juegos Suramericanos de Santa Fe.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto: 
+Con un remo posicionando a Chile como potencia regional, los dos oros de las bochas y la gran actuación de la esgrima, además del bronce de los primos Grimalt y los podios en el boxeo y la halterofilia, la actuación nacional en los Juegos Suramericanos de Santa Fe cerró la víspera dieciochera de gran nivel.
+ 
+En el remo, Chile sumó tres nuevos oros, posicionándose como la potencia regional. En el Dos Sin Timonel, César Abaroa y Marcelo Poo que quedaron con el primer lugar tras superar a los binomios de Uruguay y Argentina.
+
+En el Single Ligero femenino, Antonia Liewald se quedó primera tras vencer a la brasileña Falck y la uruguaya Yarzón.
+
+En el Cuatro Sin Timonel femenino, el equipo de Antonia Abraham, Melita Abraham, Isdidora Niemewer y Emily-Louise Serandour lucharon para quedarse con el oro, superando a los equipos de Argentina y Paraguay.
+
+En el Doble Sculls femenino, la dupla de Cristina y Victoria Hostetter lucharon fuerte con las brasileñas Tavares y Almeida y por un segundo de diferencia estas últimas se quedaron con el oro. Claro que las nacionales se quedaron con la plata.
+
+El Ocho Con Timonel masculinos se quedó con el bronce. César Abaroa, Alfredo Abraham, Ignacio Abraham, Andoni Habash, Francisco Lapostol, Facundo Pedraza, Marcelo Poo, Nahuel Reyes e Ignacio Wilson quedaron terceros coronando una gran jornada para el remo nacional.
+
+A su vez, Manuel Fernández y Guillermo Müller quedaron quintos en el Doble Sculls Ligero.
+
+Las bochas entregaron dos preseas doradas en la jornada. En el single individual, Franco Barbano derrotó al argentino Lucas Hecker para quedarse con el oro. Lo mismo ocurrió en el Raffa Volo Mixto, donde la dupla de Rodolfo Gálvez y Franca Martini superaron a los paraguayos Kreuz y Moreira.
+
+La esgrima también se lució con un oro y una plata. En la espada masculina por equipos, el equipo chileno de Gustavo Alarcón, Leopoldo Alarcón, David Alarcón y Vicente Otayza ganó en la final a Brasil.
+
+Por su parte, en las damas, el equipo compuesto por Analía Fernández, Marianne Frindt, Paula Vásquez y Arantza Inostroza cayeron en la final ante Venezuela y se quedaron con la presea de plata.
+
+Marco y Esteban Grimalt consiguieron la medalla de bronce en el Beach Vóley tras derrotar a la dupla de argentina de los hermanos Tomás y Nicolás Capogrosso por 2 a 0 (21-19 y 21-15).
+
+El boxeo entregó un nuevo bronce, esta vez de la mano de Denisse “China” Bravo en la categoría 54 kilos. Y en la halterofilia, Nicolás Cuevas quedó tercero en la categoría 110 kilos, mientras que Alonso Bizama también se colgó el bronce en la +110 kilos.
+
+En el golf, Tomás Gana se encuentra segundo, a tres golpes del colombiano Felipe Álvarez. Gabriel Morgan, el otro chileno en la prueba, marcha quinto a dos golpes de subirse al podio. En damas, Michelle Melandri va séptima a 15 golpes de acceder a medallas.
+
+Por su parte, ya en otros resultados, en el balonmano, las Lobas cayeron 25 a 32 ante las locales. En el bowling, María Caro y Javiera Ruiz terminaron sextas en el dobles femenino. Benjamín Vergara finalizó séptimo en el BMX Racing masculino, mientras que Karina Vera quedó octava en el tiro de rifle de aire a 10 metros.
+
+Tras la jornada, Chile escaló al cuarto puesto con 17 oros, 14 platas y 24 bronces. El medallero lo lidera Brasil, con 41 preseas de oro, 43 de plata y 33 de bronce; segundo está Argentina con 31 oros, 28 plata y 42 bronces, y tercero se encuentra Colombia, con 30 medallas doradas, 24 plateadas y 19 de bronce.
+
+
+====
+
+categoria: santafe2026
 fecha: 2026-09-16
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: El remo aportó con nuevos oros en Santa Fe
