@@ -54,6 +54,42 @@
 #
 # ======================================================================
 
+categoria: santafe2026
+fecha: 2026-09-18
+etiqueta: Juegos Suramericanos - Santa Fe 2026
+titulo: Las Guerreras sumaron un inédito oro
+bajada: La selección femenina de vóleibol se quedó con la medalla de oro en los Juegos Suramericanos de Santa Fe. También llegaron a lo más alto en el Judo, Esquí Náutico y Natación Artística.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto: 
+El vóleibol femenino se llenó de gloria este sábado en los Juegos Suramericanos de Sata Fe 2026 con el triunfo de las Guerreras Rojas sobre Paraguay por 3 a 0 (25-13; 25-11 y 25-12) y se llevaron la medalla de oro.
+
+El Ski Náultico, Chile se subió al podio en el overall masculino y femenino. En varones, Martín Labra se colgó el oro, mientras que en damas, Agustina Varas fue plata y Dominga González fue bronce.
+
+Nicolás Campos y Theodora Garrido se quedaron con el oro en la prueba de duetos mixto en la natación artística. La plata fue para Colombia y el bronce para Brasil.
+
+Soledad y Trinidad García se quedaron con la medalla de plata en la prueba de rutina libre. El oro fue para Colombia y la plata para Brasil. A su vez, el equipo de Nicolás Campos y Adriana Creda marcha segundo en la rutina mixta.
+
+En el judo, Thomás Briceño se quedó con el oro en los -100 kilos, mientras que Francisco Solís se quedó con la plata en los +100 kilos. Además, entregó tres bronces: Mary Dee Vargas en los 48 kilos, Jorge Pérez en los 81 kilos y Marcela Alfaro en los 57 kilos.
+
+En la doma ecuestre, Mateo Garín, junto a Dakota, y Felipe Streitt, con ZG Kinggraaf, marchan segundo y tercero, respectivamente. A su vez, Chile marcha segundo e la prueba de equipos.
+
+En el balón individual, Josefa Cornejo avanzó a la final, mientas que Emilia Soto quedó como reserva. Eso sí, Soto pasó a al final de Mazas. En la cuerda, Cornejo quedó como reserva.
+
+En la prueba de 3 aros y dos mazas, Antonia Gallegos, Martina Inostroza, Annalena Ley, Isabel Lozano y Josefina Romero quedaron cuartas y avanzaron a la final.
+
+En el tiro, Rifle Tres Posiciones Femenino, Karina Vera quedó quinta, mientras que Allison Aguilera fue séptima. En el Trap Femenino, Pamela Salman fue quinta, en la Pistola Rápida Masculina Dennis Kennedy quedó séptimo.
+
+En el Skateboarding, Valentina Petric quedó quinta en damas, mientras que Matías Floto terminó séptimo en varones.
+
+En el rugby 7, los Cóndores 7 pasaron a la final, tras sumar cinco triunfos y una derrota.
+
+En el handbol, las Lobas derrotaron a Colombia 37 a 11, mientras que en el hockey, los Diablos vencieron a Brasil 4 a 1.
+
+Con estos resultados, Chile marcha quinto en el medallero general, con 23 medallas de oro, 22 de plata y 30 de bronce. Primero va Brasil, con 63 de oro, 56 de plata y 41 de bronce; luego viene Argentina con 37 oros, 38 platas y 60 bronces, y tercero va Colombia, con 34 preseas doradas, 33 de plata y 29 de bronce. 
+
+
+====
 
 categoria: santafe2026
 fecha: 2026-09-18
