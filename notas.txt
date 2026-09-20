@@ -54,6 +54,38 @@
 #
 # ======================================================================
 
+
+categoria: voleibol
+fecha: 2026-09-20
+etiqueta: Sudamericano Rio de Janeiro - Voleibol
+titulo: Los Guerreros Rojos, al Mundial
+bajada: Chile venció a Bolivia por 3 sets a 0 y consiguió los pasajes al Mundial de Polonia 2027. Además, aseguraron presencia en los Juegos Panamericanos de Lima.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto: 
+La selección chilena de vóleibol masculina consiguió la clasificación para el mundial de la especialidad que se desarrollará en Polonia el próximo año, luego que este domingo venciera a Bolivia en el quinto y último partido en el Sudamericano de Río de Janeiro.
+
+Los nacionales necesitaban sumar para avanzar a la cita mundialista y lo lograron tras vencer a los altiplánicos por 3-0 (25-11, 25-15 y 25-17).
+
+Con esto, vuelven a la élite en su segunda actuación consecutiva (el 2025 estuvieron en el torneo en Filipinas) y tercera luego que en 1982 debutara en Argentina. 
+
+Este logro para el deporte nacional no estuvo exento de dificultades. Los primeros duelos los debió disputar contra Brasil, Argentina y Venezuela, equipos fuertes en la región.
+
+Y, de hecho, comenzaron cayendo por 0-3 (23-25, 16-25 y 21-25) ante la fuerte selección local, aunque batallaron sobre todo en el primer y tercer set.
+
+El segundo duelo, consiguieron su primera victoria, y esta fue por 3-0 (25-13, 25-14 y 25-21) ante Venezuela, en un compromiso que mostró un gran papel del equipo nacional.
+
+Ya el tercer partido fue contra los trasandinos, y este concluyó en derrota por 0-3 (26-28, 19-25 y 17-25), aunque quedó en evidencia el gran trabajo chileno, principalmente en el primer set, y pese al resultado.
+
+Pero no podía quedar así la presencia de los Guerreros, ya que el cuarto compromiso fue ante Colombia, un equipo que siempre le genera complejidad, aunque en esta ocasión, resultó en triunfo chileno por 3-0 (25-16, 25-22 y 25-18).
+
+Luego, llegó el triunfo sobre Bolivia y con ello, la obtención del cupo mundialista. Pero no todo quedó ahí, sino que también selló pasajes para los Juegos Panamericanos de Lima.
+
+Las grandes figuras del elenco nacional fueron Noé Aravena (integrante del equipo del torneo), Vicente Parraguirre y Dusan Bonacic, quienes sobresalieron a lo largo del certamen.
+
+
+====
+
 categoria: santafe2026
 fecha: 2026-09-19
 etiqueta: Juegos Suramericanos - Santa Fe 2026
