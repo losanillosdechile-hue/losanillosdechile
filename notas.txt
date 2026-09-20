@@ -55,7 +55,7 @@
 # ======================================================================
 
 categoria: santafe2026
-fecha: 2026-09-18
+fecha: 2026-09-19
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Las Guerreras sumaron un inédito oro
 bajada: La selección femenina de vóleibol se quedó con la medalla de oro en los Juegos Suramericanos de Santa Fe. También llegaron a lo más alto en el Judo, Esquí Náutico y Natación Artística.
