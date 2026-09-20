@@ -55,6 +55,27 @@
 # ======================================================================
 
 
+categoria: atletismo
+fecha: 2026-09-20
+etiqueta: Mundial de Atletismo en Ruta - Atletismo
+titulo: Margarita Masías, SB en Copenhague
+bajada: La fondista chilena consiguió su mejor marca de la temporada en la media maratón, en el marco del Mundial que se desarrolló en Dinamarca.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+texto: 
+La fondista chilena Margarita Masías consiguió su mejor marca del año en World Athletics Road Running Championships, en la prueba de media maratón disputada este domingo.
+
+Masías, única chilena en el torneo, consiguió completar la distancia con un tiempo de 1:14:52, que la ubicó en el puesto 79° de la clasificación general.
+
+Además, con este resultado quedó a 26 segundos de su mejor registro, obtenido en la Media Maratón de Berlín el año pasado.  
+
+La prueba en Dinamarca fue ganada por la keniata Agnes Jebet Ngetich, con un tiempo de 1:05:15, estableciendo nueva marca mundial en la distancia. 
+
+A su vez, la plata también se fue para Kenia, de la mano de Verónica Loleo, y el bronce para Florence Niyonkuru, de Rwanda.
+
+
+====
+
 categoria: voleibol
 fecha: 2026-09-20
 etiqueta: Sudamericano Rio de Janeiro - Voleibol
