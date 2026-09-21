@@ -54,6 +54,70 @@
 #
 # ======================================================================
 
+categoria: santafe2026
+fecha: 2026-09-20
+etiqueta: Juegos Suramericanos - Santa Fe 2026
+titulo: Chile volvió al cuarto puesto en los Odesur
+bajada: El Ski Acuático, la Natación Artística, el Ciclismo y la Equitación aportaron con nuevas medallas doradas en la jornada en los Juegos Odesur. Chile volvió con ello al cuarto puesto con 29 oros, detrás de Colombia.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto: 
+El Ski Acuático, la Natación Artística, el Ciclismo y la Equitación aportaron con nuevas medallas doradas en la jornada dominical de los Juegos Suramericanos de Santa Fe, volviendo a poner a Chile en el cuarto lugar del medallero.
+
+En el Ski Acuático, en la prueba de Slalom Masculino, Gustavo Kretschmer se quedó con el oro, superando a Antonio Colazo y Bautista Ahumada, plata y bronce, respectivamente. Matías González fue sexto.
+
+En la prueba de figuras masculino, Chile hizo el 1-2, con Martín Labra ganando el oro y Matías González, con la plata. El bronce fue para el argentino Francisco Giorgis.
+
+Por su parte, Agustina Varas fue medalla de oro en la competencia de Saltos Femenino. La plata fue para Martina Piedrahhita y el bronce para Daniela Verswyvel, ambas de Colombia. 
+
+En los Saltos Masculinos, Chile tuvo plata y bronce. Emile Ritter y Martín Labra se subieron al podio en segundo y tercer lugar, respectivamente. El oro fue para Tobías Giorgis de Argentina.
+
+En la prueba de slalom femenino, Trinidad Espinal se colgó la medalla de plata. El oro fue para la peruana Cristhiana De Osma y el bronce para la argentina Violeta Mociulsky. Dominga González quedó cuarta.
+
+En el Wakeboard femenino, Ignacia Holscher se quedó con la presea de plata. El oro y el bronce fue para las locales Eugenia De Armas y María Victoria De Amras, respectivamente. 
+
+En la prueba de figuras femeninas, Dominga González se quedó con el bronce. El oro fue para Natalia Cuglievan, de Perú, y la plata parra Daniela Verswyvel, de Colombia.
+
+En el Wakeboard Masculino, Kord Holscher fue sexto. 
+
+El equipo de natación artística se quedó con el oro en la prueba de equipos mixtos, al totalizar 197.189 puntos. La plata fue para Colombia y el bronce para Brasil.
+
+El ciclismo también contó con importante presencia en el medallero. En la persecución masculina, el cuarteto conformado por Jacob Decar, Martín Mancilla, Diego Rojas y Luciano Cabrizo se quedó con el oro tras vencer (y alcanzar) a Colombia en la final. El bronce fue para Argentina.
+
+En la persecución femenina, la cuarteta de Scarlet Cortés, Javiera Garrido, Maite Ibarra y Aranza Villalón se quedó con la medalla de plata, detrás de Colombia. El bronce fue para Venezuela.
+
+En el Sprint Femenino, el equipo de Daniela Colilef, Paula Molina y Paola Muñoz quedó cuarto. Misma suerte corrió el representativo de Sprint Masculino de Vicente Araya, Roberto Castillo y Camilo Palacios.
+
+En la prueba de saltos ecuestres, Mateo Garín se quedó con la medalla de oro, consiguiendo 33,6 puntos. La plata fue para el argentino Juan Benítez y el bronce para el uruguayo Federico Daners.
+
+En la prueba por equipos, el oro fue para Brasil, la plata para Argentina y el bronce para Chile, con el elenco conformado por Felipe Streitt, Juan Canales y Mateo Garín.
+
+En la lucha libre, Virginia Jiménez se quedó con la medalla de plata tras un duro round robin en la categoría 68 kilos. A su vez, Antonia Valdés perdió ante la panameña Yusneiry Agrazal en la definición por el bronce de los 53 kilos.
+
+En la vela, Constanza Olivares quedó tercera en la prueba de Sunfish Femenino, luego de nueve regatas, detrás de la peruana Sophie Zimmermann (oro) y la ecuatoriana María José Cucalón (plata). Renato Brito quedó cuarto en la prueba masculina.
+
+En la ILCA 6, María José Poncell quedó cuarta, mientras que en el ILCA 7, Clemente Seguel fue quinto.
+
+En el balonmano, las Lobas vencieron a Uruguay 25 a 19 y con ello se quedaron con el tercer lugar y, con ello, la medalla de bronce.
+
+En el Hockey Damas, las Diablas empataron con las Cimarronas (Uruguay) sin goles y disputará el oro con las Leonas (Argentina).
+
+En el fútbol masculino, Chile derrotó a Colombia por 3 a 2. En el rugby 7, las Manque quedaron quintas.
+
+En gimnasia rítmica, El equipo chileno quedó cuarto en la prueba de 5 balones y en el All Around femenino, Josefa Cornejo quedó noveno.
+
+En la prueba de Trinquete e Goma, la dupla de Magdalena Muñoz y Rosario Valderrama ganó sus respectivos partidos ante las bolivianas Mena y Quiroga y las peruanas Bernal y Febres.
+
+En la prueba de varones, Esteban Romero y Julian Stabon dieron cuenta de sus rivales. Superaron a los bolivianos Quispe y Padilla y a los peruanos Yupanquiaguilar y Bellido.
+
+En el Judo, en la prueba de Shiai Mixto, el equipo chileno de Marcela Alfaro, Tomás Hernández, Allyson Quevedo, Jorge Pérez y Francisco Solis cayó ante Venezuela en la definición por el bronce.
+
+En el Frontball, Zita Solas venció a la boliviana Abigail Mena por 2 a 0 (10-7 y 10-9). Mientras que en el Frontón, en la prueba de Paleta Singles Masculino, Renato Bolelli superó al boliviano Daniel Condorí por 2 a 0 (15-6 y 15-12).
+
+Ern el tiro, en Pistola 25 metros, Yasna Valenzuela quedó séptima, mientras que en Rifle Tres Posiciones, Cristóbal Robles fue quinto, y en el Trap Mixto, Chile quedó cuarto.
+
+
+====
 
 categoria: atletismo
 fecha: 2026-09-20
