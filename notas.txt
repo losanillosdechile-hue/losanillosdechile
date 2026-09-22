@@ -55,6 +55,45 @@
 # ======================================================================
 
 categoria: santafe2026
+fecha: 2026-09-21
+etiqueta: Juegos Suramericanos - Santa Fe 2026
+titulo: Chile aseguró finales en tenis de mesa y fútbol
+bajada: El equipo chileno aseguró al menos tres finales en los Juegos Suramericanos de Santa Fe, luego de las actuaciones de los equipos de dobles damas y varones en el tenis de mesa y el triunfo sobre Paraguay en el fútbol femenino.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto: 
+El representativo chileno, si bien no consiguió medallas de oro en la jornada de este lunes, aseguró la disputa de tres finales en los Juegos Suramericanos de Santa Fe, luego de asegurar cupos en tenis de mesa, en dobles damas y varones, y en el fútbol femenino.
+
+En el futbol femenino, Chile superó en la mañana por 3 goles a 2 al representativo de Paraguay, en un cerrado partido, y avanzó a la pelea por el oro, donde se medirá con Venezuela.
+
+En tenis de mesa, Paulina Vega y Daniela Ortega avanzaron a la final tras vencer a la dupla de Argentina, mientras que, en los dobles varones, Nicolás Burgos y Gustavo Gómez derrotaron a la dupla de Paraguay y también disputarán el oro.
+
+Sí hubo medallas en el Rugby 7, donde los Cóndores se quedaron con la plata, tras caer en la final ante Argentina por 17 a 7.
+
+En gimnasia rítmica, el equipo de Annalena Ley, Martina Inostroza, Isabel Lozano, Josefina Romero y Antonia Gallegos quedó tercero en la final de tres aros y dos mazas. 
+
+En balón individual, Josefa Cornejo quedó octava; Emilia Soto quedó octava en las mazas.
+
+En la lucha grecorromana, Néstor Almanza se quedó con el bronce en la categoría 67 kilos, mientras que Augusto Vargas (60 kilos) y Eduardo Bernal (77 kilos) no pudieron pasar la ronda preliminar.
+
+En el ciclismo de pista, Scarlet Cortés quedó quinta en el Omnium femenino.
+
+En el racquetbol, Paula Mancilla y Francisco Troncoso perdieron en sus respectivos duelos de singles, mientras que en los dobles, las duplas de Paula Mansilla y Carla Muñoz venció a Ecuador y perdió con Bolivia; la de Rodrigo Salgado y Francisco Troncoso derrotó a Perú y perdió con Bolivia. 
+
+En tanto, el dobles mixto de Carla Muñoz y Rodrigo Salgado perdió ante Ecuador y Bolivia.
+
+En el Frontball, Gonzalo Fouilloux cayó ante Alberto Jiménez, de Bolivia, mientras que en el Frontón, Renato Bolelli venció a Víctor Moreno, de Venezuela.
+
+En squash, Matías Lacroix pasó a cuartos de final en individuales varones. En tanto, Camila Gallegos, Camilo Cifiuentes, Giselle Delgado, Ana Pinto y José Gallegos cayeron en las rondas previas.
+
+En el waterpolo, Chile cayó ante Argentina por 27 a 7 en damas y ante Perú por 10 a 9 en varones.
+
+Con los resultados de hoy, Chile tiene 29 medallas de oro, 29 de plata y 37 de bronce. El medallero lo lidera Brasil con 79 oros, 63 platas y 52 bronces: segundo va Argentina, con 46 preseas de oro, 49 de plata, 79 de bronce, y tercero va Colombia, con 43 doraras, 43 de plata y 34 de bronce. 
+
+
+====
+
+categoria: santafe2026
 fecha: 2026-09-20
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Chile volvió al cuarto puesto en los Odesur
