@@ -54,6 +54,73 @@
 #
 # ======================================================================
 
+
+categoria: santafe2026
+fecha: 2026-09-22
+etiqueta: Juegos Suramericanos - Santa Fe 2026
+titulo: Claudio Romero lanzó para quedarse con el oro
+bajada: En el debut del atletismo en los Juegos Suramericanos de Santa Fe, el discóbolo nacional ganó la prueba con récord del torneo, mientras se sumó un nuevo oro en el dobles mixto del tenis de mesa.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto: 
+El atletismo debutó en los Juegos Suramericanos de Santa Fe y Chile ya se colgó un oro, por parte del lanzador de disco Claudio Romero, quien ganó la prueba con un registro de 65,33 metros, siendo además récord del torneo.
+
+Lucas Nervi, el otro chileno en competencia, terminó en el cuarto lugar, con una marca de 60,46 metros.
+
+En el salto largo femenino, Javiera Musalem se metió en el podio con medalla de plata, al conseguir un impulso de 6,32 metros. 
+
+En los 100 metros femeninos, María Ignacia Montt finalizó cuarta con un tiempo de 11,61 segundos.
+
+En los 400 metros, Martina Weil avanzó a la final tras ganar su serie con un tiempo de 51,39 segundos. En la misma prueba, pero en varones, Martín Kouyoumdjian pasó a la final con un tiempo de 46,64 segundos.
+
+En los 800 metros, Rafael Muñoz accedió a la final con un registro de 1:51,88.
+
+En la 4x100 metros mixta, el equipo chileno de Ignacio Nordetti, María Ignacia Montt, Belén Ituarte y Benjamín Aravena terminó en el cuarto lugar con 42,40 segundos.
+
+En los 10.000 metros masculino, Diego Uribe debió abandonar la prueba después de pasar los 6.800 metros. En la garrocha masculina, Guillermo Correa quedó cuarto.
+
+El otro oro del día llegó en el tenis de mesa, en el dobles mixtos, con el triunfo de Gustavo Gómez y Daniela ortega sobre los brasileños Teodoro y Takahashi. A su vez, Paulina Vega, Valentina Ríos y Daniela Ortega clasificaron a cuartos de final en single damas. En varones, Nicolás Burgos avanzó a la fase de los 8 mejores.
+
+El Hockey Césped entregó dos preseas de plata tras caer ante Argentina en las finales masculinas (3 a 1) y femenina (5 a 0).
+
+En el ciclismo de pista, Daniela Colilef consiguió la medalla de plata en 
+el sprint femenino, tras perder en la final ante la colombiana Stefany Cuadrado. En tanto, Jacob Décar finalizó sexto en el Omnium masculino.
+
+En la escalada deportiva, Martina Castro quedó segunda detrás de la brasileña Anja Kohler y consiguió medalla de plata, mientras que Muykuay Silva fue sexta.
+  
+En el tiro con arco, recurvo masculino, Andrés Gallardo quedó tercero en la ronda clasificatoria, mientras Ángel Vega quedó undécimo y Tomás Peña décimo tercero. En recurvo por equipos masculino, Chile se posiciona tercero en la ronda de clasificación.
+
+En recurvo femenino, en la ronda de ranking, Gabriela Anabalón quedó undécima. A su vez, en a prueba de recurvo mixto, Chile marcha quinto.
+
+En la prueba de compuesto individual masculino, Alejandro Martín se encuentra cuarto y Agustín Infante, décimo octavo. En la misma prueba, pero en damas, Aurora Olea figura décima. En la prueba de equipos mixto, Chile está quinto.
+
+En  el Frontball, Zita Solas y Gonzalo Fouilloux perdieron en sus respectivos duelos ante la uruguaya Leonella Acosta y el brasileño Felipe Otheguy. Mientras, en  el Frontón, Renato Bolelli cayó en Paleta Singles ante el argentino Guillermo Osorio.
+
+En el Balonmano, Chile derrotó a Perú por 40 a 21, mientras que en el Volibol, los Guerreros Rojos superaron a Perú por 3 a 0 (25-23, 25-17 y 25-19).
+
+En el Water Polo, Chile venció a Perú y perdió ante Brasil en damas, mientras que en varones, cayó ante Uruguay.
+
+En el Pádel, las duplas de Kimberly Ahumada y Catalina Arancibia y de Matías Negrete y Daniel Salinas suman dos victorias cada una.
+
+En el squash, la dupla de José Gallegos y Matías Lacroix avanzaron a semifinales, mientras que Matías Lacroix en singles, la dupla de Camilo Cifuentes y Camila Gallegos, Giselle Delgado y Ana Pinto quedaron eliminados en cuartos de final.
+
+En el ráquetbol, en individuales masculinos, Rodrigo Salgado venció al ecuatoriano Martín Carchi, en tanto que Francisco Moscoso perdió ante el boliviano Conrrado Moscoso y quedó sin chance de avanzar.
+
+En individuales damas, Carla Muñoz venció a la ecuatoriana María Quinde, en tanto que Paula Mansilla perdió ante la argentina María José Vargas y quedó sin opciones de avanzar.
+
+En dobles, las chilenas Mansilla y Muñoz vencieron a las peruanas Hammerschmidt y Molfino y perdieron ante las argentinas Vargas y Centellas. En varones, la dupla Salgado y Troncoso perdió ante los argentinos Kurzbard y García. Mientras que en mixtos, Muñoz y Salgado superaron a la dupla peruana de Hammerschmidt y Gonzáles.
+
+En el Trinquete de Goma, Esteban Romero y Julián Stabon vencieron a los uruguayos Pelua y Varela, mientras que Magdalena Muñoz y Rosario Valderrama fueron superadas por las charrúas Vicente y Navilat. 
+
+En el remo Coastal, los representantes nacionales avanzaron a cuartos de final, luego de sus resultados en las rondas previas.
+
+Josefa Vila fue tercera en singles femeninos; mismo puesto para Brahim Alvayay en singles varones; Florencia Mathias y Josefa Vila fueron quintas en el dobles femenino; Brahim Alvayay y Rafael Aravena quedaron terceros en el dobles masculino; y Christina Hostetter y Rafael Aravena avanzaron como cuartos en el dobles mixtos.
+
+Con estos resultados Chile sigue quinto en el medallero con 31 oros, 34 platas y 37 bronces. Brasil lidera con 83 oros, 68 plata y 54 bronces, seguido de Argentina con 48 doradas, 51 e plata y 86 de bronce, y tercero Colombia, con 45 preseas de oro, 44 de plata y 36 de bronce.
+
+
+====
+
 categoria: santafe2026
 fecha: 2026-09-21
 etiqueta: Juegos Suramericanos - Santa Fe 2026
