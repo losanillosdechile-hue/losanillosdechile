@@ -56,6 +56,61 @@
 
 
 categoria: santafe2026
+fecha: 2026-09-23
+etiqueta: Juegos Suramericanos - Santa Fe 2026
+titulo: Martina Weil, oro y récord en los 400 metros
+bajada: La velocista chilena Matina Weil se quedó con la final d ellos 400 metros planos en los Juegos Suramericanos de Santa Fe, tras completar la vuelta de la pista en 50,45 segundos, batiendo la marca que impuso su mamá, Ximena Restrepo, en los Odesur de 1994.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto: 
+Martina Weil se consagró campeona de los 400 metros planos en los Juegos Suramericanos de Santa Fe con una actuación memorable, deteniendo el cronómetro en 50.45 segundos para quedarse con la medalla de oro y romper el récord de campeonato.
+ 
+Con este registro, Martina superó la plusmarca del torneo que le pertenecía a su propia madre, la colombiana Ximena Restrepo, quien ostentaba el registro de 51.31 segundos desde los Odesur de Valencia (Venezuela) en 1994.
+
+Por su parte, Martín Sáenz se colgó la medalla de plata después de ser segundo en los 110 metros vallas, con 13,81 segundos. El oro fue para el brasileño Rafael Campos, con 13,52 segundos.
+
+También, Laura Acuña regresó tras una lesión que la mantuvo alejada de las pistas por un buen tiempo y lo hizo de la mejor manera. Se quedó con la plata en los 1.500 metros con un registro de 4:23,22. El oro fue para la argentina Micaela Levaggi.
+
+A su vez, Martín Kouyoumdjian se colgó el bronce con una sólida exhibición en los 400 metros planos, y con un tiempo de 45,99 segundos. El oro fue para el brasileño Alisson Dos Santos.
+
+El kayakista Jesús Martínez logró el oro estos Juegos Suramericanos, luego de ser el más rápido en el contrarreloj del kayak cross. Completó el recorrido en 36,80, superando por estrecho margen al brasileño Murillo Sorgetz.
+
+También, en la prueba contrarreloj femenina, Florencia Aguirre consiguió la medalla de plata, tras recorrer las puertas en 43,58 y solo fue rebasada por la brasileña Omira Stacia.
+
+La tenimesista Daniela Ortega logró su segundo oro en estos Juegos Suramericanos, luego que este miércoles se impuso a la brasileña Giulia Takahashi por 4-0 en la final de singles. Por su parte, Valentina Ríos se quedó con el bronce tras la derrota en semifinales precisamente ante Ortega.
+
+En el dobles femenino, Daniela Ortega y Paulina Vega cayeron ante las venezolanas Obando y Gómez y se quedaron con la presea de plata. En tanto, en el masculino, Gustavo Gómez y Nicolás Burgos, sumaron otra plata tras caer ante los argentinos Lorenzo y Cifuentes.
+
+El Fútbol Femenino Sub-20 se quedó con la plata, luego de caer ante Venezuela en penales por 4 a 2, tras igualar a 1 gol en los 90 minutos. De hecho, el cuadro de Luis Mena se puso en ventaja en el segundo tiempo y sólo en los minutos finales, las Vinotinto empataron con un penal. 
+
+En varones, la selección chilena cayó en semifinales ante Paraguay por 1 a 0 y deberá definir con Perú la medalla de bronce.
+
+El karateca Rodrigo Rojas se quedó con la presea de plata en la categoría 84 kilos, tras caer en una reñida final ante el venezolano Joaquín Sánchez.
+
+En el Ciclismo, la pareja compuesta por Aranza Villalón y Scarlet Cortés consiguieron la medalla de plata en una electrizante definición de la Madison femenina. El oro fue para Colombia.
+
+A su vez, los ciclistas Diego Rojas y Jacob Decar cerraron la participación de la selección nacional de pista con una nueva medalla plateada en la Madison masculina.
+
+Los escaladores Benjamín Vargas y Joaquín Urrutia fueron plata y bronce, respectivamente, en la final de Boulder.
+
+Los arqueros Ángel Vega, Andrés Gallardo y Tomás Peña conquistaron el bronce en la competencia por equipos de arco recurvo, tras vencer a Venezuela.
+
+En el Taekwondo, Agustín Ríos consiguió el bronce tras derrotar en la definición al boliviano Alejandro Tordoya.
+
+En el Remo Coastal, Chile logró dos bronces, luego del resultado clasificatorio de Brahim Alvayay en el single y de Brahim con Rafael Aravena en el bote doble.
+
+En el Squash, José Tomás Gallegos y Matías Lacroix culminaron terceros en el dobles de los Juegos Suramericanos, tras caer en las semifinales ante la dupla de Ecuador.
+
+En otras disciplinas, el equipo chileno de balonmano sumó una nueva victoria, esta vez sobre Paraguay por 31 a 20.
+
+Por su parte, en el Voleibol Masculino, los Guerreros Rojos derrotaron a Paraguay por 3 a 0 (25-23, 25-14, 25-19) y avanzaron a semifinales.
+
+Con estos resultados, Chile se mantiene quinto en el medallero con 34 preseas de oro, 44 de plata y 44 de bronce. El torneo lo lidera Brasil, con 99 oros, 74 platas y 65 bronces, seguido por Argentina, con 54 doradas, 59 platas y 96 bronces, y tercero Colombia con 52 medallas de oro, 52 de plata y 40 de bronce.
+
+
+====
+
+categoria: santafe2026
 fecha: 2026-09-22
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Claudio Romero lanzó para quedarse con el oro
