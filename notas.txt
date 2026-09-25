@@ -56,6 +56,65 @@
 
 
 categoria: santafe2026
+fecha: 2026-09-24
+etiqueta: Juegos Suramericanos - Santa Fe 2026
+titulo: Valentina Toro, en gloria y majestad
+bajada: La karateca nacional regresó de una lesión para luchar en la categoría -55 kilos y venció en la final a la venezolana Bárbara Pérez. Tomás Freire también sumó oro en la disciplina (67 kilos) y además se sumaron oros en el kayak, el canotaje y en los 800 metros planos femenino. 
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto: 
+La karateca y capitana del Team Chile, Valentina Toro, logró el bicampeonato en Juegos Suramericanos de Santa Fe, tras superar a la venezolana Bárbara Pérez (1-0) en la final de la categoría -55 kilos.
+
+El gran mérito es que este logro lo consiguió tras regresar de una lesión que la mantuvo 9 meses fuera de las competencias y estaba regresando en estos juegos.
+
+En la categoría 67 kilos masculina, Tomás Freire también hizo lo suyo y se quedó con el oro, tras un empate con el panameño Alberto Gálvez (4-4), pero la ventaja de puntuar primero resolvió la medalla en favor del chileno. 
+
+En la categoría 61 kilos, Bárbara Huaiquiman fue tercera y medalla de bronce, tras derrotar en la definición a la boliviana Carla Dorado.
+
+Valentina Barrientos logró el triunfo más importante de su carrera tras conquistar los 800 metros en 2:03,31, superando a la múltiple campeona uruguaya Débora Rodríguez 2:04.16) y a la brasileña Mayara Dos Santos (2:04.24). En tanto, Berdine Castillo fue cuarta.
+
+Rafael Muñoz terminó tercero en la final de los 800 metros planos y se colgó la presea de bronce, tras completar la distancia en 1:47,14. El oro fue para el panameño Chambers y la plata para el venezolano López.
+
+El kayakista Andraz Echeverría se adjudicó la categoría de kayak slalom paralelo y con ello la medalla de oro, luego de superar al brasileño Murillo Sorgetz tras dos mangas.
+
+En la misma disciplina, pero en damas, Florencia Aguirre se alzó con el bronce, tras derrotar en la definición a la paraguaya Ana Fernandes.
+
+La canoa doble integrada por las olímpicas María José Mailliard y Paula Gómez consiguió la medalla de oro, luego de vencer en un durísimo duelo a las brasileñas en los 500 metros.
+
+El kayak cuádruple compuesto por Daniela Castillo (24 años), Francisca Medina (18), Fernanda Sepúlveda (18) y Florencia Muñoz (16) ganó un valioso bronce en el K4-500 metros.
+
+En varones, el cuarteto conformado por Sebastián Alveal, Benjamín Cancino, Marcelo Godoy y Camilo Valdés también fue tercer en a K4-500 metros.
+
+En Pelota Vasca, Esteban Romero y Julián Stabon fueron segundos y medalla de plata en la modalidad trinquete tras caer e la final ante los trasandinos Facundo Andreasen y Alfredo Villegas por 2-0.
+
+El pelotari Renato Bolelli finalizó tercero en el frontón, tras superar en la definición por el bronce al boliviano Daniel Condori. En el dobles femenino, Rosario Valderrama y Magdalena Muñoz también fueron medallistas de bronce, tras superar a Perú.
+
+El raquetbolista Rodrigo Salgado se quedó con el bronce en el singles tras caer en semifinales ante el boliviano Conrrado Moscoso. Por su parte, en damas, Carla Muñoz se quedó con el bronce tras caer ante la trasandina María José Vargas.
+
+Pero no fue la única presea que consiguió la nacional, ya que en el dobles femenino (junto a Paula Mnasilla) y en el mixto (con Rodrigo Salgado), sumó dos nuevos bronces.
+
+Además, en el dobles masculino, la dupla de Rodrigo Salgado y Francisco Troncoso concluyeron terceros luego de perder ante Bolivia por 3-1.
+
+En la definición del bronce en la escalada, Anahí Riveros superó a la venezolana Ainoa Hernández, al completar el muro en 7.79 segundos, batiendo a su rival por más de tres segundos (10,85).
+
+En el taekwondo, Claudia Gallardo (-67 kg) terminó con medalla de plata tras caer en un apretado combate ante la brasileña Milena Titoneli, mientras que Joaquín Churchill (-80 kg) también perdió en la final ante otro brasileño, Henrique Rodrigues.
+
+Francisca Aguirre se quedó con el bronce en la categoría 67 kilos, tras caer en semifinales ante la brasileña Mikaela Oliveira. Agustín Ríos se quedó con el bronce en la Categoría 58 kilos, tras alcanzar las semifinales de la prueba.
+
+El equipo de salto ecuestre conformado por Andrés Lausen (RL Kalahari), Alexandr Imschenetzky (Caspaccio), Almendra Resano (Fahrenheit Donibane) y Cristóbal Boetto (For Chacca PS) se quedó con el tercer lugar de los Juegos Suramericanos Santa Fe 2026, al conseguir 33,4 puntos.
+
+Las padelistas Kimberly Ahumada y Catalina Arancibia accedieron a la definición de los Juegos Suramericanos de Santa Fe, luego de doblegar a Ecuador por 6-3 y 6-0. Por el oro se medirán con Argentina.
+
+Otra final tendremos en el Vóleibol Masculino, luego que los Guerreros Rojos dieran cuenta de Colombia por 3 a 0 (25-17. 25-20 y 25-22).
+
+En el balonmano, Chile sumó una nueva victoria, esta vez por 36 a 22 sobre Uruguay y lidera la tabla en el Round Robin con 6 puntos, junto con Argentina.
+
+Con estos resultados, Chile se mantiene en el quinto puesto con 39 oros, 47 plata y 59 bronces: Primero va Brasil, con 106 doradas, 85 de plata y 72 bronces; segundo va Argentina con 65 medallas de oro, 68 de plata y 107 de bronce; y tercero Colombia, con 58 preseas de oro, 56 de plata y 45 de bronce.
+
+
+====
+
+categoria: santafe2026
 fecha: 2026-09-23
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Martina Weil, oro y récord en los 400 metros
