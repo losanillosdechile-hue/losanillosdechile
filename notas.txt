@@ -55,6 +55,37 @@
 # ======================================================================
 
 categoria: santafe2026
+fecha: 2026-09-26
+etiqueta: Juegos Suramericanos - Santa Fe 2026
+titulo: Chile terminó cuarto en Santa Fe
+bajada: Con un total de 49 medallas de oro cerró la participación del Team Chile en los Juegos Suraericanos de Santa Fe 2026, siendo la segunda mejor desde 1986 y siendo premiado en 47 disciplinas.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto: 
+Con un total de 49 medallas de oro, 58 de plata y 68 de bronce, con un cuarto lugar en el medallero general, terminó la participación del Team Chile en los Juegos Suramericanos de Santa Fe 2026, luego de cerrar este sábado con una presea dorada y otra de bronce en el tenis de mesa y una plata en el balonmano masculino.
+
+En el tenis de mesa, el representativo conformado por Daniela Ortega, Paulina Vega y Valentina Ríos se quedó con el oro en la competencia de equipos tras superar a Brasil en la final.
+
+A su vez, el conjunto de Nicolás Burgos, Gustavo Gómez y Felipe Olivares consiguieron el bronce en a prueba de equipos masculina, tras caer ante Brasil en semifinales.
+
+En tanto, el Balonmano Masculino se quedó con la plata luego de un infartante empate ante Argentina por 27 a 27. Los trasandinos se quedaron con el oro por diferencia de goles, ya que ambos elencos igualaron en puntaje.
+
+Con esto, el rendimiento chileno fue el segundo mejor en la historia de estos juegos, siendo sólo superado por un oro por la edición de 1986, que se realizó en Santiago, donde se obtuvieron 50 preseas doradas.
+
+A su vez desplazó el rendimiento alcanzado en Lima 1990 donde se superó la totalidad de medallas de oro y de las preseas totales. (49 sobre 40 oros y 175 sobre 138 totales)
+
+Respecto de la clasificación del medallero de Santa Fe, Brasil se quedó con la mayor cantidad de preseas, totalizando 122 oros, 107 platas y 83 de bronce. En segundo lugar quedó Argentina, con 81 de oros, 87 de plata y 125 de bronce, mientras que tercero fue Colombia, con 69 preseas doradas, 61 plateadas y 62 de bronce.
+
+En el balance final, de las 47 disciplinas donde Chile obtuvo medallas, el remo fue la  que más medallas le entregó al país en los Juegos, con 7 oros y 13 en total, en cuanto a oros, el ski acuático el karate y el atletismo, fueron las que secundaron esta obtención de premios, mientras que en totales, el ski acuático (12), el atletismo (11) y la natación (10) fueron las que más permitieron subir al podio a nacionales. 
+
+En cuanto a los deportistas más premiados por medallas de oro, las remeras Antonia y Melita Abraham recibieron 4 preseas de oro y 1 de plata, seguidas por la tenimesista Daniela Ortega con 3 oros y 1 de plata y la canoísta María José Mailliard y las remeras Cristina y Victoria Hosttetter, con 2 oros y 2 plata.
+
+Por total de medallas, las hermanas Abraham sumaron 5 preseas, la misma cantidad que obtuvo el nadador Mariano Lazzerini (pero con 1 plata y 4 bronces), seguidos por Daniela Ortega, con 4 medallas, al igual que María José Mailliard y las hermanas Cristina y Victoria Hosttetter.
+
+
+====
+
+categoria: santafe2026
 fecha: 2026-09-25
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Los Guerreros Rojos triunfaron en jornada épica en Santa Fe
