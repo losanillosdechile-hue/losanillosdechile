@@ -54,6 +54,58 @@
 #
 # ======================================================================
 
+categoria: santafe2026
+fecha: 2026-09-25
+etiqueta: Juegos Suramericanos - Santa Fe 2026
+titulo: Los Guerreros Rojos triunfaron en jornada épica en Santa Fe
+bajada: El equipo nacional de vóleibol masculino derrotó a Argentina en la Final por 3 a 1 y con ello permitió que el Team Chile llegara a 48 medallas de oro, en una jornada donde se lograron 9 de este total.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+texto: 
+Los Guerreros Rojos hicieron historia y vencieron al representativo de Argentina por 3 sets a 1 para quedarse con el oro en el Vóleibol Masculino en los Juegos Suramericanos de Santa Fe 2026. 
+
+El cuadro nacional se paró de igual a igual con los dueños de casa, que además contaron con el apoyo del público en el gimnasio Claudio Newell de Rosario, y pese a este aspecto cerró el match con parciales de 25-20, 22-25, 25-20 y 25-20.
+
+El logro les permitió ratificar el título conseguido cuatro años antes, en Asunción, donde también se colgaron el oro.
+
+Con esto, el Team Chile alcanzó las 48 medallas de oro a falta de un día de competencias y está peleando palmo a palmo el cuarto lugar del torneo con Venezuela que también suma la misma cantidad de preseas doradas.
+
+La jornada, además, destacó con el 1-2 en el lanzamiento del martillo, donde Humberto Mansilla y Gabriel Kehr se quedaron con los puestos más altos del podio, tras conseguir 75,27 y 75,05 metros, respectivamente.
+
+En atletismo, además, la posta 4x100 conformada por María Ignacia Montt, Belén Ituarte, Pilar Rodríguez y Catalina Rozas logró el subcampeonato tras marcar un tiempo de 44,65 segundos.
+
+El karate ayudó a incrementar la cosecha de medallas, con los oros de Anastasiia Veloso, en los -68 kilos, y Fabián Huaiquimán, en los -84 kilos. A ellos se sumó la plata de Matías Quijada en la -60 kilos.
+
+El canotaje fue otra de las disciplinas que contribuyó con varias preseas, partiendo con el oro de María José Mailliard en el C1 500. La especialista, además, sumó medallas de plata en el C1 200 y en el C2 500 mixto, junto con Matías Jiménez.
+
+Asimismo, Sebastián Alveal contribuyó con una medalla de bronce en el C1 1000, para transformar a la disciplina en la que más podios sumó en la jornada.
+
+En la modalidad Kayak Cross, Chile sumó dos nuevas medallas. Jesús Martínez se quedó con el oro en varones y Florencia Aguirre quedó segunda en damas.
+
+En la Escalada, el equipo nacional logró dos oros. Martina Castro se quedó con el primer lugar en el Lead Femenino y Joaquín Urrutia, en la misma prueba pero en masculino.
+
+Pero ellos no se subieron al podio solos, ya que Matilde Cabezas y Dante Caballero ganaron el bronce en las mismas disciplinas. 
+
+El tenis consiguió meter a los chilenos en el podio, con un oro en el dobles mixto, con Fernanda Labraña y Matías Soto, y una plata en el dobles femenino, con Jimar Gerald y Antonia Vergara.
+
+El Surf, que se disputó en Mar del Plata, entregó dos preseas de plata para Chile. Valentina Díaz y Moisés Silva cayeron en las respectivas finales ante la argentina Isabella Assman y el panameño Edwin Núñez.
+
+En el Padel, Kimberly Ahumada y Catalina Arancibia se quedaron con la medalla de plata, mientras que en el Racquetbol los dobles masculinos y femeninos consiguieron meterse en el tercer lugar del podio.
+
+Y para cerrar esta cosecha de preseas, en el Tiro con Arco Andrés Gallardo y Gabriela Anabalón fueron terceros en el arco recurvo mixto tras vencer al representativo de Panamá.
+
+Además, en el Balonmano Chile derrotó a Brasil en un intenso partido por 31 a 30 y va por el oro contra Argentina. 
+
+En otro resultado, Perú derrotó a la Roja por 2 a 1 y la dejó fuera del podio en el fútbol masculino.
+
+Con esto, Chile registra un total de 48 medallas de oro, 57 de plata y 67 de bronce. Está empatado con Venezuela en oros, pero en el total de preseas los nacionales van adelante en el cuarto lugar. 
+
+El representativo de la estrella solitaria se encuentra a dos oros de igualar lo registrado en 1986, cuando los Odesur se hicieron en Santiago y consiguió 50 preseas doradas y a cuatro de emular el total de preseas que alcanzó en el mismo certamen (176). 
+
+Brasil lidera el medallero con 114 oros, 101 plata y 80 bronces; seguido por Argentina con 78 preseas doradas, 82 de plata y 120 de bronce, y tercero va Colombia, con 68 medallas de oro, ,61 de plata y 60 de bronce.
+
+
+====
 
 categoria: santafe2026
 fecha: 2026-09-24
