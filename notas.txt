@@ -54,6 +54,28 @@
 #
 # ======================================================================
 
+categoria: atletismo
+fecha: 2026-09-27
+etiqueta: Maratón de Varsovia - Atletismo
+titulo: Hugo Catrileo, sexto en Varsovia
+bajada: Hugo Catrileo finalizó en el sexto lugar en la Maratón de Varsovia (Polonia) tras cruzar la meta con un tiempo de 2:13:39.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+foto: img/catrileo2709.jpg 
+texto: 
+El fondista chileno Hugo Catrileo finalizó en el sexto lugar en la Maratón de Varsovia (Polonia), disputada este domingo, tras cruzar la meta de la distancia con un tiempo de 2:13:39.
+
+El podio de la carrera fue puramente keniata. El primer lugar se lo llevó Stephen Kibor, con un registro de 2:09:16.
+
+Segundo quedó Victor Kwemboi, con 2:12:17, y tercero Ezekiel Mutai, con 2:12:33. Ambos mantuvieron firme su lucha por mejorar su lugar en el podio.
+
+“La segunda mitad fue muy dolorosa, pero rendirse nunca fue una opción. Cierro este proceso con la satisfacción del deber cumplido y con la certeza de que vendrá algo mucho mejor pronto”, señaló Catrileo en su cuenta de Instagram (@hugocatrileotapia).
+
+Por su parte, la húngara Lili Anna Vindics-Tóth ganó la prueba femenina con 2:24:47, con un margen muy estrecho sobre la etíope Gelane Senbete, segunda con 2:24:55. Tercera fue la keniata Vivian Jerotich Kosgei, con 2:28:31.
+
+
+
+
 categoria: santafe2026
 fecha: 2026-09-26
 etiqueta: Juegos Suramericanos - Santa Fe 2026
