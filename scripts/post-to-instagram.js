@@ -8,8 +8,9 @@
    1. Lee notas.txt y categorias.txt (los mismos archivos del sitio).
    2. Compara con instagram-posted.json para saber qué notas ya se
       publicaron antes.
-   3. Por cada nota nueva, publica en Instagram usando la foto fija
-      de esa categoría + el título y la bajada como texto.
+   3. Por cada nota nueva, publica en Instagram usando su propia foto
+      (campo "foto:" en la nota) si la tiene, o si no, la foto fija
+      de esa categoría — más el título y la bajada como texto.
    4. Actualiza instagram-posted.json para no repetir la publicación.
    ===================================================================== */
 
@@ -49,6 +50,7 @@ function parseOneNota(block) {
     date: fields.fecha || "2000-01-01",
     title: fields.titulo,
     dek: fields.bajada || "",
+    foto: fields.foto || "",
     portada: /^s[ií]$|^true$/i.test((fields.portada || "").trim()),
   };
 }
@@ -73,7 +75,6 @@ function loadPostedLog() {
 }
 
 function buildCaption(article, cat) {
-  const pageUrl = `${SITE_BASE}/${cat.page}`;
   const lines = [
     article.title,
     "",
@@ -86,8 +87,15 @@ function buildCaption(article, cat) {
   return lines.join("\n");
 }
 
+/* La nota manda: si trae su propia foto, se usa esa. Si no, se usa
+   la foto fija de la categoría (comportamiento de siempre). */
+function pickImagePath(article, cat) {
+  return article.foto || cat.image;
+}
+
 async function publishToInstagram(article, cat, igUserId, accessToken) {
-  const imageUrl = `${SITE_BASE}/${cat.image.split("?")[0]}?v=${Date.now()}`;
+  const imagePath = pickImagePath(article, cat);
+  const imageUrl = `${SITE_BASE}/${imagePath.split("?")[0]}?v=${Date.now()}`;
   const caption = buildCaption(article, cat);
 
   const createRes = await fetch(`https://graph.facebook.com/${GRAPH_VERSION}/${igUserId}/media`, {
@@ -147,12 +155,13 @@ async function main() {
       console.log(`⚠️  Categoría desconocida "${article.category}", se omite: ${article.title}`);
       continue;
     }
-    if (!cat.image) {
-      console.log(`⚠️  La categoría "${cat.label}" no tiene foto fija todavía, se omite: ${article.title}`);
+    const imagePath = pickImagePath(article, cat);
+    if (!imagePath) {
+      console.log(`⚠️  Ni la nota ni la categoría "${cat.label}" tienen foto todavía, se omite: ${article.title}`);
       continue;
     }
 
-    console.log(`Publicando: [${cat.label}] ${article.title}`);
+    console.log(`Publicando: [${cat.label}] ${article.title} (foto: ${article.foto ? "propia de la nota" : "fija de la categoría"})`);
     try {
       const postId = await publishToInstagram(article, cat, igUserId, accessToken);
       console.log(`✅ Publicado (id: ${postId})`);
@@ -167,7 +176,11 @@ async function main() {
   }
 }
 
-main().catch((err) => {
-  console.error("Error inesperado:", err);
-  process.exit(1);
-});
+if (require.main === module) {
+  main().catch((err) => {
+    console.error("Error inesperado:", err);
+    process.exit(1);
+  });
+}
+
+module.exports = { parseCategorias, parseNotas, pickImagePath, buildCaption, makeId };
