@@ -567,6 +567,38 @@ img{ max-width:100%; display:block; }
   font-size:0.98rem;
 }
 
+.feed-more{
+  margin:44px 0 0;
+  padding-top:34px;
+  border-top:1px solid var(--line);
+  text-align:center;
+}
+.feed-count{
+  font-family:"Montserrat",sans-serif;
+  font-size:0.7rem;
+  letter-spacing:0.08em;
+  text-transform:uppercase;
+  color:var(--ink-soft);
+  margin:0 0 16px;
+}
+.btn-load-more{
+  display:inline-block;
+  padding:13px 28px;
+  font-family:"Montserrat",sans-serif;
+  font-size:0.78rem;
+  letter-spacing:0.07em;
+  text-transform:uppercase;
+  background:transparent;
+  border:1px solid var(--spine, var(--ink));
+  color:var(--spine, var(--ink));
+  cursor:pointer;
+  transition:background 0.15s, color 0.15s;
+}
+.btn-load-more:hover{
+  background:var(--spine, var(--ink));
+  color:var(--cream);
+}
+
 .article-kicker{
   color:var(--spine, var(--red));
   margin-bottom:14px;
@@ -672,6 +704,71 @@ img{ max-width:100%; display:block; }
   margin:0 0 8px;
 }
 .callout p{ margin:0; font-size:0.95rem; }
+
+/* tabla dentro de una nota */
+.note-table-wrap{
+  margin:32px 0;
+  overflow-x:auto;
+  border-top:1px solid var(--line);
+  border-bottom:1px solid var(--line);
+}
+.note-table{
+  width:100%;
+  border-collapse:collapse;
+  font-size:0.92rem;
+}
+.note-table th, .note-table td{
+  padding:12px 14px;
+  text-align:left;
+  border-bottom:1px solid var(--line);
+  white-space:nowrap;
+}
+.note-table thead th{
+  font-family:"Montserrat",sans-serif;
+  font-size:0.68rem;
+  letter-spacing:0.06em;
+  text-transform:uppercase;
+  color:var(--ink-soft);
+  border-bottom:2px solid var(--spine, var(--ink));
+}
+.note-table tbody tr:last-child td{ border-bottom:none; }
+.note-table tbody tr:nth-child(odd){ background:var(--paper); }
+
+/* gráfico de barras dentro de una nota */
+.note-chart{ margin:32px 0; }
+.note-chart-title{
+  font-family:"Montserrat",sans-serif;
+  font-size:0.72rem;
+  letter-spacing:0.08em;
+  text-transform:uppercase;
+  color:var(--ink-soft);
+  margin:0 0 16px;
+}
+.note-chart-row{
+  display:grid;
+  grid-template-columns:minmax(90px,26%) 1fr auto;
+  align-items:center;
+  gap:12px;
+  margin-bottom:10px;
+  font-size:0.88rem;
+}
+.note-chart-label{ color:var(--ink); }
+.note-chart-track{
+  height:14px;
+  background:var(--paper);
+}
+.note-chart-bar{
+  display:block;
+  height:100%;
+  background:var(--spine, var(--red));
+}
+.note-chart-value{
+  font-family:"Montserrat",sans-serif;
+  font-weight:700;
+  font-size:0.82rem;
+  text-align:right;
+  min-width:2.5ch;
+}
 
 .next-story{
   margin-top:60px;

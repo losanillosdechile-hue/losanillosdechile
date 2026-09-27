@@ -53,7 +53,58 @@ la ruta en `categorias.txt` y sube la foto nueva a `img/`.
 La nota aparece sola, arriba de las demás de su categoría (por fecha).
 Si la marcas con `portada: si`, además pasa a ser la protagonista de
 la portada del sitio (deja solo una nota en `si` a la vez; la foto que
-se muestra ahí es la fija de esa categoría).
+se muestra ahí es la fija de esa categoría, salvo que esa nota tenga
+su propia foto con `foto:` — ver abajo).
+
+## Agregar una foto propia a una nota (opcional)
+
+Por defecto todas las notas de una categoría comparten la foto fija
+de esa categoría. Si quieres que una nota puntual tenga SU PROPIA
+foto (por ejemplo, la foto real del evento):
+
+1. Sube la foto a la carpeta `img/` (puedes crear una subcarpeta
+   `img/notas/` para no mezclarlas con las fotos fijas).
+2. Agrega el campo `foto:` a esa nota, con la ruta a esa imagen:
+
+   ```
+   foto: img/notas/prueba-margarita-copenhague.jpg
+   ```
+
+Esta foto se ve en la nota, en el sitio. Y además — esto es lo
+importante — **es la misma foto que se va a publicar en Instagram**
+para esa nota específica, en vez de la foto genérica de la categoría.
+Si una nota no trae `foto:`, todo sigue funcionando exactamente
+igual que antes (usa la foto fija de la categoría, en el sitio y en
+Instagram).
+
+## Agregar una tabla a una nota (opcional)
+
+Dentro del `texto:` de la nota, escribe una tabla con `|` entre cada
+columna. La primera línea son los títulos de las columnas:
+
+```
+| Posición | Atleta | Marca |
+| 1 | Ana Pérez | 10.01 |
+| 2 | Bruno Silva | 10.05 |
+```
+
+## Agregar un gráfico de barras a una nota (opcional)
+
+Empieza el bloque con `@ ` seguido del título del gráfico, y luego
+una línea por cada barra, con `nombre | número`:
+
+```
+@ Medallas por país
+Chile | 12
+Argentina | 9
+Brasil | 15
+```
+
+Nota: las tablas y los gráficos se ven en el sitio web, pero
+Instagram solo puede publicar una foto + texto — no puede mostrar
+tablas ni gráficos. Lo que sí controla el post de Instagram es la
+foto de la nota (`foto:`, ver arriba) y el título + bajada como
+texto.
 
 ## Cambiar el número de edición
 

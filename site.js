@@ -57,6 +57,60 @@
       .filter(function (c) { return c.slug; });
   }
 
+  /* ---------- TABLA dentro de una nota (líneas que empiezan con |) ---------- */
+  function renderTable(raw) {
+    var rows = raw.split("\n")
+      .map(function (l) { return l.trim(); })
+      .filter(Boolean)
+      .map(function (line) {
+        var cells = line.split("|").map(function (c) { return c.trim(); });
+        if (cells.length && cells[0] === "") cells.shift();
+        if (cells.length && cells[cells.length - 1] === "") cells.pop();
+        return cells;
+      });
+    if (!rows.length) return "";
+    var header = rows[0];
+    var body = rows.slice(1);
+    var html = '<div class="note-table-wrap"><table class="note-table"><thead><tr>';
+    header.forEach(function (h) { html += "<th>" + h + "</th>"; });
+    html += "</tr></thead><tbody>";
+    body.forEach(function (r) {
+      html += "<tr>";
+      r.forEach(function (cell) { html += "<td>" + cell + "</td>"; });
+      html += "</tr>";
+    });
+    html += "</tbody></table></div>";
+    return html;
+  }
+
+  /* ---------- GRÁFICO DE BARRAS dentro de una nota (empieza con "@ ") ---------- */
+  function renderChart(raw) {
+    var lines = raw.split("\n").map(function (l) { return l.trim(); }).filter(Boolean);
+    var title = lines[0].slice(2).trim();
+    var items = [];
+    for (var i = 1; i < lines.length; i++) {
+      var parts = lines[i].split("|").map(function (p) { return p.trim(); });
+      if (parts.length >= 2) {
+        var num = parseFloat(parts[1].replace(",", "."));
+        if (!isNaN(num)) items.push({ label: parts[0], value: num, display: parts[1] });
+      }
+    }
+    if (!items.length) return "";
+    var max = Math.max.apply(null, items.map(function (it) { return it.value; }));
+    var html = '<div class="note-chart">';
+    if (title) html += '<p class="note-chart-title">' + title + "</p>";
+    items.forEach(function (it) {
+      var pct = max > 0 ? Math.max(4, Math.round((it.value / max) * 100)) : 0;
+      html += '<div class="note-chart-row">' +
+                '<span class="note-chart-label">' + it.label + "</span>" +
+                '<span class="note-chart-track"><span class="note-chart-bar" style="width:' + pct + '%"></span></span>' +
+                '<span class="note-chart-value">' + it.display + "</span>" +
+              "</div>";
+    });
+    html += "</div>";
+    return html;
+  }
+
   /* ---------- PARSER: notas.txt ---------- */
   function parseBody(raw) {
     var chunks = raw.trim().split(/\n\s*\n/).filter(function (c) { return c.trim(); });
@@ -77,6 +131,12 @@
           cuerpo = rest.slice(colonIdx + 1).trim();
         }
         return '<div class="callout"><h4>' + titulo + "</h4><p>" + cuerpo + "</p></div>";
+      }
+      if (c.charAt(0) === "|") {
+        return renderTable(c);
+      }
+      if (c.indexOf("@ ") === 0) {
+        return renderChart(c);
       }
       return "<p>" + c.split("\n").map(function (l) { return l.trim(); }).join(" ") + "</p>";
     });
@@ -118,6 +178,7 @@
       title: fields.titulo,
       dek: fields.bajada || "",
       byline: fields.firma || "",
+      foto: fields.foto || "",
       portada: /^s[ií]$|^true$/i.test((fields.portada || "").trim()),
       stats: stats,
       body: parseBody(bodyRaw)
@@ -274,6 +335,9 @@
     html += '<h2 class="article-title">' + article.title + "</h2>";
     if (article.dek) html += '<p class="article-sub">' + article.dek + "</p>";
     if (article.byline) html += '<p class="byline">' + article.byline + "</p>";
+    if (article.foto) {
+      html += '<figure class="article-photo"><img src="' + article.foto + '" alt="' + article.title + '" loading="lazy"></figure>';
+    }
     html += renderStats(article.stats);
     html += '<div class="article-body">' + article.body.join("\n") + "</div>";
     html += "</article>";
@@ -281,6 +345,17 @@
   }
 
   /* ---------- CATEGORY PAGE ---------- */
+  var FEED_PAGE_SIZE = 6; // cuántas notas se ven de entrada, y cuántas más se suman por click
+
+  function renderFeedMore(shown, total) {
+    if (shown >= total) return "";
+    var proximo = Math.min(FEED_PAGE_SIZE, total - shown);
+    return '<div class="feed-more">' +
+             '<p class="feed-count">Mostrando ' + shown + ' de ' + total + ' notas</p>' +
+             '<button type="button" id="feed-load-more" class="btn-load-more">Ver ' + proximo + ' notas más</button>' +
+           '</div>';
+  }
+
   function doRenderCategoryPage(slug) {
     var cat = getCategory(slug);
     if (!cat) return;
@@ -301,13 +376,25 @@
                             .sort(byDateDesc);
 
     var feed = document.getElementById("feed");
-    if (feed) {
+    var shownCount = Math.min(FEED_PAGE_SIZE, articles.length);
+
+    function paintFeed() {
+      if (!feed) return;
       if (!articles.length) {
         feed.innerHTML = '<p class="category-empty">Todavía no hay notas publicadas en esta categoría.</p>';
-      } else {
-        feed.innerHTML = articles.map(renderArticle).join("\n");
+        return;
+      }
+      feed.innerHTML = articles.slice(0, shownCount).map(renderArticle).join("\n") +
+                        renderFeedMore(shownCount, articles.length);
+      var btn = document.getElementById("feed-load-more");
+      if (btn) {
+        btn.addEventListener("click", function () {
+          shownCount = Math.min(shownCount + FEED_PAGE_SIZE, articles.length);
+          paintFeed();
+        });
       }
     }
+    paintFeed();
 
     var idx = CATEGORIES.findIndex(function (c) { return c.slug === slug; });
     var next = CATEGORIES[(idx + 1) % CATEGORIES.length];
