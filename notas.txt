@@ -61,7 +61,7 @@ titulo: Hugo Catrileo, sexto en Varsovia
 bajada: Hugo Catrileo finalizó en el sexto lugar en la Maratón de Varsovia (Polonia) tras cruzar la meta con un tiempo de 2:13:39.
 firma: Por el equipo editorial de Los Anillos de Chile
 portada: si
-foto: img/catrileo2709.jpg 
+foto: img/notas/catrileo2709.jpg 
 texto: 
 El fondista chileno Hugo Catrileo finalizó en el sexto lugar en la Maratón de Varsovia (Polonia), disputada este domingo, tras cruzar la meta de la distancia con un tiempo de 2:13:39.
 
