@@ -54,6 +54,30 @@
 #
 # ======================================================================
 
+categoria: triatlon
+fecha: 2026-09-27
+etiqueta: World Triathlon Championship Finals - Triatlon
+titulo: André Buc hace historia en Pontevedra
+bajada: El triatleta chileno se ubicó 13° en las World Triathlon Championship Finals Pontevedra 2026, el mejor resultado histórico de un nacional y quedando como el mejor sudamericano en la prueba. 
+firma: Por el equipo editorial de Los Anillos de Chile/ COCH
+portada: no
+foto: img/notas/buc2709.jpg 
+texto: 
+El chileno André Buc cerró este domingo una tremenda actuación en las World Triathlon Championship Finals Pontevedra 2026, finalizando en el 13° lugar con un tiempo de 1:41:23. 
+
+Este representa el mejor resultado de un chileno en la historia de las Championship Finals en categoría Elite masculina. 
+
+Además, fue el mejor sudamericano del evento, delante del brasileño Miguel Hidalgo, quien quedó 32°.
+
+Por su parte, Diego Moya también completó una gran carrera, finalizando en el 33° puesto, con un tiempo de 1:43:14.
+
+El oro se lo llevó el australiano Matthew Hauser, con 1:39:31, seguido por el portugués Vasco Vilaca, con 1:39:31, y tercero el británico Alex Yee, con 1:39:35.
+
+Estas actuaciones cierran una participación increíble para el país en una de las competencias más importantes del calendario internacional.
+
+
+====
+
 categoria: atletismo
 fecha: 2026-09-27
 etiqueta: Maratón de Varsovia - Atletismo
