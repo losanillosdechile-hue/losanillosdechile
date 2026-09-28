@@ -93,10 +93,65 @@ function pickImagePath(article, cat) {
   return article.foto || cat.image;
 }
 
+/* GitHub Pages puede tardar uno o dos minutos en publicar archivos
+   recién subidos (sobre todo fotos nuevas de notas). Si Instagram
+   intenta bajar la imagen antes de que esté disponible, falla con
+   "Error al descargar el contenido multimedia". Por eso esperamos
+   a que la URL responda de verdad antes de pedirle a Instagram que
+   la use. */
+async function waitUntilReachable(url, attempts, delayMs) {
+  attempts = attempts || 15;
+  delayMs = delayMs || 8000;
+  for (let i = 0; i < attempts; i++) {
+    try {
+      const res = await fetch(url, { method: "GET" });
+      if (res.ok) return true;
+    } catch (e) {
+      // problema de red pasajero, reintentamos
+    }
+    if (i < attempts - 1) await sleep(delayMs);
+  }
+  return false;
+}
+
+/* Después de crear el contenedor, Instagram procesa la imagen y
+   tarda unos segundos. Si se pide publicar antes de que termine,
+   responde "Media ID is not available / el contenido multimedia no
+   está listo". Por eso consultamos el estado hasta que diga FINISHED. */
+async function waitUntilContainerReady(creationId, accessToken, attempts, delayMs) {
+  attempts = attempts || 20;
+  delayMs = delayMs || 3000;
+  let last = "sin respuesta";
+  for (let i = 0; i < attempts; i++) {
+    try {
+      const url = `https://graph.facebook.com/${GRAPH_VERSION}/${creationId}?fields=status_code&access_token=${encodeURIComponent(accessToken)}`;
+      const res = await fetch(url);
+      const data = await res.json();
+      last = JSON.stringify(data.status_code || data.error || data);
+      if (data.status_code === "FINISHED") return { ok: true };
+      if (data.status_code === "ERROR" || data.status_code === "EXPIRED") {
+        return { ok: false, detail: "estado " + data.status_code };
+      }
+    } catch (e) {
+      last = e.message;
+    }
+    if (i < attempts - 1) await sleep(delayMs);
+  }
+  return { ok: false, detail: "tiempo agotado (último estado: " + last + ")" };
+}
+
 async function publishToInstagram(article, cat, igUserId, accessToken) {
   const imagePath = pickImagePath(article, cat);
   const imageUrl = `${SITE_BASE}/${imagePath.split("?")[0]}?v=${Date.now()}`;
   const caption = buildCaption(article, cat);
+
+  const ready = await waitUntilReachable(imageUrl);
+  if (!ready) {
+    throw new Error(
+      "La imagen todavía no está disponible en GitHub Pages tras esperar: " + imageUrl +
+      ". Puede que el despliegue de Pages esté tardando más de lo normal."
+    );
+  }
 
   const createRes = await fetch(`https://graph.facebook.com/${GRAPH_VERSION}/${igUserId}/media`, {
     method: "POST",
@@ -106,6 +161,11 @@ async function publishToInstagram(article, cat, igUserId, accessToken) {
   const createData = await createRes.json();
   if (!createData.id) {
     throw new Error("Error creando el contenedor de Instagram: " + JSON.stringify(createData));
+  }
+
+  const processed = await waitUntilContainerReady(createData.id, accessToken);
+  if (!processed.ok) {
+    throw new Error("Instagram no terminó de procesar la imagen: " + processed.detail);
   }
 
   const publishRes = await fetch(`https://graph.facebook.com/${GRAPH_VERSION}/${igUserId}/media_publish`, {
