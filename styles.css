@@ -630,11 +630,13 @@ img{ max-width:100%; display:block; }
 .article-photo{
   margin:32px 0 6px;
   border-top:4px solid var(--spine, var(--navy));
+  background:var(--spine, var(--navy));
 }
 .article-photo img{
+  display:block;
   width:100%;
   aspect-ratio:16/10;
-  object-fit:cover;
+  object-fit:contain;
 }
 .article-photo figcaption{
   margin:10px 0 0;
