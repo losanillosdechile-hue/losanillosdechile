@@ -54,6 +54,34 @@
 #
 # ======================================================================
 
+categoria: atletismo
+fecha: 2026-09-28
+etiqueta: Torneo Primavera UC - Atletismo
+titulo: Atletas máster se lucieron en San Carlos de Apoquindo
+bajada: Más de 160 atletas máster participaron este fin de semana del Torneo Primavera UC que se llevó a cabo en San Carlos de Apoquindo.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: no
+foto: img/notas/masteruc2809.jpg 
+texto: 
+Universidad Católica en damas, y CAS Chillán en varones fueron los clubes más destacados en la reciente edición del Torneo de Primavera UC para deportistas máster que se llevó a cabo en la pista atlética de San Carlos de Apoquindo.
+
+El torneo comprendió competencias de velocidad, medio fondo, fondo, saltos y lanzamientos y contó con la presencia de más de 160 atletas de más de 30 años y pertenecientes a diversos clubes de Santiago y de regiones.
+
+En damas, Universidad Católica fue el club con más galardones, con 25 oros y 6 platas, seguido por Atlético Francés, con 14 oros y 3 playas, y tercero Círculo Atlético Royal, con 10 oros y 4 platas.
+
+Otros clubes destacados en las competencias femeninas fueron Los Robles, con 5medallas de oro y 2 de plata, y Atlético Yumbel, con 3 oros.
+
+En varones, CAS Chillán consiguió 12 oros y 4 platas; seguido por Universidad Católica, con 12 preseas doradas	y 2 de plata, y tercero Atlético Francés, con 11 oros y 6 platas.
+
+Luego aparecen Atlético Santiago, con 11 oros y 7 platas, y Círculo Atlético Royal, con 10 medallas de oro y 6 de plata.
+
+A nivel general, el vencedor fue Universidad Católica, con 37 oros y 8 platas, seguido por Atlético Francés, con 25 medallas de oro y 9 de plata, y tercero, Círculo Atlético Royal, con 20 doradas y 10 plateadas.
+
+Atlético Santiago figuró en el cuarto lugar con 12 oros y 10 platas, mientras que CAS Chillán quedó quinto en el general, con 12 medallas de oro y 4 de plata.
+
+
+====
+
 categoria: triatlon
 fecha: 2026-09-27
 etiqueta: World Triathlon Championship Finals - Triatlon
