@@ -54,6 +54,33 @@
 #
 # ======================================================================
 
+categoria: breves
+fecha: 2026-09-29
+etiqueta: Política Nacional de la Actividad Física y Deporte - Breves
+titulo: Nueva Política Nacional de Actividad Física y Deporte
+bajada: La instancia establece la hoja de ruta para el desarrollo del sector durante los próximos 12 años, con foco tanto en aumentar la práctica de actividad física como en fortalecer el alto rendimiento.
+firma: Por el equipo editorial de Los Anillos de Chile/ Mindep
+portada: si
+foto: img/notas/politicanacional2903.jpg 
+texto: 
+El Ministerio del Deporte presentó la Política Nacional de Actividad Física y Deporte 2026-2037, instrumento que establece la hoja de ruta para el desarrollo del sector durante los próximos 12 años, con foco tanto en aumentar la práctica de actividad física como en fortalecer el alto rendimiento.
+
+Esta política contempla dos grandes objetivos estratégicos: aumentar la práctica de actividad física y deporte en todos los segmentos de la población, y mejorar el desempeño de deportistas y paradeportistas de alto rendimiento en competencias internacionales del ciclo olímpico y paralímpico.
+
+El ministro del Deporte, Francisco Riveros, destacó que el cumplimiento de esta hoja de ruta requiere una mirada que trascienda al Ministerio del Deporte y articule a distintos sectores del Estado. 
+
+“El desarrollo del deporte no depende de un solo ministerio. Esta Política nos entrega una proyección para los próximos 12 años y requiere un trabajo coordinado entre distintas áreas del Estado, los gobiernos regionales, los municipios, las organizaciones deportivas y el sector privado. Queremos que el deporte sea parte de una visión integral de país, con objetivos claros y una mirada de largo plazo”, señaló.
+
+En esta línea, la Política contempla un modelo de gobernanza interministerial y territorial, que considera la articulación del Comité Interministerial de la Actividad Física y el Deporte y la coordinación técnica con subsecretarías, servicios públicos, el IND y otros actores estratégicos del sistema deportivo.
+
+Por su parte, la subsecretaria del Deporte, María Paz Ríos, señaló que este trabajo conjunto será clave para llevar la Política a los territorios.
+ 
+“Una Política de esta magnitud requiere coordinación y continuidad. El trabajo interministerial nos permitirá abordar la actividad física y el deporte desde distintas dimensiones, articulando capacidades y recursos para que las acciones definidas tengan impacto concreto en la vida de las personas y en el desarrollo de nuestros deportistas”, indicó.
+
+La implementación se realizará a través de un Plan Estratégico Nacional y 16 Planes de Acción Regional, que definirán acciones concretas y medibles para el corto, mediano y largo plazo, considerando las necesidades y oportunidades particulares de cada territorio.
+
+====
+
 categoria: atletismo
 fecha: 2026-09-28
 etiqueta: Torneo Primavera UC - Atletismo
