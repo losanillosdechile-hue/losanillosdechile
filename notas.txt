@@ -54,6 +54,29 @@
 #
 # ======================================================================
 
+categoria: ciclismo
+fecha: 2026-09-30
+etiqueta: Vuelta Internacional Femenina a Costa Rica - Ciclismo
+titulo: Catalina Soto, comenzó liderando en Costa Rica
+bajada: La ciclista chilena Catalina Soto se adjudicó la primera etapa de la Vuelta Internacional Femenina a Costa Rica.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: si
+foto: img/notas/catalinasoto3009.jpg 
+texto: 
+La ciclista chilena Catalina Soto (Selección Chilena) se adjudicó este miércoles la primera etapa de la Vuelta Internacional Femenina a Costa Rica, que comprendió un circuito de 109 kilómetros en la Municipalidad de Cañas.
+
+La campeona panamericana de ruta completó el trayecto con un tiempo de 2 oras 55 minutos 51 segundos, ganando en el sprint final a la Nataliia Safroniuk (Pato Bike BMC Team).
+
+En el tercer lugar quedó la costarricense Yendry Quesada (Colono Bikestation Kölbi), cuarta fue la colombiana Carolina Vargas (Banrural Tropigas Don Paletero) y quinta la neerlandesa Elke Weernink (Global Cycling Team).
+
+La campeona defensora, la colombiana Camila Valbuena (Manza Té La Selva No Varix) quedó en el puesto 13° de la etapa, mientras que la segunda chilena fue Aranza Villalón (Selección Chilena), quedó 14ta.
+
+Además de Soto y Villalón, el equipo nacional lo conforman Yarela González, Martina Torres y Alexandra Osorio.
+
+La próxima etapa (segunda) se desarrollará este jueves 1 de octubre y comprenderá un circuito de 105 kilómetros, que se disputará entre el Parque de Tilarán y el Parque La Fortuna.
+
+====
+
 categoria: breves
 fecha: 2026-09-29
 etiqueta: Política Nacional de la Actividad Física y Deporte - Breves
