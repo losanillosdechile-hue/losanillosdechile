@@ -61,7 +61,7 @@ titulo: Catalina Soto, comenzó liderando en Costa Rica
 bajada: La ciclista chilena Catalina Soto se adjudicó la primera etapa de la Vuelta Internacional Femenina a Costa Rica.
 firma: Por el equipo editorial de Los Anillos de Chile
 portada: si
-foto: img/notas/catalinasoto3009.jpg 
+foto: img/notas/catasoto3009.jpg 
 texto: 
 La ciclista chilena Catalina Soto (Selección Chilena) se adjudicó este miércoles la primera etapa de la Vuelta Internacional Femenina a Costa Rica, que comprendió un circuito de 109 kilómetros en la Municipalidad de Cañas.
 
