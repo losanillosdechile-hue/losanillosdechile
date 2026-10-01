@@ -54,6 +54,48 @@
 #
 # ======================================================================
 
+categoria: basquetbol
+fecha: 2026-09-30
+etiqueta: Women’s Basketball League Americas 2026 - Basquetbol
+titulo: Sportiva Italiana y Los Leones debutaron con triunfos en la WBLA Americas
+bajada: Sportiva Italiana y CDC Los Leones comenzaron con el pie derecho su participación en la Women’s Basketball League Americas 2026 tras derrotar en la primera jornada al SESI Araraquara (BRA) y al Defensor Sporting (URU), respectivamente.
+firma: Por el equipo editorial de Los Anillos de Chile/ FIBA
+portada: no
+foto: img/notas/wbla3009.jpg 
+texto: 
+Sportiva Italiana y CDC Leones abrieron los juegos con sendas victorias en la primera jornada de la Women’s Basketball League Americas 2026, que inició este martes en el Centro Deportivo Ismenia Pauchard Demier.
+
+Sportiva Italiana no tuvo contemplación ante SESI Araraquara (BRA) y dominó con abultada diferencia derrotándola por 66 a 44. Luego, a segunda hora, el anfitrión CDC Leones repitió la dosis y superó por doble dígito a Defensor Sporting (URU) por 71 a 57.
+
+En el primer juego, las italianas consiguieron una contundente victoria sobre SESI Araraquara, liderando el juego de principio a fin, sin estar nunca abajo en el marcador.
+
+Las dirigidas por el entrenador Gianluca Pozo construyeron rápidamente una ventaja de dos dígitos y controlaron el ritmo durante todo el encuentro. 
+
+El Araraquara logró reducir brevemente la diferencia a una sola posesión, pero Sportiva Italiana respondió a cada intento de reacción y terminó con su mayor ventaja de la noche.
+
+Sierra Moore ofreció un gran espectáculo y lideró a las vencedoras con 18 puntos, 10 rebotes, 3 asistencias y 3 robos. Andrea Daley añadió 16 unidades y 7 tableros, mientras que Jessica Jackson aportó 11 tantos, 5 rebotes y 5 robos. 
+
+Desde el banco, Valentina Ojeda dio un importante impulso con 11 puntos, además de 4 rebotes, 2 robos y 1 bloqueo.
+
+Por el quinteto brasileño, Aline Moura culminó con 14 puntos y 8 rebotes. Mikaelly Freitas y Maisa Marçal añadieron 10 tantos cada una.
+
+Por su parte, el conjunto de Los Leones de Quilpué, liderado por Martina Orellana, quien convirtió 21 puntos, consiguió marcar la diferencia frente a las charrúas de Defensor Sporting.
+
+Los dos equipos estuvieron igualados a 38 al inicio del tercer cuarto, después de una primera mitad muy disputada, pero el conjunto felino tomó el control durante los dos períodos finales y convirtió un partido equilibrado en una cómoda victoria por doble dígito.
+
+Orellana lanzó 8 de 14 de campo, incluidos 4 de 8 desde la larga distancia, y su aporte ofensivo coincidió con los momentos de mayor dominio de Leones.
+
+Jacaira Allen también destacó con 10 contables, 7 tableros, 4 asistencias y 5 robos, mientras que la brasileña Lays Da Silva sumó 10 unidades, 6 capturas y 6 asistencias. 
+
+Por su parte, Alisha Wislon se hizo fuerte en los tableros con 7 puntos y 14 rebotes.
+
+Por Defensor Sporting, la también brasileña Gabriela Guimaraes se vio sólida con 18 tantos y 14 rebotes, además de 2 asistencias y 2 robos.
+
+El torneo se desarrolla hasta el domingo 4 de octubre.
+
+
+====
+
 categoria: ciclismo
 fecha: 2026-09-30
 etiqueta: Vuelta Internacional Femenina a Costa Rica - Ciclismo
