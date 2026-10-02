@@ -54,6 +54,28 @@
 #
 # ======================================================================
 
+categoria: basquetbol
+fecha: 2026-10-02
+etiqueta: Women’s Basketball League Americas 2026 - Basquetbol
+titulo: Sportiva Italiana y Colegio Los Leones a las Semifinales de la WBL Americas
+bajada: Sportiva Italiana y Colegio Los Leones ganaron sus respectivos grupos y clasificaron directamente a la ronda de los 4 mejores del torneo.
+firma: Por el equipo editorial de Los Anillos de Chile/ Chilefeba
+portada: No
+foto: img/notas/wbla0210.jpg 
+texto: 
+Los elencos chilenos de Sportiva Italiana y Colegio Los Leones clasificaron directamente a las Semifinales de la Women’s Basketball League Americas 2026, que se desarrolla en el Complejo Ismenia Pauchard, tras salir victoriosos en el último día de la Fase de Grupos.
+
+Sportiva Italiana (2-0) doblegó a Bay Area Phoenix (1-1) y se quedó con la cima del Grupo B y el boleto a la instancia de los cuatro mejores, mientras que Leones (2-0) hizo lo propio contra Ferro (1-1) para liderar el Grupo A y también meterse a la disputa de las medallas.
+
+Las Semifinales tendrán lugar el sábado. Por su parte, Phoenix y Ferro jugarán este viernes por los Cuartos de Final.
+
+El quinteto estadounidense chocará ante Defensor Sporting (URU) y el argentino luchará contra SESI Araraquara (BRA).
+
+Los ganadores de ambos cruces se quedarán con los cupos restantes a las Semifinales.
+
+
+====
+
 categoria: ciclismo
 fecha: 2026-10-01
 etiqueta: Vuelta Internacional Femenina a Costa Rica - Ciclismo
