@@ -54,6 +54,32 @@
 #
 # ======================================================================
 
+categoria: ciclismo
+fecha: 2026-10-01
+etiqueta: Vuelta Internacional Femenina a Costa Rica - Ciclismo
+titulo: Soto y Villalón, en el podio de la jornada
+bajada: Las ciclistas Catalina Soto y Aranza Villalón llegaron segunda y tercera, respectivamente en la etapa de este jueves en la Vuelta Femenina Internacional a Costa Rica.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/catasoto0110.jpg 
+texto: 
+Las ciclistas nacionales Catalina Soto y Aranza Villalón (ambas representando a la Selección Chilena) se subieron al podio en la segunda etapa de la Vuelta Internacional Femenina a Costa Rica, que comprendió un trazado de 105 kilómetros, que se disputará entre el Parque de Tilarán y el Parque La Fortuna.
+
+Soto, quien ganó la etapa anterior, cruzó la meta de este jueves en segundo lugar, detrás de la ucraniana Nataliia Safroniuk (Pato Bike BMC Team), quien ganó la jornada con un tiempo de 3 horas y 41 segundos. Por su parte, Villalón se ubicó en tercer lugar.
+
+El equipo chileno además de estos resultados logró una gran clasificación de las otras integrantes. De hecho, Yarela González se ubicó en el décimo puesto, mientras que Martina Torres figuró en el puesto 15. A su vez, Alexandra Osorio llegó en el lugar 35.
+
+En cuanto a la clasificación general, Catalina Soto marcha en segundo lugar, con un tiempo de 5:56:32, mismo tiempo que Nataliia Safroniuk, quien lidera la prueba. 
+
+Aranza Villalón marcha quinta en la general, mientras que Martina Torres, está 15ta,  Yarela González, 26ta, y Alexandra Osorno, 38va.
+
+En la clasificación por equipos, Chile marcha segundo, con el mismo tiempo que la escudería Pato Bike BMC Team (17:49:36).
+
+La tercera etapa tendrá salida en La Fortuna de San Carlos y llegada en Guápiles, para un recorrido de 125 kilómetros.
+
+
+====
+
 categoria: basquetbol
 fecha: 2026-09-30
 etiqueta: Women’s Basketball League Americas 2026 - Basquetbol
