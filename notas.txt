@@ -54,6 +54,30 @@
 #
 # ======================================================================
 
+categoria: ciclismo
+fecha: 2026-10-02
+etiqueta: Vuelta Internacional Femenina a Costa Rica - Ciclismo
+titulo: Catalina Soto retomó el liderato en Costa Rica
+bajada: La ciclista Catalina Soto ganó la tercera etapa de la Vuelta Internacional Femenina a Costa Rica y con ello pasó a encabezar la Clasificación General de la prueba.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/catasoto0210.jpg 
+texto: 
+La ciclista Catalina Soto (Selección de Chile), se impuso este viernes en la tercera etapa de la Vuelta Internacional Femenina a Costa Rica, que tuvo salida en La Fortuna de San Carlos y llegada en Guápiles, luego de completar un recorrido de 125 kilómetros.
+
+Soto cruzó la línea de meta con un tiempo de 3:14:07, resultado que le permitió convertirse en la nueva líder de la clasificación general de la competencia.
+
+En segundo lugar cruzó la ucraniana Nataliia Safroniuk (Pato Bike BMC Team), mientras que la tercera fue la costarricense Dixiana Quesada (Colono Bikestation Kölbi)
+
+En cuanto a la representación nacional, Alexandra Osorio terminó en el puesto 17mo, Yarela González, en el 18vo; Aranza Villalón quedó 31° y Martina Torres, 36°.
+
+En las demás clasificaciones, Natalia Safroniuk, del PatoBike de México, pasó a liderar la modalidad de Metas Volantes, mientras que Sophie Loohuis, del Global Cycling Team de Países Bajos, mantiene el liderato de Montaña. Por equipo, la Selección Chilena lidera la clasificación cumplidas 3 etapas.
+
+La próxima etapa se correrá este sábado y comprende un recorrido cronoescalada de 12K de ascenso, que comenzará en Cot de Cortágo y culminará en San Juan de Chicúa.
+
+
+====
+
 categoria: basquetbol
 fecha: 2026-10-02
 etiqueta: Women’s Basketball League Americas 2026 - Basquetbol
