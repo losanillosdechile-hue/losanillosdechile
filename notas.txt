@@ -54,6 +54,30 @@
 #
 # ======================================================================
 
+categoria: triatlon
+fecha: 2026-10-03
+etiqueta: World Cup Roma - Triatlon
+titulo: Diego Moya, Top 20 en Roma
+bajada: El triatleta nacional Diego Moya quedó dentro de los 20 mejores en la World Cup que se desarrolló en Roma.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/moya0310.jpg 
+texto: 
+El chileno Diego Moya terminó dentro de los 20 mejores en la World Cup de Triatlón que se desarrolló este sábado en Roma (Italia), tras cumplir la prueba Elite con un tiempo de 54 minutos 56 segundos.
+
+El resultado, además, lo dejó como el segundo latinoamericano, detrás del mexicano Aram Peñaflor, quien terminó en el puesto 18° con un tiempo de 54 minutos y 54 segundos.
+
+El chileno, pese a estar compitiendo con una lesión, salió firme en los 750 metros de natación (09:13), mantuvo el ritmo en los 20 kilómetros de bicicleta (29:09) y cerró con unos 5 kilómetros de trote en 14:59.
+
+La prueba fue ganada por el británico Alex Yee, con un tiempo de 53:47; seguido por el francés Martin Hubner, con 54:12 y tercero el también francés Tristán Douche, con el mismo tiempo.
+
+En cuanto a otros chilenos en competencia, Andrés Gras quedó en el puesto 54 mientras que André Buc no completó la prueba. 
+
+En damas, Rafaela Capó y Daniela Moya tomaron parte de la competencia, quedando en los puestos 53° y 57°, respectivamente.
+
+
+====
+
 categoria: ciclismo
 fecha: 2026-10-02
 etiqueta: Vuelta Internacional Femenina a Costa Rica - Ciclismo
