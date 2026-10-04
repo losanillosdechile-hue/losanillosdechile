@@ -54,6 +54,25 @@
 #
 # ======================================================================
 
+categoria: basquetbol
+fecha: 2026-10-04
+etiqueta: Women’s Basketball League Americas 2026 - Basquetbol
+titulo: Sportiva Italiana a la final del WBLA
+bajada: El conjunto de la Quinta Región se medirá con Bay Arena Phoenix en la final del Women's Basketball League Américas.
+portada: No
+foto: img/notas/wbla0310.jpg
+texto: 
+Sportiva Italiana disputará este domingo la final del Women's Basketball League Americas que se desarrolla en el Centro Ismenia Pauchard en Santiago, luego de derrotar a Sesi Araquara de Brasil por 80 a 73 en las semifinales.
+
+La figura del encuentro fue Andrea Daley, quien anotó 29 puntos, bajó 4 rebotes y entregó 2 asistencias.
+
+Su rival será el quinteto norteamericano de Bay Arena Phoenix, que superó a Colegio Los Leones de Quilpué por 79 a 72.
+
+La MVP del juego fue Rosemarie Julien, del conjunto estadounidense, quien anotó 17 puntos, bajó 3 rebotes, entregó 3 asistencias.
+
+
+====
+
 categoria: breves
 fecha: 2026-10-04
 etiqueta: World Skate Games - Breves
@@ -61,7 +80,7 @@ titulo: Danae Gómez, bronce en Asunción
 bajada: La chilena se quedó con la medalla de bronce en la prueba de  Inline Downhill Time Trial del World Skate Games de Asunción.
 firma: Por el equipo editorial de Los Anillos de Chile
 portada: No
-foto: img/notas/asuncionjornada10310
+foto: img/notas/asuncionjornada10310.jpg
 texto: 
 La patinadora chilena Danae Gómez se quedó con la medalla de bronce en la prueba de Inline Downhill Time trial del World Skate Games, que se desarrolla en Asunción (Paraguay).
 
