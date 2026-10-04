@@ -54,6 +54,34 @@
 #
 # ======================================================================
 
+categoria: ciclismo
+fecha: 2026-10-03
+etiqueta: Vuelta Internacional Femenina a Costa Rica - Ciclismo
+titulo: Colombiana Parra ganó cronoescalada y es la nueva líder
+bajada: La colombiana Jessica Parra, del equipo PatoBike BMC, se impuso este sábado en la cuarta etapa de la Vuelta Femenina a Costa Rica y encabeza la prueba a falta de una jornada.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/costarica0310.jpg 
+texto: 
+La colombiana Jessica Parra, del equipo Pato Bike BMC, se impuso este sábado en la cuarta etapa de la Vuelta Femenina a Costa Rica, la cual comprendió una cronoescalada de 12 kilómetros entre Cot y San Juan de Chicuá, en Cartago.
+
+Parra detuvo el cronómetro en 47:15, resultado que le permitió asumir el liderato de la clasificación general, con una ventaja de 31 segundos sobre Camila Valbuena, del equipo ManzaTé La Selva NoVarix, quien ocupa la segunda posición de la general.
+
+Asimismo, pasó a liderar la clasificación de Montaña.
+
+En cuanto a las representantes chilenas, Catalina Soto terminó sexta en la etapa, a 1 minuto y 43 segundos de Parra, quedando además en el sexto pesto en la clasificación general.
+
+A su vez, Aranza Villalón quedó novena, Yarela González quedó décimo cuarta, Martina Torres quedó vigésimo octava; mientras que Alexandra Osorio fue trigésima tercera.
+
+Por su parte, la ucraniana Natalia Safroniuk (Pato Bike BMC) mantiene el liderato en las clasificaciones de Sub-23, Regularidad y Metas Volantes.
+
+En la clasificación por equipos, la selección chilena encabeza la tabla con 30:04:09, seguida de Pato Bike BMC Team, a 2 minutos 03 segundos.
+
+La Vuelta Femenina a Costa Rica llegará a su final este domingo con una última jornada en Escazú, donde se disputará un circuito de 8 vueltas, con salida y llegada en el Parque de Escazú, para completar un total de 83 kilómetros.
+
+
+====
+
 categoria: triatlon
 fecha: 2026-10-03
 etiqueta: World Cup Roma - Triatlon
@@ -61,7 +89,7 @@ titulo: Diego Moya, Top 20 en Roma
 bajada: El triatleta nacional Diego Moya quedó dentro de los 20 mejores en la World Cup que se desarrolló en Roma.
 firma: Por el equipo editorial de Los Anillos de Chile
 portada: Si
-foto: img/notas/moya0310.jpg 
+foto: img/notas/Moya0310.jpg 
 texto: 
 El chileno Diego Moya terminó dentro de los 20 mejores en la World Cup de Triatlón que se desarrolló este sábado en Roma (Italia), tras cumplir la prueba Elite con un tiempo de 54 minutos 56 segundos.
 
