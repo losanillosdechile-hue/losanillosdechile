@@ -54,6 +54,30 @@
 #
 # ======================================================================
 
+
+categoria: ciclismo
+fecha: 2026-10-04
+etiqueta: Vuelta Internacional Femenina a Costa Rica - Ciclismo
+titulo: Catalina Soto cerró ganando la etapa final en Costa Rica
+bajada: El conjunto de la Quinta Región se medirá con Bay Arena Phoenix en la final del Women's Basketball League Américas.
+portada: No
+foto: img/notas/ciclismo0410.jpg
+texto: 
+La ciclista chilena Catalina Soto terminó la participación en la Vuelta Internacional Femenina a Costa Rica ganando la etapa final que se desarrolló en Escazú, lo que le permitió quedarse con el primer lugar de la Regularidad, tras adueñarse de tres de las cinco etapas que comprendió el certamen.
+
+Peo no fue la única chilena que destacó en la última jornada, que comprendió 8 vueltas con partida y llegada en el parque de Escazú. Aranza Villalón se subió al podio como la tercera mejor de la jornada.
+
+El podio de la jornada fue para Solo (Chile) con 2:17:40, seguida por la mexicana Diana Rodríguez (Megasuper Wild Protein), con el mismo tiempo, y tercera fue Villalón (Chile), a 11 segundos. 
+
+Las otras chilenas que tomaron parte de la jornada fueron Yarela González, en el lugar décimo, y Martina Torres, quien llegó en el puesto décimo cuarto.
+
+La clasificación general de la prueba fue para la colombiana Jessica Parra (Pato Bike BMC), con un tiempo de 12:15:45. 
+
+Por su parte, Catalina Soto se quedó con la Regularidad, tras ganar 3 de las 5 etapas de la Vuelta y al acumular un total de 63 puntos y la Selección Chilena se quedó con la clasificación por equipos.
+
+
+====
+
 categoria: basquetbol
 fecha: 2026-10-04
 etiqueta: Women’s Basketball League Americas 2026 - Basquetbol
