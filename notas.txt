@@ -54,6 +54,30 @@
 #
 # ======================================================================
 
+categoria: breves
+fecha: 2026-10-04
+etiqueta: World Skate Games - Breves
+titulo: Danae Gómez, bronce en Asunción
+bajada: La chilena se quedó con la medalla de bronce en la prueba de  Inline Downhill Time Trial del World Skate Games de Asunción.
+firma: Por el equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/asuncionjornada10310
+texto: 
+La patinadora chilena Danae Gómez se quedó con la medalla de bronce en la prueba de Inline Downhill Time trial del World Skate Games, que se desarrolla en Asunción (Paraguay).
+
+La prueba fue ganada por la colombiana Alef Torres, quien completó la prueba con un tiempo de 1:11.892, seguida por la mexicana Esmeralda Montiel, con 1:12.379 y tercera Gómez con 1:12.795.
+
+En otros resultados de la jornada, e la prueba de Team Cross, Chile presentó dos equipos. El primero, de Camila Seguel, Daniela León y Camila Kaymaliz quedó en el puesto séptimo, mientas que el compuesto por Javiera Rojas, Allison Figueroa y Francisca Bravo quedó noveno. 
+
+En la prueba masculina tambiéncontó con dos equipos. El conformado por José Oyarzún, Felipe González y Camilo Grawe finalizó octavo, mientras que el de Luciano Barrientos, Patricio González y Jesús Hormazábal terminó undécimo.
+
+A su vez, el equipo femenino de Estados Unidos derrotó a al representativo de Chile por 19 a 0 en el Inline Hockey.
+
+En el medallero, Chile aparece décimo, con una medalla de bronce. El principal lo encabezan Francia, con un oro, tres platas y un bronce; seguido por Japón e Italia con un oro y un bronce cada uno.
+
+
+====
+
 categoria: ciclismo
 fecha: 2026-10-03
 etiqueta: Vuelta Internacional Femenina a Costa Rica - Ciclismo
