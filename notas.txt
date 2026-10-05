@@ -55,6 +55,55 @@
 # ======================================================================
 
 
+categoria: running
+fecha: 2026-10-04
+etiqueta: Maratón de Viña del Mar - Running
+titulo: Mario Rivas y Aydee Loayza, figuras en Viña
+bajada: El chileno Mario Rivas y la peruana Aydee Loayza fueron los ganadores de la edición 2016 de la Maratón de Viña del Mar, que esta vez tuvo como partida y llegada en la Playa del Deporte.
+portada: No
+foto: img/notas/vina0410.jpg
+texto: 
+El chileno Mario Rivas y la peruana Aydee Loayza fueron los ganadores de la edición 2016 de la Maratón de Viña del Mar, que contó con la presencia de mas de 12.000 corredores que participaron en las distancias de 10, 21 y 42 kilómetros.
+
+En la maratón masculina, Mario Rivas fue el ganador, cruzando la meta de la prueba, que tuvo como partida y llegada en la Playa del Deporte, con un tiempo de 2:20:31.
+
+Lo secundaron Mauricio Flandez, con 2:20:54, y Maximiliano Aravena, con 2:22:51, siendo éste el podio de los varones.
+
+Por su parte, en las damas, la ganadora fue la peruana Aydee Loayza, quien completó la distancia con un registro de 2:30:08.
+
+El podio lo completaron la colombiana Lina Pantoja, con 2:40:42, y la chilena María Elena Acuña, con 2:49:05.
+
+También se disputaron las distancias de 21k y 10k. En la Media Maratón Masculina, el ganador fue Carlos Díaz, con 1:02:11, quien venció en na muy cerrada carrera a Juan Quijada (1:02:12). El podio lo completó Matías Silva con 1:02:28.
+
+En las damas, la vencedora fue la peruana Nicolasa Condori, quien cruzó la meta con 1:13:40. Fue secundada por las chilenas Johanna Rivas, con 1:14:47, y Margarita Masías, con 1:15:31.
+
+En los 10k, José San Juan ganó con un tiempo de 31:00, superando muy estrechamente a Omar Ceballos (31:05). Tercero fue Ignacio Carrizo, con 31:22.
+
+Por su parte, en damas, la vencedora fue María José Calfila, con un registro de 34:29. El podio lo completaron Josefa Quezada, con 36:27, y Antonia Contreras, con 37:55.
+
+====
+
+categoria: triatlon
+fecha: 2026-10-04
+etiqueta: Itaú 5150 Triathlon Coquimbo - Triatlon
+titulo: Fetaud y Catalán, ganadores en Coquimbo
+bajada: El paraguayo Gastón Fetaud y la chilena Macarena Catalán ganaron la edición 2026 del triatlón 5150 en Coquimbo.
+portada: No
+foto: img/notas/coquimbo0410.jpg
+texto: 
+El paraguayo Gastón Fetaud y la chilena Macarena Catalán, fueron los ganadores de la edición 2026 del triatlón 5150 en Coquimbo, que reunió a más de 200 deportistas este domingo.
+
+El guaraní completo la prueba que albergó 1,5 kilómetros de natación, 40 kilómetros de ciclismo y 10 kilómetros de trote, en un tiempo de 2 horas, 4 minutos y 41 segundos. 
+
+El podio masculino lo completaron dos especialistas nacionales, Manuel Díaz (2:14:41) y Tomás Rivera (2:18:15).
+
+Por su parte, en damas, la chilena Macarena Catalán se adjudicó la prueba con un tiempo de 2 horas, 45 minutos y 38 segundos.
+
+A su vez, el podio femenino lo completaron también dos chilenas: María José Santiagos (2:45:38) y Aurora Aracely (2:48:15).
+
+
+====
+
 categoria: ciclismo
 fecha: 2026-10-04
 etiqueta: Vuelta Internacional Femenina a Costa Rica - Ciclismo
