@@ -55,6 +55,27 @@
 # ======================================================================
 
 
+categoria: basquetbol
+fecha: 2026-10-04
+etiqueta: Women’s Basketball League Americas 2026 - Basquetbol
+titulo: Sportiva Italiana, vicecampeona de la WBLA
+bajada: Sportiva Italiana quedó segunda del WBLA Americas disputado en Santiago tras caer ante Bay Arena Phoenix por 87 a 82.
+portada: Si
+foto: img/notas/wbla0410.jpg
+texto: 
+Sportiva Italiana se coronó vicecampeona del Women's Basketball League Americas que se desarrolló en el Centro Ismenia Pauchard en Santiago, luego de caer en la final ante Bay Area Phoneix, de Estados Unidos, por un estrecho marcador de 87 a 82.
+
+El conjunto de la Región de Valparaíso hizo una gran campaña, llegando a la final de manera invicta, tras ganar al SESI Araquara, de Brasil, y a las norteamericanas en la fase de grupos, y nuevamente a las brasileñas en semifinales.
+
+Sin embargo, las de Phoenix se hicieron grandes durante el certamen, ya que vencieron a SESI en la fase de grupos, superaron a Defensor de Uruguay en Cuartos de final y ganaron a Los Leones de Quilpué en semifinales, para luego ratificar este avance en la final.
+
+La MVP del certamen fue Rosemarie Julien, del conjunto estadounidense, quien fue la figura más destacada, sobre todo en semifinales y en el duelo por el título.
+
+El bronce, en tanto, fue para las brasileñas del SESI, quienes superaron al conjunto de Los Leones por 65 a 53, dejando al cuadro quilpueíno, por consiguiente, en el cuarto puesto.
+
+
+====
+
 categoria: running
 fecha: 2026-10-04
 etiqueta: Maratón de Viña del Mar - Running
@@ -63,7 +84,7 @@ bajada: El chileno Mario Rivas y la peruana Aydee Loayza fueron los ganadores de
 portada: No
 foto: img/notas/vina0410.jpg
 texto: 
-El chileno Mario Rivas y la peruana Aydee Loayza fueron los ganadores de la edición 2016 de la Maratón de Viña del Mar, que contó con la presencia de mas de 12.000 corredores que participaron en las distancias de 10, 21 y 42 kilómetros.
+El chileno Mario Rivas y la peruana Aydee Loayza fueron los ganadores de la edición 2026 de la Maratón de Viña del Mar, que contó con la presencia de mas de 12.000 corredores que participaron en las distancias de 10, 21 y 42 kilómetros.
 
 En la maratón masculina, Mario Rivas fue el ganador, cruzando la meta de la prueba, que tuvo como partida y llegada en la Playa del Deporte, con un tiempo de 2:20:31.
 
