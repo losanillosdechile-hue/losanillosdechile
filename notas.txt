@@ -55,6 +55,30 @@
 # ======================================================================
 
 
+categoria: atletismo
+fecha: 2026-10-06
+etiqueta: Zonal Norte Atletismo Master - Atletismo
+titulo: Iquique fue tierra de Másteres
+bajada: Más de 360 atletas mayores de 30 años participaron este fin de semana del Torneo Zonal Norte de Atletismo Máster desarrollado en Iquique.
+portada: Si
+foto: img/notas/masterzn0610.jpg
+texto: 
+Los clubes Tierra de Campeones, CAS Chuquicamata Calama y Los Robles destacaron en el Torneo Zonal Norte de Atletismo Máster desarrollado este fin de semana en Iquique.
+
+El evento congregó a más de 360 deportistas mayores de 30 años de todo el país, principalmente de las regiones nortinas, como Arica Parinacota, Tarapacá, Antofagasta y Atacama.
+
+Las pruebas de fondo fueron las que más destacaron para Tierra de Campeones, cuyos deportistas destacaron en los 5.000 y 10.000 metros planos ganando 13 oros. Sin embargo, los saltos y lanzamientos también contribuyeron con primeros lugares, para el conjunto local.
+
+Con todo esto, además de otras pruebas de saltos y de pista, consiguió 78 oros, 43 medallas de plata y 24 bronces.
+
+Por su parte, el conjunto loíno consiguió predominar en las pruebas de medio fondo, como los 800 y 1.500 metros planos, además de otras pruebas de pista. Sumó un total de 35 oros, 13 plata y 4 bronces.
+
+A su vez, Los Robles contaron con su fuerte en la velocidad, consiguiendo destacar en las pruebas de 100, 200 y 400 metros planos, con 8 preseas doradas. En cuanto al medallero total, consiguió 22 preseas de oro, 13 de plata y 4 de bronce.
+
+Otros clubes que desataron en la capital de Tarapacá fueron Seniors Copiapó, con 19 oros, 10 platas y 4 bronces; y Antofagasta Runners, con 18 preseas doradas, 11 de plata y 11 de bronce.
+
+====
+
 categoria: basquetbol
 fecha: 2026-10-04
 etiqueta: Women’s Basketball League Americas 2026 - Basquetbol
