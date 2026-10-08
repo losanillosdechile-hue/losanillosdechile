@@ -55,6 +55,23 @@
 # ======================================================================
 
 
+categoria: rugby
+fecha: 2026-10-07
+etiqueta: World Rugby U20 Challenger - Rugby
+titulo: Cóndores M20, a un paso de la final
+bajada: Luego de vencer a Rumania, y sumado el triunfo sobre Hong Kong, sólo le basta superar a Brasil para llegar a las finales del World Rugby U20 Challenger de Santiago.
+portada: Si
+foto: img/notas/condoresm200710.jpg
+texto: 
+A un paso de avanzar a las finales se encuentra la selección chilena M20, luego de derrotar este miércoles a Rumania por 50-0 en el World Rugby U20 Challenger de Santiago.
+
+Pese a comenzar en desventaja, con un marcador adverso de 6 a 0, el conjunto nacional terminó mostrando su línea de juego y su superioridad.
+
+Con el triunfo de esta jornada y el obtenido el viernes sobre Hong Kong (83-19) quedó a un paso de llegar a las finales, para lo cual debe vencer a Brasil el próximo lunes.
+
+
+====
+
 categoria: atletismo
 fecha: 2026-10-06
 etiqueta: Zonal Norte Atletismo Master - Atletismo
