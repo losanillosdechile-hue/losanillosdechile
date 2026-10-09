@@ -55,6 +55,29 @@
 # ======================================================================
 
 
+categoria: atletismo
+fecha: 2026-10-08
+etiqueta: Campeonato Nacional Atletismo Master - Atletismo
+titulo: Avanzan las inscripciones para el Nacional Master
+bajada: Mas de 250 atletas ya están inscritos para el Nacional de Atletismo Master que se llevará a cabo en Valparaíso entre el 27 y 29 de noviembre.
+portada: No
+foto: img/notas/nacionalmaster0810.jpg
+texto: 
+Hasta el 26 de octubre se encuentran abiertas las inscripciones para el campeonato Nacional de Atletismo Master, que se desarrollará entre el 27 y 29 de noviembre en Valparaíso.
+
+El evento, que validará la participación al Mundial Indoor Alachua, USA 2027 y al Sudamericano Cochabamba, Bolivia 2027, tendrá como sede principal el estadio Elías Figueroa Brander de la ciudad puerto y es organizado por el Club Atlético Los Robles.
+
+Otros de los recintos que también albergarán competencias serán Complejo deportivo Alejo Barrios y el estadio Escuela Naval Arturo Prat, todos en el mismo sector de Playa Ancha.
+
+Las competencias comprenden pruebas de pista, saltos, lanzamientos y marcha y pueden participar desde la categoría Premaster (30 a 34 años) hasta atletas de más de 100 años.
+
+Las inscripciones pueden hacerse en la página Sportec.cl y el costo de inscripción para los atletas de clubes afiliados a la Federación de Atletismo Master de Chile (FEMACHI), es de $30.000, al igual que los atletas extranjeros que deseen participar.
+
+Hasta el momento ya se encuentran inscritos, de acuerdo a la página Sportec.cl, 96 atletas femeninas y 168 masculinos. La presencia en el torneo les permite a los propios atletas participar en 3 competencias.
+
+
+====
+
 categoria: rugby
 fecha: 2026-10-07
 etiqueta: World Rugby U20 Challenger - Rugby
