@@ -55,6 +55,24 @@
 # ======================================================================
 
 
+categoria: triatlon
+fecha: 2026-10-10
+etiqueta: Continental Cup - Triatlon
+titulo: Destacada actuación de chilenas en el Continental Cup
+bajada: Las triatletas Dominga Jácome y Rafaela Capó se subieron al podio y Daniela Moya finalizó cuarta en la competencia femenina de la Continental Cup que se desarrolla en Santa Fe, Argentina.
+portada: No
+foto: img/notas/triatlon1010.jpg
+texto: 
+Una sobresaliente actuación tuvo el equipo chileno femenino de triatlón en la Continental Cup que se desarrolla en Santa Fe, Argentina, con Dominga Jácome y Rafaela Capó subiéndose al podio, con medallas de bronce, respectivamente.
+
+Las nacionales completaron la prueba, que comprendió 750 pruebas de nado, 20 kilómetros de bicicleta y 4,9 kilómetros de trote, detrás de la venezolana Rosa Martínez, quien se quedó con la presea dorada.
+
+Jacome tuvo un tiempo de 1:01:54, 23 a 23 segundos de la ganadora, mientras que Capó cumplió con 1:02:26. A su vez, Daniela Moya, la otra nacional en competencia, quedó cuarta con un tiempo de 1:02:39.
+
+Las nacionales y la representante de Venezuela estuvieron palmo a palo en la prueba, tanto en el nado como en la bicicleta, y la ganadora sólo pudo marcar diferencias en el trote, lo que incidió en el resultado final.
+
+====
+
 categoria: atletismo
 fecha: 2026-10-08
 etiqueta: Campeonato Nacional Atletismo Master - Atletismo
