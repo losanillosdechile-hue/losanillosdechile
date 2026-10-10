@@ -54,6 +54,24 @@
 #
 # ======================================================================
 
+categoria: atletismo
+fecha: 2026-10-10
+etiqueta: Campeonato Nacional Cross Country - Atletismo
+titulo: Quijada y Rivas, los reyes del Cross
+bajada: Juan Quijada y Johanna Rivas fueron los ganadores del Nacional de Cross Country que se desarrolló este sábado en Loncoche.
+portada: Si
+foto: img/notas/cross1010.jpg
+texto: 
+Los atletas Juan Quijada y Johanna Rivas fueron los ganadores del Campeonato Nacional de Cross Country que se desarrolló este sábado en Loncoche, Región de la Araucanía.
+
+En la prueba masculina, Quijada (Atlético Yungay) completó los 10 kilómetros con un registro de 30:17. El segundo lugar fue para José Santa Cruz (Carabineros) con 30:48, y tercero fue Luis Zagal (Carabineros), con 30:52.
+
+En damas, Rivas (Los Ángeles) se quedó con la prueba, con un tiempo de 35:50 para los 10k, seguida por Angélica Contreras (Carabineros), con 38:44, y por Scarlet Vargas (MDC Sport), con 39:45.
+
+La jornada también comprendió la categoría Sub 23, donde Cristóbal Israel (Atlético Tempo), con 32:26, y Tamara Villegas (Nahuelbuta) fueron los ganadores.
+
+
+====
 
 categoria: triatlon
 fecha: 2026-10-10
