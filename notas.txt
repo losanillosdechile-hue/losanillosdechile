@@ -54,6 +54,28 @@
 #
 # ======================================================================
 
+
+categoria: atletismo
+fecha: 2026-10-10
+etiqueta: Maratón de Chicago - Atletismo
+titulo: Alessandrini y Peña, los mejores chilenos en Chicago
+bajada: Luis Felipe Alessandrini, en varones, y Carolina Peña, en damas, fueron los chilenos más destacados de la Maratón de Chicago que se corrió este domingo.
+portada: Si
+foto: img/notas/chicago111026.jpg
+texto: 
+Luis Felipe Alessandrini y Carolina Peña fueron los chilenos más destacados de la Maratón de Chicago que se corrió este domingo en la Ciudad de Los Vientos, evento que forma parte del circuito Abbott Marathon Majors.
+
+Alessandrini completó la distancia con un registro de 2:32:57, quedando, además dentro de los 300 mejores de la carrera.
+
+Los otros chilenos destacados fueron Juan Cavieres, con 2:39:15; Antonio Peñailillo, con 2:43:06; Antonio Dittborn, con 2:43:46, y Pablo Aguilera Clouet, con 2:47:43.
+
+Por su parte, Peña fue la mejor chilena con un tiempo de 3:09:39. Otras destacadas fueron Tamara Fuentes, con 3:15:40; Catalina Vaccari, con 3:23:48; Yasna Jelincic, con 3:23:59, y Pia Valenzuela, con 3:28:56.
+
+La carrera fue ganada por el keniano Amos Kipruto, con un tiempo de 2:01:09, mientras que en damas, la reina fue la etíope Hawi Feysa, con 2:13:33.
+
+
+====
+
 categoria: atletismo
 fecha: 2026-10-10
 etiqueta: Campeonato Nacional Cross Country - Atletismo
