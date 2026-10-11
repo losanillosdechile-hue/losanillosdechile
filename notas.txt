@@ -54,8 +54,27 @@
 #
 # ======================================================================
 
+categoria: triatlon
+fecha: 2026-10-11
+etiqueta: Continental Cup - Triatlon
+titulo: Sebastián Zurob, cuarto en Santa Fe
+bajada: El especialista nacional estuvo a segundos del podio en el Continental Cup de triatlón que se desarrolló en Santa Fe.
+portada: No
+foto: img/notas/triatlon1110.jpg
+texto: 
+El chileno Sebastián Zurob fue el más destacado de la delegación masculina en el Continental Cup de Triatlón que se desarrolló este fin de semana en Santa Fe, Argentina, tras llegar en el cuarto lugar.
+
+Zurob completó la prueba en 54:32, a 2 segundos del cubano Alejandro Rodríguez, quien se quedó con el bronce. 
+
+El oro fue para el brasileño Kaué Willy (54:19) y la plata para el ecuatoriano Gabriel Terán (54:22).
+
+En cuanto a los otros chilenos que participaron, Mateo Mendoza llegó en el séptimo lugar, con 54:43, y Daniel Ubilla quedó décimo con 55:00.
+
+
+====
+
 categoria: running
-fecha: 2026-10-10
+fecha: 2026-10-11
 etiqueta: Mundial Master de Maratón - Running
 titulo: Marcela Ibarbe, sexta en Croacia
 bajada: La fondista chilena quedó sexta en su categoría en el Mundial de Maratón Master que se desarrolló en Zagreb, Croacia.
@@ -72,7 +91,7 @@ La categoría fue ganada por Susanne Wolters-Verstegen, de Países Bajos, con 2:
 ====
 
 categoria: atletismo
-fecha: 2026-10-10
+fecha: 2026-10-11
 etiqueta: Maratón de Chicago - Atletismo
 titulo: Alessandrini y Peña, los mejores chilenos en Chicago
 bajada: Luis Felipe Alessandrini, en varones, y Carolina Peña, en damas, fueron los chilenos más destacados de la Maratón de Chicago que se corrió este domingo.
