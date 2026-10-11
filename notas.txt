@@ -54,6 +54,22 @@
 #
 # ======================================================================
 
+categoria: running
+fecha: 2026-10-10
+etiqueta: Mundial Master de Maratón - Running
+titulo: Marcela Ibarbe, sexta en Croacia
+bajada: La fondista chilena quedó sexta en su categoría en el Mundial de Maratón Master que se desarrolló en Zagreb, Croacia.
+portada: No
+foto: img/notas/master1110.jpg
+texto: 
+La fondista chilena Marcela Ibarbe finalizó en el sexto lugar de la categoría W40 en el Mundial de Maratón Master que se desarrolló este domingo en Zagreb, Croacia.
+
+La especialista nacional consiguió completar la distancia en un tiempo de 3:22:08 siendo además su mejor marca en esta prueba.
+
+La categoría fue ganada por Susanne Wolters-Verstegen, de Países Bajos, con 2:58:21; seguida por Eva María Ruiz Rodríguez, de España, con 2:59:20, y por Irene Gorban, de Francia, con 3:13:53.
+
+
+====
 
 categoria: atletismo
 fecha: 2026-10-10
