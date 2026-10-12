@@ -54,6 +54,31 @@
 #
 # ======================================================================
 
+categoria: rugby
+fecha: 2026-10-12
+etiqueta: Sudamericano Seven - Rugby
+titulo: Cóndores 7, subcampeones
+bajada: El seleccionado nacional de Seven cayó en la final del Sudamericano de la especialidad ante Argentina por 24 a 5. Las Manques, en tanto, quedaron séptimas.
+portada: Si
+foto: img/notas/condores1210.jpg
+texto: 
+El seleccionado chileno de Seven (Cóndores 7) cayó en la final ante su similar de Argentina (Pumas 7) por 24 a 5 en el Sudamericano de la especialidad que se desarrolló este fin de semana en el balneario de Villa Carlos Paz.
+
+Los Cóndores venían de realizar una potente primera jornada el sábado, donde superaron a Brasil por 33 a 7 y a Uruguay por 24 a 14.
+
+El sábado, lograron enfrentar a Colombia y superarlo por 20 a7 y cayeron ante Argentina por 21 a 7.
+
+Con los Pumas volvieron a enfrentarse, pero en la final, donde los trasandinos apelaron a sus pergaminos y los superaron esta vez por 24 a 5.
+
+El local, con este resultado, clasificó al SVNS1, serie de honor del circuito Mundial, mientras que Chile se quedó con l aplaza del SVNS3.
+
+Por su parte, en las damas, las Manques sortearon un duro desafío, donde pese a comenzar la primera jornada con una victoria sobre Ecuador por 39 a 0, cayeron ante Perú por 17 a 10 y Colombia por 14 a 10.
+
+En la jornada dominical, las nacionales debieron enfrentar a Brasil y fueron derrotadas por 32 a 5, mientras que, en la definición del séptimo puesto, vencieron a República Dominicana por 36 a 0.
+
+
+====
+
 categoria: triatlon
 fecha: 2026-10-11
 etiqueta: Continental Cup - Triatlon
