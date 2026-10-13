@@ -56,10 +56,31 @@
 
 categoria: rugby
 fecha: 2026-10-12
+etiqueta: M20 Challenger Cup - Rugby
+titulo: Chile a la final del M20 Challenger Cup
+bajada: El conjunto chileno de rugby avanzó a la final tras superar a Brasil por 80-7 en el último partido del Grupo A y definirá el título frente a Bélgica.
+portada: Si
+foto: img/notas/m201210.jpg
+texto: 
+El seleccionado chileno de rugby M20 avanzó a la final del Challenger Cup que se disputa en Santiago luego que derrotara este lunes a Brasil por 80-7 en el último partido del grupo A.
+
+El cuadro local mostró desde el inicio superioridad frente a los brasileños, tanto así que, al término del primer tiempo, las cosas iban 41-7 a su favor.
+
+En la segunda mitad, las cosas no cambiaron mucho y cerraron el compromiso con el 80-7, el primer lugar del grupo y el paso a la final del sábado.
+
+El rival será el conjunto de Bélgica, que clasificó al duelo definitorio tras superar a Namibia por 47 a 22 y, a su vez, quedarse con el grupo B del certamen.
+
+El tercer puesto del torneo lo definirán Rumania y Portugal. Los centroeuropeos superaron a Hong Kong China por 29 a 22, y los lusitanos dieron cuenta de Canadá por 28 a 26.
+
+
+====
+
+categoria: rugby
+fecha: 2026-10-12
 etiqueta: Sudamericano Seven - Rugby
 titulo: Cóndores 7, subcampeones
 bajada: El seleccionado nacional de Seven cayó en la final del Sudamericano de la especialidad ante Argentina por 24 a 5. Las Manques, en tanto, quedaron séptimas.
-portada: Si
+portada: No
 foto: img/notas/condores1210.jpg
 texto: 
 El seleccionado chileno de Seven (Cóndores 7) cayó en la final ante su similar de Argentina (Pumas 7) por 24 a 5 en el Sudamericano de la especialidad que se desarrolló este fin de semana en el balneario de Villa Carlos Paz.
