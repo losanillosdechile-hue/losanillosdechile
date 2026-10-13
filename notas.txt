@@ -54,6 +54,25 @@
 #
 # ======================================================================
 
+categoria: ciclismo
+fecha: 2026-10-12
+etiqueta: Campeonato del Mundo UCI  - Ciclismo
+titulo: Chilenas disputarán Campeonato del Mundo en Shanghai
+bajada: Desde el 14 de este mes, el equipo conformado por Aranza Villalón, Scarlet Cortés, Javiera Garrido y Maite Ibarra competirán con las principales exponentes mundiales en ciclismo de pista.
+portada: No
+foto: img/notas/ciclismopista1210.jpg
+texto: 
+La selección Nacional Femenina de Ciclismo de Pista ya se encuentra en Shanghai, China, para disputar el Campeonato del Mundo UCI TISSOT 2026.
+
+El evento se desarrollará desde el próximo 14 al 18 de octubre en el Velódromo situado en el distrito de Chongming, de dicha ciudad del gigante asiático.
+
+La Selección femenina de Pista la conforman Aranza Villalón, Scarlet Cortés, Javiera Garrido y Maite Ibarra.
+
+En el certamen disputarán las pruebas de Persecución individual y equipos, Scratch, Eliminación, Kilómetro y Madison.
+
+
+====
+
 categoria: rugby
 fecha: 2026-10-12
 etiqueta: M20 Challenger Cup - Rugby
