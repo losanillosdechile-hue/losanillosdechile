@@ -54,6 +54,27 @@
 #
 # ======================================================================
 
+categoria: ciclismo
+fecha: 2026-10-14
+etiqueta: Campeonato del Mundo UCI  - Ciclismo
+titulo: Scarlet Cortés, undécima en el Scratch
+bajada: La ciclista nacional quedó undécima en el Scratch, siendo la mejor americana en la prueba.
+portada: Si
+foto: img/notas/ciclismo1410.jpg
+texto: 
+La ciclista chilena Scarlet Cortés quedó este miércoles en el puesto undécimo en la prueba de Scratch del Campeonato del Mundo en Pista que se desarrolla en Shanghai (China).
+
+La especialista nacional sobresalió en una prueba donde quedó como la mejor del continente en el torneo, superando a la trinitense Teniel Campbell (12°) y la norteamericana Emma Jiménez (16°).
+
+El evento fue ganado por la neerlandesa Lorena Wierbes, campeona defensora del título, secundada por la irlandesa Lara Gillespie (medalla de plata) y la portuguesa María Martins (bronce).
+
+En otra de las competencias con presencia de chilenas, la cuarteta de persecución conformada por Scarlet Cortés, Javiera Garrido, Maite Ibarra y Aranza Villalón, resultó décimo séptima en la ronda clasificatoria con un tiempo de 4:34.610.
+
+La prueba fue ganada por la representación de China, seguida de Gran Bretaña y tercera fue la representación de Alemania.
+
+
+====
+
 categoria: atletismo
 fecha: 2026-10-13
 etiqueta: Torneo Aniversario Master Nancagua  - Atletismo
