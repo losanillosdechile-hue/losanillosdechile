@@ -54,6 +54,29 @@
 #
 # ======================================================================
 
+categoria: atletismo
+fecha: 2026-10-13
+etiqueta: Torneo Aniversario Master Nancagua  - Atletismo
+titulo: Atletas Master brillaron en San Fernando
+bajada: Más de 25 clubes tomaron cita del Torneo Aniversario del Club Master Nancagua que se disputó este fin de semana en San Fernando.
+portada: No
+foto: img/notas/nancagua1310.jpg
+texto: 
+Más de un centenar de atletas de 25 clubes master se reunieron este fin de semana en el Estadio Jorge Silva Valenzuela, de San Fernando, con ocasión del Torneo Aniversario que organizó el Club Master Nancagua.
+
+Los principales clubes protagonistas fueron Master Nancagua, Los Robles y Atlético Royal, siendo los que más lograron primeros puestos en las distintas pruebas de pista, saltos y lanzamientos contempladas.
+
+En el Club Master Nancagua, que sumó 18 primeros lugares, Gloria Rojas destacó en los lanzamientos de bala, disco y jabalina W35, mientras que, en pista, Francisco Carreño destacó en los 200, 400 y 4 x 400 mixtos M35.
+
+Por parte de Los Robles, con 17 primeros lugares, Paola Godoy destacó en los lanzamientos de bala, disco y jabalina W50. A su vez, en pista sobresalieron Ivonne Arévalo, en 1.500 metros y 3.000 metros W50; y Luis Honores, en 200 y 400 metros M75.
+
+En tanto, en el Atlético Royal, que logró 12 primeros puestos, Claudia Alvarado, en los 1.500 y 3.000 W30, Y Juana González, en los 1.500 y 3.000 W65, fueron las que más tuvieron actuaciones relevantes.
+
+Otros clubes que destacaron en el torneo fueron Master Talca, con 11 primeros lugares, y Master Los Andes, Limache y San Antonio, con 8 cada uno. 
+
+
+====
+
 categoria: ciclismo
 fecha: 2026-10-12
 etiqueta: Campeonato del Mundo UCI  - Ciclismo
