@@ -55,6 +55,25 @@
 # ======================================================================
 
 categoria: ciclismo
+fecha: 2026-10-15
+etiqueta: Campeonato del Mundo UCI  - Ciclismo
+titulo: Scarlet Cortés, nuevamente cerca del Top Ten
+bajada: La ciclista chilena quedó nuevamente undécima en el Campeonato Mundial de Shanghai, esta vez en la prueba de eliminación.
+portada: Si
+foto: img/notas/ciclismo1510.jpg
+texto: 
+Una nueva participación tuvo el representativo chileno en el Mundial de Ciclismo de Pista en Shanghai, con Scarlet Cortés quedando en el undécimo puesto en la prueba de eliminación.
+
+Cortés, quien este miércoles había quedado en el mismo puesto en la prueba del Scratch, siguió demostrando su gran nivel, esta vez quedando como la mejor iberoamericana, superando a la española Leyre Almena (13°) y la mexicana Yareli Acevedo (18°).
+
+En la prueba de eliminación, la ganadora fue la belga Lotte Kopecky, seguida por la japonesa Yumi Kajihara y la estadounidense Megan Jastrab.
+
+A su vez, la chilena mejoró su puesto en relación al mundial del año pasado que se realizó en Santiago, donde quedó en la posición 18°.
+
+
+====
+
+categoria: ciclismo
 fecha: 2026-10-14
 etiqueta: Campeonato del Mundo UCI  - Ciclismo
 titulo: Scarlet Cortés, undécima en el Scratch
