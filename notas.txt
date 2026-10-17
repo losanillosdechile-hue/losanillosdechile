@@ -54,6 +54,30 @@
 #
 # ======================================================================
 
+categoria: ciclismo
+fecha: 2026-10-17
+etiqueta: Campeonato del Mundo UCI  - Ciclismo
+titulo: Compitiendo al alto nivel
+bajada: Scarlet Cortés, Aranza Villalón, Javiera Garrido y Maite Ibarra tuvieron acción este sábado en el Campeonato Mundial de Shanghai, compitiendo al alto nivel.
+firma: Equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/ciclismo1710.jpg
+texto: 
+Scarlet Cortés y Aranza Villalón en el ómnium, Javiera Garrido en el kilómetro contrarreloj y Maite Ibarra en la persecución individual se codearon con lo mejor del ciclismo en la jornada sabatina del Campeonato Mundial de Ciclismo en Shanghai.
+
+En la prueba de ómnium, la dupla chilena quedó en el puesto 18, en una prueba donde se debieron medir con estrellas como las británicas Erin Boothman y Anna Morris, ganadoras del oro.
+
+El podio lo completaron Marion Borras y Clara Copponi, de Francia, quienes se quedaron con la plata, y las japonesas, Maho Kakita junto a Tsuyaka Uchino, que lograron la presea de bronce.
+
+Por su parte, Javiera Garrido quedó en el lugar 22 del kilómetro contrarreloj femenino, marcando un tiempo de 1:11.566, a más de 7 segundos de la ganadora, la alemana Pauline Grabosch.
+
+El podio lo completaron las neerlandesas Hetty van de Wouw y Sofie van Rooijen, poseedoras de las medallas de plata y bronce, respectivamente.
+
+A su vez, Maite Ibarra compitió en la prueba de persecución individual, quedando en el lugar 21. El oro fue para la británica Millie Couzens, quien superó en la final a su compatriota Josie Knight, por consiguiente, medallista de plata. Y el bronce fue para la alemana Lisa Klein.
+
+
+====
+
 categoria: atletismo
 fecha: 2026-10-16
 etiqueta: Sudamericano Sub 23 Santa Fe  - Atletismo
@@ -84,7 +108,7 @@ El torneo Sudamericano se desarrolla hasta el domingo 18 de octubre.
 
 categoria: breves
 fecha: 2026-10-16
-etiqueta: Campeonato del Mundo UCI  - Ciclismo
+etiqueta: Juegos Olímpicos de la Juventud - Breves
 titulo: Laura Fingerhuth y Gael Arias, abanderados para Dakar
 bajada: La nadadora Laura Fingerhuth y el voleibolista Gael Arias portarán el estandarte patrio en los Juegos Olímpicos de la Juventud Dakar 2026.
 firma: Equipo editorial de Los Anillos de Chile/ Team Chile
