@@ -61,7 +61,7 @@ titulo: Compitiendo al alto nivel
 bajada: Scarlet Cortés, Aranza Villalón, Javiera Garrido y Maite Ibarra tuvieron acción este sábado en el Campeonato Mundial de Shanghai, compitiendo al alto nivel.
 firma: Equipo editorial de Los Anillos de Chile
 portada: No
-foto: img/notas/ciclismo1710.jpg
+foto: img/notas/ciclismo1610.jpg
 texto: 
 Scarlet Cortés y Aranza Villalón en el ómnium, Javiera Garrido en el kilómetro contrarreloj y Maite Ibarra en la persecución individual se codearon con lo mejor del ciclismo en la jornada sabatina del Campeonato Mundial de Ciclismo en Shanghai.
 
