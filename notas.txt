@@ -54,15 +54,111 @@
 #
 # ======================================================================
 
+categoria: atletismo
+fecha: 2026-10-16
+etiqueta: Sudamericano Sub 23 Santa Fe  - Atletismo
+titulo: Tres oros en el primer día en Santa Fe
+bajada: El lanzador de martillo Miguel Castro, el mediofondista Klaus Scholz, en los 1.500 metros, y la fondista Tamara Villegas, en los 10.000 metros, entregaron las primeras medallas de oro para Chile en el Sudamericano Sub-23 de Santa Fe.
+firma: Equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/atletismo1610.jpg
+texto: 
+El lanzador de martillo Miguel Castro, el mediofondista Klaus Scholz y la fondista Tamara Villegas obtuvieron las primeras medallas de oro en la primera inaugural del Campeonato Sudamericano Sub-23 que se desarrolla en Santa Fe, Argentina.
+
+En el martillo, Castro lanzó el proyectil a una distancia de 67,38 metros, superando al argentino Tomás Olivera, que marcó 66,93 metros. A su vez, Benjamín Muñoz se colgó el bronce con un lanzamiento de 66,62 metros.
+
+En los 1.500 metros, Klaus Scholz resultó primero, tras completar las casi 4 vueltas a la pista en 3:53,85, superando al ecuatoriano Pablo Ñauta, plata con 3:54,39, y el argentino Uriel Muñoz, bronce con 3:54,99. Lucas Jara, el otro chileno en la prueba, quedó noveno con 3:57,73.
+
+Por su parte, en los 10.000 metros, Tamara Villegas se quedó con el primer lugar con un tiempo de 35:46, superando a la argentina Rocío Campanini, con 36:10, y a la brasileña Kauane Joaquim, con 36:34.
+
+En la 4x400 mixta, el equipo de Cristóbal Keim, Elisa Aguado, Manuel Guzmán y Antonia Ramírez quedó cuarto con 3:30,83; en los 100 metros, Benjamín Aravena resultó quinto en la final, con un tiempo de 10,62 segundos.
+
+En los saltos, Martín Santana quedó cuarto en el salto con garrocha, con una altura de 4,50 metros, mientras que Sofía Contreras (12,68) y Magdalena Hudson (11,94) quedaron cuarta y quinta, respectivamente, en el salto triple.
+
+A su vez, Ramón Fuenzalida se quedó con el primer lugar de la segunda semifinal de los 400 metros vallas, asegurando su clasificación a la gran final.
+
+El torneo Sudamericano se desarrolla hasta el domingo 18 de octubre.
+
+
+====
+
+categoria: breves
+fecha: 2026-10-16
+etiqueta: Campeonato del Mundo UCI  - Ciclismo
+titulo: Laura Fingerhuth y Gael Arias, abanderados para Dakar
+bajada: La nadadora Laura Fingerhuth y el voleibolista Gael Arias portarán el estandarte patrio en los Juegos Olímpicos de la Juventud Dakar 2026.
+firma: Equipo editorial de Los Anillos de Chile/ Team Chile
+portada: No
+foto: img/notas/abanderados1610.jpg
+texto: 
+La nadadora Laura Fingerhuth (17 años) y el voleibolista Gael Arias (16 años) portarán el estandarte patrio en los Juegos Olímpicos de la Juventud Dakar 2026 (31 de octubre – 13 de noviembre), primer megaevento de esta magnitud que se desarrollará en África.
+
+La dupla comandará a Chile en la ceremonia de inauguración (31 de octubre) que se llevará a cabo en el estadio Abdoulaye Wade de Diamniadio, a las afueras de la capital senegalesa.
+
+“Como Comité estamos muy contentos de que esta delegación de 18 deportistas pueda vivir la experiencia de unos Juegos Olímpicos Juveniles. Tendremos una buena representación, considerando que los cupos son asignados directamente por el Comité Olímpico Internacional. Será una experiencia única e irrepetible para nuestros seleccionados”, valoró Miguel Ángel Mujica, presidente del Comité Olímpico de Chile.
+
+Laura es una pechista (especialista en la prueba de pecho) con recorrido, ya que ha participado en cuatro megaeventos: Juegos Bolivarianos de la Juventud Sucre 2024 (medallista), Juegos Bolivarianos Ayacucho – Lima 2025 (medallista), Juegos Sudamericanos de la Juventud Panamá 2026 y Juegos Suramericanos Santa Fe 2026.
+
+“Estoy muy orgullosa de estar aquí. No me lo creía, pensé que era una broma y tuve que preguntar de nuevo. Estoy feliz de poder representar a un país y a todos los deportistas”, expresó Laura.
+
+Por su parte, Gael es un promisorio voleibolista que este año ya fue subcampeón sudamericano —junto a su binomio Francisco Farías — y participante en el Mundial Sub 18 de La Haya, Países Bajos.
+
+“Al principio no lo creía, porque no sabía bien qué era ser abanderado. Cuando me lo confirmaron me quedé emocionado, feliz. Hay harto nervio y ansiedad, pero llevar la bandera significa representar a todos los deportistas de Chile”, agregó Gael.
+
+La delegación chilena estará conformada por los siguientes deportistas:
+
+Atletismo:
+Roxana Ramírez (100m planos)
+Valentina Cancino (800m)
+Vittorio Gorziglia (L. del Disco)
+
+Básquetbol 3x3
+Daimy Balve 
+Isidora Cornejo
+Constanza Mella
+Victoria Sarce 
+
+Ciclismo
+Ana Fierro (Ruta)
+
+Ecuestre
+Bruna de Rossetti
+
+Esgrima
+Sofía Bossay (Sable)
+
+Natación
+Laura Fingerhuth (50 y 100m pecho)
+Joaquín Gálvez (50 y 100m pecho)
+
+Skateboarding
+Julieta Araya (Street)
+
+Tenis de Mesa
+Catalina Ramírez
+
+Triatlón
+Raimundo San Martín
+
+Vóleibol Playa
+Gael Arias 
+Francisco Farías
+
+Wushu
+Renato Silva
+
+
+====
+
 categoria: ciclismo
 fecha: 2026-10-15
 etiqueta: Campeonato del Mundo UCI  - Ciclismo
 titulo: Scarlet Cortés, nuevamente cerca del Top Ten
-bajada: La ciclista chilena quedó nuevamente undécima en el Campeonato Mundial de Shanghai, esta vez en la prueba de eliminación.
+bajada: La ciclista chilena quedó nuevamente undécima en el Campeonato del Mundol de Shanghai, esta vez en la prueba de eliminación.
 portada: Si
 foto: img/notas/ciclismo1510.jpg
 texto: 
-Una nueva participación tuvo el representativo chileno en el Mundial de Ciclismo de Pista en Shanghai, con Scarlet Cortés quedando en el undécimo puesto en la prueba de eliminación.
+Una nueva participación tuvo el representativo chileno en el Campeonato del Mundo de Ciclismo de Pista en Shanghai, con Scarlet Cortés quedando en el undécimo puesto en la prueba de eliminación.
 
 Cortés, quien este miércoles había quedado en el mismo puesto en la prueba del Scratch, siguió demostrando su gran nivel, esta vez quedando como la mejor iberoamericana, superando a la española Leyre Almena (13°) y la mexicana Yareli Acevedo (18°).
 
