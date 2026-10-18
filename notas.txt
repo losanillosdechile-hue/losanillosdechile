@@ -54,6 +54,71 @@
 #
 # ======================================================================
 
+categoria: rugby
+fecha: 2026-10-17
+etiqueta: M20 Challenger Cup - Rugby
+titulo: Tres podios chilenos en la jornada sabatina
+bajada: Los Cóndores U20 se quedaron con el título del Mundial U20 Challenger que se desarrolló en el CARR de La Reina tras vencer a Bélgica en la final por 30 a 17.
+firma: Equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/condores1710.jpg
+texto: 
+La selección chilena de Rugby Sub20 se coronó campeona del World Rugby U20 Challenger, luego de vencer en la final al representativo de Bélgica por 30 a 17 en el partido disputado en el CARR de La Reina.
+
+Los Cóndores marcaron la diferencia en el primer tiempo, donde se fueron con una ventaja de 27 a 10 frente a un rival que no regaló nada.
+
+Sin embargo, en la segunda mitad, la estrategia fue más apuntada a mantener el resultado y evitar que los europeos se volcaran en pos del triunfo, lo cual no sucedió y sólo se redujo la diferencia, aunque se mantuvo todo en favor de Chile.
+
+El conjunto nacional llegó a la instancia tras ganar su grupo en el que se enfrentó a Hong Kong China (83-19), Rumania (50-9) y Brasil (80-7).
+
+El bronce fue para Portugal, que venció en el encuentro definitorio al quince de  Rumania por 67 a 13.
+
+
+====
+
+categoria: atletismo
+fecha: 2026-10-17
+etiqueta: Sudamericano Sub 23 Santa Fe  - Atletismo
+titulo: Tres podios chilenos en la jornada sabatina
+bajada: Alan Fell, el lanzamiento del disco; Ramón Fuenzalida, en los 400 metros vallas, y Antonia Paut, en el salto alto, se subieron al podio este sábado en el Sudamericano de Atletismo Sub 23 de Santa Fe.
+firma: Equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/atletismo1710.jpg
+texto: 
+Tres nuevos podios, dos platas y un bronce, sumó la representación chilena esta jornada sabatina en el Sudamericano de Atletismo Sub 23 que se desarrolla en Santa Fe (Argentina).
+
+categoria: atletismo
+fecha: 2026-10-17
+etiqueta: Sudamericano Sub 23 Santa Fe  - Atletismo
+titulo: Tres podios chilenos en la jornada sabatina
+bajada: Alan Fell, el lanzamiento del disco; Ramón Fuenzalida, en los 400 metros vallas, y Antonia Paut, en el salto alto, se subieron al podio este sábado en el Sudamericano de Atletismo Sub 23 de Santa Fe.
+firma: Equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/atletismo1710.jpg
+texto: 
+Tres nuevos podios, dos platas y un bronce, sumó la representación chilena esta jornada sabatina en el Sudamericano de Atletismo Sub 23 que se desarrolla en Santa Fe (Argentina).
+
+Alan Fell se quedó con la medalla de plata en el lanzamiento del disco, tras conseguir un registro de 53,27 metros. El oro fue para el brasileño Alberto Rodrigues, con 55,84 metros y el bronce para el colombiano Juan Montaño, con 52,21 metros.
+
+En la misma prueba, Kevin Huang resultó séptimo. Con 46,93 metros.
+
+Por su parte, Ramón Fuenzalida se quedó con la plata en los 400 metros vallas, con un tiempo de 50,47. El oro fue para el colombiano Samuel Mosquera, con 49,97 y el bronce para el venezolano óscar Rodríguez, con 50,92.
+
+Antonia Paut sumó medalla de bronce en el salto alto, tras conseguir saltar la barra en 1,70 metros. El oro fue para la brasileña María de Oliveira y la plata para la argentina Lola Verdini.
+
+En otros resultados de la jornada, Julio Espinoza quedó cuarto en los 3.000 metros con obstáculos, tras conseguir un tiempo de 9:13,44.
+
+La cuarteta de José Manuel Núñez, Benjamín Aravena, Tomás León y Max Moraga se quedaron en el cuarto lugar de la posta 4x100 masculina, luego de completar la prueba en 41,34 segundos.
+
+A su vez, el equipo de Tomás León, Antonia Ramírez, Benjamín Aravena y Catalina Rozas quedó quinto en la 4x100 mixtos, con un tiempo de 44,00 segundos. 
+
+Josefa Arellano y Valentina Mozó se quedaron con el sexto y séptimo lugar, respectivamente, en el salto con garrocha, luego de pasar la barra en 3,20 metros.
+
+Además, Klaus Scholz avanzó a la final de los 800 metros, tras ganar su serie con un tiempo de 1.49.82. Lucas Jara también avanzó a la final con un tiempo de 1.52.33.
+
+
+====
+
 categoria: ciclismo
 fecha: 2026-10-17
 etiqueta: Campeonato del Mundo UCI  - Ciclismo
