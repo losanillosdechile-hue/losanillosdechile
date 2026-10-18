@@ -57,7 +57,7 @@
 categoria: rugby
 fecha: 2026-10-17
 etiqueta: M20 Challenger Cup - Rugby
-titulo: Tres podios chilenos en la jornada sabatina
+titulo: Chile campeón del World Rugby U20 Challenger
 bajada: Los Cóndores U20 se quedaron con el título del Mundial U20 Challenger que se desarrolló en el CARR de La Reina tras vencer a Bélgica en la final por 30 a 17.
 firma: Equipo editorial de Los Anillos de Chile
 portada: Si
