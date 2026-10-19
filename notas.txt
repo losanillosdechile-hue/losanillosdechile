@@ -54,6 +54,96 @@
 #
 # ======================================================================
 
+categoria: atletismo
+fecha: 2026-10-18
+etiqueta: Sudamericano Sub 23 Santa Fe  - Atletismo
+titulo: Klaus Scholz, bicampeón sudamericano
+bajada: El mediofondista nacional finalizó primero en los 800 metros, repitiendo el oro del viernes en los 1.500 metros en el Sudamericano Sub 23 de Santa Fe.
+firma: Equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/atletismo1810.jpg
+texto: 
+Klaus Scholz se coronó como bicampeón sudamericano, luego de conseguir este domingo el primer lugar en los 800 metros en el torneo Sub 23 disputado en Santa Fe, con un registro de 1:48,50. 
+
+La plata fue para el argentino Tomás Salvat (1:49,30) y el bronce para el peruano Giancarlo Bravo (1:49,66). En la misma prueba, Lucas Jara quedó sexto, tras completar las dos vueltas a la pista en 1:51,48.
+
+La última jornada del Sudamericano también entregó nuevas medallas para el representativo chileno.
+
+Cristóbal Sahurie logró la presea de plata en el salto alto, luego de superar la barra en los 2,00 metros. El oro fue para el brasileño Wandesson Gómez y el bronce para el también brasileño Daniel Da Costa.
+
+En el salto largo femenino, Sofía Contreras finalizó segunda, con medalla de plata, tras alcanzar una distancia de 5,96 metros. El oro fue para María Cándida Eduardo, de Brasil (6,01 metros) y el bronce para Vanessa Sena Dos Santos, también brasileña (5,89). 
+
+En la misma prueba participó Magdalena Hudson, quien finalizó en el quinto puesto con un impulso de 5,65 metros. 
+
+En los 100 metros vallas, Catalina Rosas fue medalla de plata, tras cruzar la meta con un tiempo de 14,15. El oro fue para Helen Bernard, de Argentina, con 13,49; y el bronce para la brasileña Pietra Campbell, con 14,02. Leonor Ferreiro, la otra chilena en la prueba, fue cuarta con 14.15.
+
+En el lanzamiento de la bala, Kevin Huang y Ricardo Lobos rozaron el podio, tras quedar cuarto (15,30 metros) y quinto (14,82 metros), respectivamente.
+
+Tamara Villegas estuvo cerca de alcanzar el podio en los 5.000 metros femenino, tras quedar cuarta con un registro de 17:35,73.
+
+Emilio Reyes quedó sexto en los 110 metros vallas, con un tiempo de 14,10; en tanto que Benjamín Aravena finalizó séptimo en los 200 metros planos, con 21,59; Gastón González fue noveno en los 5.000 metros, con 14:59,80.
+
+En la posta 4x400 masculina, el equipo de Cristóbal Keim, Ramón Fuenzalida, Manuel Guzmán y Max Moraga quedó quinto con un tiempo de 3:13,77.  
+
+
+====
+
+categoria: running
+fecha: 2026-10-18
+etiqueta: Maratón de Toronto - Running
+titulo: María José Calfilaf, cerca del récord nacional
+bajada: La fondista chilena María José Calfilaf quedó a un poco más de un minuto y medio del récord nacional, luego de registrar 2:33:58 en la Maratón de Toronto.
+firma: Equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/calfilaf1810.jpg
+texto: 
+La fondista chilena María José Calfilaf quedó a un poco más de un minuto y medio del récord nacional, luego de completar este domingo la Maratón de Toronto con un tiempo de 2:33:58.
+
+La marca nacional, que aún se mantiene en vigencia, pertenece a Érika Olivera, quien registró 2:32:23 para los 42,195 kilómetros en 1999.
+
+En la competencia disputada en Canadá, el mejor representante fue Raimundo Zegers, quien terminó la carrera con un tiempo de 2:30:09.
+
+La prueba fue ganada por el keniata Leonard Langat, con un tiempo de 2:06:51, mientras que, en damas, Leah Jeruto, también de Kenia, fue la ganadora con 2:21:19.
+
+Por su parte, en Amsterdam (Países Bajos), también hubo presencia chilena en la maratón de dicha capital europea. 
+
+Gerardo Valle	, con un tiempo de 02:35:50, fue el mejor nacional en la prueba, mientras que, en las damas, Francisca Bugueño fue la mejor con 03:13:49.
+
+La carrera se la adjudicó el etíope Lemi Berhanu, con un tiempo de 2h03:33, en varones, y Buze Diriba, en 2h16:11, con récord de la prueba femenina.
+
+
+====
+
+categoria: breves
+fecha: 2026-10-18
+etiqueta: World Skate Games - Breves
+titulo: Chile se lució en Asunción
+bajada: Con una medalla de plata y cuatro bronces finalizó la participación chilena en ellos World Skate Games de Asunción.
+firma: Equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/patinaje1810.jpg
+texto: 
+Cinco preseas, desglosadas en una de plata y cuatro de bronce, fue el resultado de la participación chilena en los World Skate Games de Asunción, evento que concluyó este domingo.
+
+La presea de plata corrió por cuenta de Camila Carreño, quien se coronó como subcampeona del mundo en los 5.000 metros con puntos en el patinaje de velocidad. La chilena totalizó 10 puntos, uno menos que la ganadora, la colombiana Gabriela Rueda.
+
+En cuanto a las preseas de bronce, la primera llegó de la mano de Danae Gómez, en el Inline Downhill, quien en la prueba de contrarreloj quedó tercera detrás de la colombiana Alef Torres (oro) y la mexicana Esmeralda Flores (plata).
+
+La especialista nacional sumó otro bronce en la misma modalidad, pero en la prueba de carrera en masa, donde finalizó tercera detrás de la colombiana Torres (oro) y la italiana Sabrina Vitarelli.
+
+Por su parte, Catalina Lorca quedó tercera en el patinaje de velocidad en la prueba de 1.000 metros, prueba en que la ganadora fue la colombiana Kollin Castro mientras que la estadounidense Corinne Stoddard se quedó con el segundo puesto.
+
+A su vez, Lucas Beroiza, se quedó con el bronce en los 15.000 metros eliminación, escoltando al colombiano Juan Manuel Chaux y al ecuatoriano Joaquín Loyola.
+
+En el hockey Patín, las Marcianitas se quedaron con el quinto puesto tras superar a Francia, mientras que, en varones, los nacionales quedaron sextos tras caer en un infartante duelo ante Angola, que debió llegar a la tanda de penales.
+
+En el Inline Hockey, Chile quedó en lugares secundarios, tanto en damas como en varones, tras enfrentar a rivales de jerarquía como fue Estados Unidos en las mujeres, y Rusia y Alemania, en los hombres. 
+
+En otros resultados destacados, Leonor Troy quedó cuarta en la prueba de Street del Roller Freestyle;  Ignacia Muñoz quedó en la fase de cuartos de final del skateboarding, modalidad Park; en tanto que Benjamín Cornejo fue cuarto en el Slide Fresstyle Junior y Antonia Guerrero quedó quinta en el Junior Femenino.
+
+
+====
+
 categoria: rugby
 fecha: 2026-10-17
 etiqueta: M20 Challenger Cup - Rugby
