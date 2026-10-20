@@ -54,6 +54,44 @@
 #
 # ======================================================================
 
+categoria: running
+fecha: 2026-10-19
+etiqueta: Carreras de fin de semana - Running
+titulo: El running copó el fin de semana
+bajada: La Rock’N Roll Running y STGO 10K fueron las carreras que este fin de semana coparon la agenda para varios corredores que se atrevieron a desafiar los kilómetros.
+firma: Equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/running1910.jpg
+texto: 
+El running tuvo amplia acción este fin de semana y dos carreras fueron las que concitaron amplio interés en las calles de Santiago: la Santander Rock’N Roll Running, en Lo Barnechea, y la STGO 10K, en Ñuñoa.
+
+El sábado, los runners y amantes del rock no tuvieron excusas para sacar sus mejores ritmos en los 21k, 10k y 5k. De hecho, más de 5.000 corredores se dieron cita del evento en el sector oriente.
+
+En la principal distancia, Raúl Moya fue el ganador, tas completar la Media Maratón en un tiempo de 1:11:21; secundado por Jorge Llancaqueo, con 1:11:42; y por Juan Fontecilla, con 1:13:27.
+
+En las damas, la ganadora fue Montserrat Allué, quien completó la carrera en 1:23:05; segunda fue Natalia Arce, con un registro de 1:28:54, y tercera llegó Haydee Calcurian, con 1:31:31.
+
+En los 10K, Rodrigo Machado fue el vencedor en los varones, tras completar la distancia en un tiempo de 33:44; en segundo lugar llegó Nicolás Paredes, con 35:56, y tercero fue Danny Silva, con 36:10.
+
+En la prueba femenina, la primera fue Miriam Inglés, quien cruzó la meta con 43:44. A ella la secundaron Montserrat Espinoza, con un tiempo de 45:16, y Valérie Malá, con 45:32.
+
+La velocidad también sobresalió en los 5k, donde Gonzalo Julio fue el ganador en los varones, con un tiempo de 15:43. En segundo lugar llegó Guillermo Quezada, con 16:11, y tercero fue Wenchao Yu, con 16:12.
+
+Por su parte, en las damas, la vencedora fue Valeria Argandoña, quien completó la distancia en 18:11. Segunda fue Charlotte Young, con 19:19, mientras que tercera resultó Sophia Arias, con 19:36.
+
+El domingo, fue el turno de la STGO 10K, una prueba que ya está marcando la pauta para todos los que quieren correr a tope en una de las distancias clásicas del running y que esta vez congregó a casi 2.000 valientes.
+
+Las calles de Ñuñoa fueron testigos de los amantes del trote fuerte y en esta oportunidad, Juan Quijada fue el mejor en los 10 kilómetros, llegando a la meta con un tiempo de 29:39, estableciendo el récord del circuito. Segundo fue Omar Ceballos, con 30:51, y tercero José San Juan, con 30:55.
+
+En las damas, la ganadora fue Manuela Bugueño, quien cruzó la meta con un registro de 36:54; segunda fue Pamela Padilla, con 37:23, mientras que el tercer lugar quedó en manos de Paula Langlois, con 37:37.
+
+También se llevó a cabo la carrera de 5K, donde el mejor fue Francisco Lepez, con 17:08. En segundo lugar llegó Francisco Troncoso, con 17:16, y tercero, Vicente Lavaud, con 17:24.
+
+Las mujeres no dudaron en desafiarse en esta distancia de 5 kilómetros y quien cruzó la meta en primer lugar fue Ashly Marin Torres, con 20:18. Francelli Zarat llegó segunda con 22:30, mientras que tercera fue Camila Morales, con 23:04.
+
+
+====
+
 categoria: atletismo
 fecha: 2026-10-18
 etiqueta: Sudamericano Sub 23 Santa Fe  - Atletismo
