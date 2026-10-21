@@ -54,6 +54,30 @@
 #
 # ======================================================================
 
+categoria: atletismo
+fecha: 2026-10-20
+etiqueta: Torneo Pista y Campo Sporting - Atletismo
+titulo: Los Master fueron pura sangre en el Sporting
+bajada: Más de un centenar de atletas master destacó en el Torneo de Pista y Campo del Club Sporting, que se realizó en Viña del Mar.
+firma: Equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/master2010.jpg
+texto: 
+Más de un centenar de atletas estuvieron presentes este fin de semana en el Torneo de Pista y Campo Master Sporting, que se llevó a cabo en el recinto del Sporting Club de Viña del Mar.
+
+En la oportunidad, especialistas de mediofondo, fondo y lanzamientos de 23 clubes, principalmente de la zona centro, aprovecharon la distancia para demostrar sus capacidades.
+
+Los equipos que más sobresalieron fueron los de la Región de Valparaíso, especialmente Master Sporting, Los Robles, Limache y San Antonio, además del Atlético Bulnes, de Chillán.
+
+Por el Sporting, los más destacados fueron Luis Alberto Suárez, quien sobresalió en las pruebas de 800, 5.000 y 3.000 metros; Luis Paredes, que marcó presencia en los lanzamientos de bala, disco y martillo. Mientras que en damas destacó Loreto Gaete, en los 800 y 5.000 metros, y Ana María Icaza y Zulema Alamos, en los lanzamientos.
+
+En cuanto a Los Robles, en varones sobresalió Oscar Anguita, quien tomó participación en los 800 y 5.000 metros, en pista, y en el lanzamiento de la Jabalina. En cuanto a las mujeres, Claudia Henríquez y Gloria Aparicio en pista, y Claudia Pimentel en los lanzamientos fueron las que más protagonismo tuvieron.
+
+En Bulnes, Lucio Vicencio y Ricardo Ojeda, en los lanzamientos fueron los más consagrados; en Limache, destacó el fondista Jorge Vega, mientras que Mauricio Velasco brilló en San Antonio.
+
+
+====
+
 categoria: running
 fecha: 2026-10-19
 etiqueta: Carreras de fin de semana - Running
