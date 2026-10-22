@@ -54,6 +54,42 @@
 #
 # ======================================================================
 
+categoria: breves
+fecha: 2026-10-22
+etiqueta: Candidatura Juegos Odesur - Breves
+titulo: Odesur 2030: Biobío avanza en su candidatura
+bajada: Un nuevo paso para la candidatura del Biobío a los Juegos Suramericanos 2030 se concretó con la visita del Comité Olímpico de Chile (COCh) a la región, que contempla la evaluación de infraestructura deportiva y de las condiciones necesarias para albergar un evento de esta magnitud.
+firma: Equipo editorial de Los Anillos de Chile/ Gobierno Regional Biobío
+portada: Si
+foto: img/notas/odesur2210.jpg
+texto: 
+Un nuevo paso en el camino para que el Biobío sea sede de los Juegos Suramericanos 2030 se concretó con la visita del Comité Olímpico de Chile (COCh) a la región, que contempla la evaluación de infraestructura deportiva y de las condiciones necesarias para albergar un evento de esta magnitud.
+
+En el marco de esta visita, el gobernador regional Sergio Giacaman, el ministro del Deporte, Francisco Riveros, y el presidente del COCh, Miguel Ángel Mujica, encabezaron un encuentro en el Salón Mural del Gobierno Regional, que reunió a autoridades, consejeros regionales, deportistas, rectores y representantes de gremios en torno a un objetivo común: avanzar en una candidatura que convoque a distintos sectores de la región.
+
+“Biobío es un equipo completo para levantar esta propuesta”, sostuvo el gobernador Sergio Giacaman y destacó que la presencia de actores del mundo público y privado es una variable que “podría ayudar a abordar aquellas deficiencias que tengamos desde el punto de vista de los recursos, por ejemplo”.
+
+La instancia permitió reafirmar el carácter regional de esta iniciativa, que busca aprovechar las capacidades del Biobío, su experiencia en la organización de eventos internacionales y su infraestructura deportiva, además de proyectar las oportunidades que una cita de estas características podría representar para el deporte, el turismo, la economía y las futuras generaciones.
+
+“Durante mucho tiempo, la región se ha estado preparando con infraestructura y creemos que los Juegos Suramericanos sería la consolidación de ese trabajo de décadas”, señaló el gobernador Sergio Giacaman en relación a los grandes eventos deportivos que el Biobío ya ha recibido, como la Copa América, el WRC, y las competencias de remo y canotaje de los Panamericanos 2023, entre otros.
+
+Por su parte, el ministro del Deporte, Francisco Riveros, calificó como un “hito en la descentralización del deporte” la candidatura del Biobío y expresó que “estamos viviendo este sueño en grande, de que una región pueda llevar a cabo un evento deportivo tan importante como los Juegos Suramericanos”.
+
+La visita del Comité Olímpico de Chile constituye una etapa relevante de este proceso, ya que permitirá conocer las condiciones de los recintos deportivos y los requerimientos asociados a una eventual organización de ODESUR.
+
+El presidente del COCh, Miguel Ángel Mujica, explicó que el “Gobierno Regional envió un documento con infraestructura que tiene la región en distintas comunas y en estos dos días vamos a tratar de recorrer la mayor cantidad de lugares”.
+
+En ese sentido, añadió que el objetivo de la visita es evaluar de “que realmente existan las condiciones, tanto deportivas como para el público, porque es un gran espectáculo. La gente quiere disfrutar, es un momento muy importante para la región”.
+
+La actividad también contó con la participación de Alfredo, Ignacio y Antonia Abraham, múltiples medallistas panamericanos y embajadores del Biobío en la postulación. “Es súper positivo para nosotros y para la región, porque esa infraestructura queda como legado”, manifestó Antonia.
+
+Al respecto, la remadora sampedrina que ya se prepara para clasificar a los JJ.OO de Los Ángeles 2028 agregó que “la idea es que los deportistas puedan entrenar y profesionalizarse en su región y no tener que irse a Santiago o, en nuestro caso, a Curauma o a Valdivia, porque al final el Biobío pierde a sus atletas”.
+
+La delegación del Comité Olímpico de Chile desarrollará durante este jueves 22 y viernes 23 de octubre un recorrido por distintos recintos deportivos de Concepción, Talcahuano, Chiguayante, San Pedro de la Paz y Los Ángeles, con el propósito de evaluar las capacidades existentes y los requerimientos para recibir las distintas disciplinas de los Suramericanos.
+
+
+====
+
 categoria: running
 fecha: 2026-10-21
 etiqueta: Maratón de Temuco - Running
