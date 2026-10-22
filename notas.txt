@@ -54,6 +54,34 @@
 #
 # ======================================================================
 
+categoria: running
+fecha: 2026-10-21
+etiqueta: Maratón de Temuco - Running
+titulo: Ya se vienen las inscripciones para Maratón de Temuco
+bajada: El 30 de octubre se abrirán las inscripciones para la edición del 2027, que esta vez comprenderá las distancias de 10k, 21k y 42k. Además, ya quedaron estipulados los premios para quienes lleguen al podio.
+firma: Equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/temuco2110.jpg
+texto: 
+El 30 de octubre se abren las inscripciones para la Maratón de Temuco 2027, que se desarrollará el próximo 21 de marzo en la capital de la Región de la Araucanía y que ya toma parte del extenso calendario de carreras a nivel nacional.
+
+Tal como en las ediciones anteriores, se realizarán las carreras en las distancias de 10k, 21k y 42 kilómetros, donde los runners y atletas aprovecharán de recorrer la ciudad.
+
+Los precios van desde los $32.000 para los 10k, $36.000 para los 21k y $40.000 para los 42k y se podrán adquirir a través de Passline. Los precios, como ha sido la tónica en las distintas carreras, tendrán un pequeño cargo adicional.
+
+A su vez, la organización ya consideró los precios para los podios de las tres distancias, lo cual genera un incentivo para quienes buscan dar lo mejor en esta ruta.
+
+Para los 10K, el primer lugar recibirá un premio de $600.000; el segundo lugar recibirá $300.000 y el tercero, $200.000. Este premio es tanto para damas como varones.
+
+En la Media Maratón, el ganador tanto en damas como en varones, tendrá un incentivo de $1.250.000; el segundo, $750.000 y el tercero $450.000.
+
+En la distancia madre, quien cruce la meta en primer lugar, ya sea en las categorías masculinas y femeninas, recibirá un premio de $2.750.000; el segundo lugar ganará $1.350.000 y el tercero, $700.000.
+
+También habrá premios para quien logre el récord del circuito, el que legará a $1.500.000; además que se incentivará al mejor deportista en damas y en varones, quienes recibirán $150.000 cada uno. 
+
+
+====
+
 categoria: atletismo
 fecha: 2026-10-20
 etiqueta: Torneo Pista y Campo Sporting - Atletismo
