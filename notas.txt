@@ -54,6 +54,30 @@
 #
 # ======================================================================
 
+categoria: hockey
+fecha: 2026-10-23
+etiqueta: Candidatura Mundial 2030 - Hockey
+titulo: Chile presentó candidatura Mundial
+bajada: Federación Chilena de Hockey Césped presentó en Doha (Qatar) la candidatura del país para albergar el Mundial de Hockey Césped 2030 Masculino y Femenino.
+firma: Equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/hockey2310.jpg
+texto: 
+La Federación Chilena de Hockey Césped presentó este viernes en Doha (Qatar) la candidatura del país para albergar el Mundial de Hockey Césped 2030, tanto masculino como femenino.
+
+La propuesta nacional -expuesta en el Congreso de la Federación Internacional de Hockey (FIH)- incluye tres sedes: Santiago (Centro Claudia Schuler), San Pedro de la Paz y Antofagasta.
+
+Bajo el lema de “El hockey llega más lejos”, la postulación contó con un spot grabado en las tres ciudades propuestas como sedes.
+
+De acuerdo a lo consignado por diversos medios este viernes, el presidente de Chile Hockey, Andrés de Witt, explicó que la candidatura no solo apunta a organizar un campeonato internacional, sino también a impulsar el crecimiento de la disciplina y mejorar el acceso a su infraestructura.
+
+“Cuando decimos ‘A Bigger World for Hockey’, estamos asumiendo el compromiso de democratizar la infraestructura en nuestro país para que ningún niño quede fuera, demostrarle al mundo que un país emergente puede organizar un evento impecable y sustentable —ampliando el deporte a nuevos rincones del orbe— y ofrecer el Mundial más respetuoso con el medioambiente en la historia del deporte”, señaló.
+
+La propuesta no solo destaca por su ambición deportiva, sino también por su fuerte compromiso con la sostenibilidad. De acuerdo a lo expuesto por el sitio Cabrero en Línea, se planea implementar medidas como el uso de agua desalinizada en el norte, recolección de aguas lluvias en el sur, plantas fotovoltaicas y electromovilidad.
+
+
+====
+
 categoria: breves
 fecha: 2026-10-22
 etiqueta: Candidatura Juegos Odesur - Breves
