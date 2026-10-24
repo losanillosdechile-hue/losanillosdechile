@@ -54,6 +54,34 @@
 #
 # ======================================================================
 
+categoria: rugby
+fecha: 2026-10-24
+etiqueta: Test Match Manque - Rugby
+titulo: Las Manque lucharon, pero ganaron las Tucanes
+bajada: Las Manque, pese a darlo todo en la cancha y terminar en ventaja en el primer tiempo, sufrieron una derrota por 28 a 19 ante las Tucanes en el CARR.
+firma: Equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/manque2410.jpg
+texto: 
+La selección chilena de Rugby Femenina (Las Manque) cayó ante su similar de Colombia (Las Tucanes) por 28 a 19 en un test match disputado este sábado en el Centro de Alto Rendimiento del Rugby (CARR) en Santiago.
+
+El conjunto nacional, que venía de un triunfo sobre México la semana pasada, por 39 a 10, comenzó muy bien ante las cafeteras, jugando de igual ante un conjunto que ya ha tenido experiencia en torneos internacionales.
+
+Este buen inicio se tradujo en un try de Karcia Wiss, a los 9 minutos, con conversión de Carolina Alfaro, y a los 21 minutos, con otro try, esta vez por parte de Catalina Miranda.
+
+Luego de ello, Colombia apretó el acelerador y a los 26 minutos, descontó con un try de Heidy Acalo, con conversión de Valentina Tapias; y seis minutos después, las Tucanes dieron vuelta el marcador, con un try de Karen Serna, y otra conversión de Tapias.
+
+Pero las Manque no quisieron irse en desventaja en la primera parte y a los 35 minutos, con un esforzado try de Paz Cortés y una conversión de Alfaro, dejaron las acciones en favor de las locales por 19 a 14, resultado con el que cerraron la primera mitad.
+
+Ya en la segunda parte, el conjunto visitante mostró más oficio y a los 4 minutos, Zuleima Orobio con el try y Tapias en la conversión, volvieron a poner las cifras a su favor.
+
+A los 12 minutos de esta segunda etapa, Daniela Alzate logró superar la línea chilena y con un ensayo amplió las cifras para las Tucanes. La conversión de Valentina Tapias, la cuarta de la back cafetera, dejó las cosas 28 a 19.
+
+Este marcador, pese a un juego ya más luchado por ambos conjuntos, no sufrió más cambios y el duelo terminó con el triunfo de Colombia frente a un equipo que está buscando trabajar su juego de cara a las clasificatorias para el Mundial de Australia 2029. 
+
+
+====
+
 categoria: hockey
 fecha: 2026-10-23
 etiqueta: Candidatura Mundial 2030 - Hockey
