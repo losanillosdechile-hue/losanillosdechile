@@ -54,6 +54,26 @@
 #
 # ======================================================================
 
+categoria: breves
+fecha: 2026-10-25
+etiqueta: Mundial Maratón Canotaje - Breves
+titulo: “Cote” Mailliard, campeona mundial en Maratón de Canotaje
+bajada: La especialista nacional ganó en la categoría C1 en el Mundial de Maratón que se desarrolló en Gualeguaychú, Argentina.
+firma: Equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/Mailliard251026.jpg
+texto: 
+La canoísta chilena María José Mailliard ganó en la categoría C1 el primer Mundial de Maratón que se realiza en Sudamérica, en la localidad argentina de Gualeguaychú.
+
+La nacional se quedó con la prueba con un tiempo de 1:17:56 para la distancia de 15,4 kilómetros.
+
+La plata fue para la húngara Lili Matkovics, con 1:20:10, y el bronce fue para la ucraniana Liudmyla Babak, con 1:20:18.
+
+Mailliard impuso un ritmo fuerte y marcó diferencias especialmente en la tercera vuelta del circuito, tanto así que marcó una diferencia de más de 2 minutos sobre sus rivales.
+
+
+====
+
 categoria: running
 fecha: 2026-10-25
 etiqueta: Media Maratón de Valencia - Running
