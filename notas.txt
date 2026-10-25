@@ -54,6 +54,26 @@
 #
 # ======================================================================
 
+categoria: breves
+fecha: 2026-10-25
+etiqueta: Sudamericano de Tiro - Breves
+titulo: Chilenos destacaron en el Skeet
+bajada: Cuatro preseas de oro sumaron los representantes chilenos de tiro Skeet en el Sudamericano de Buenos Aires.
+firma: Equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/tiro2510.jpg
+texto: 
+Una destacada participación tuvo el equipo chileno de Tiro al Vuelo en el Sudamericano de la especialidad desarrollado en Buenos Aires, siendo la modalidad Skeet la que más medallas sumó.
+
+En el Skeet, hubo 4 preseas de oro, las que llegaron de parte de Josefa Rodríguez, en damas; Joaquín Irigoin, en varones; el equipo masculino, conformado por Joaquín Irigoin, Luis Moyano y Nicolás Massoud; y Bastián Moyano que sumó en juvenil varones.
+
+A su vez, Nicolás Massoud, en varones, y Joaquín Contreras, en juvenil masculino, sumaron preseas de plata, mientras que Tomás Rodríguez se quedó con el bronce en varones.
+
+Por su parte, en el Tiro al Blanco, José Aguilera fue medallista de oro en pistola 10 Metros Juvenil; secundado en la misma prueba por Diego Parra, medallista de plata. Además, Daniel Vidal y Allison Aguilera se quedaron con el bronce en Rigfle de Aire 10 Metros Mixto.
+
+
+====
+
 categoria: rugby
 fecha: 2026-10-24
 etiqueta: Test Match Manque - Rugby
