@@ -54,6 +54,26 @@
 #
 # ======================================================================
 
+categoria: running
+fecha: 2026-10-25
+etiqueta: Media Maratón de Valencia - Running
+titulo: Leonardo Sánchez y Consuelo Seco, los mejores chilenos en Valencia
+bajada: Leonardo Sánchez y Consuelo Seco fueron los chilenos más destacados de la Media Maratón de Valencia, y que contó con más de 20 corredores nacionales.
+firma: Equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/Valencia251026.jpg
+texto: 
+Los fondistas Leonardo Sánchez y Consuelo Seco fueron los chilenos más destacados de la Media Maratón de Valencia, que se desarrolló este domingo en la ciudad española.
+
+En varones, donde participaron 15 exponentes nacionales, Sánchez cruzó los 21,09 kilómetros con un tiempo de 1:18:37. El segundo chileno fue Sebastián Torres, con 1:35:55 y tercero fue Hans Ruz, con un tiempo de 1:37:28.
+
+Respecto de las damas, donde Chile tuvo 8 representantes, Consuelo Seco llegó a la meta con un tiempo de 1:56:39. La segunda nacional fue Isidora De Ugarte, con 2:01:53, mientras que la tercera fue Gina Sepúlveda, con 2:06:13.
+
+En cuanto a la carrera, que congregó a más de 25.000 fondistas, el ganador fue el español de origen burundés Rodrigue Kwizera, con un tiempo de 58:03, mientras que en damas, la vencedora fue Sheila Chepkirui, de Kenia, con 1:03:51.
+
+
+====
+
 categoria: breves
 fecha: 2026-10-25
 etiqueta: Sudamericano de Tiro - Breves
@@ -61,7 +81,7 @@ titulo: Chilenos destacaron en el Skeet
 bajada: Cuatro preseas de oro sumaron los representantes chilenos de tiro Skeet en el Sudamericano de Buenos Aires.
 firma: Equipo editorial de Los Anillos de Chile
 portada: No
-foto: img/notas/tiro2510.jpg
+foto: img/notas/Tiro251026.jpg
 texto: 
 Una destacada participación tuvo el equipo chileno de Tiro al Vuelo en el Sudamericano de la especialidad desarrollado en Buenos Aires, siendo la modalidad Skeet la que más medallas sumó.
 
