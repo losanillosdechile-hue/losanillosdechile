@@ -54,6 +54,28 @@
 #
 # ======================================================================
 
+categoria: running
+fecha: 2026-10-26
+etiqueta: Media Maratón de Lago Ranco - Running
+titulo: Yáñez y Seguel, ganadores en Lago Ranco
+bajada: Enzo Yáñez y Marcela Seguel fueron los ganadores de la Media Maratón de Lago Ranco disputada este fin de semana
+firma: Equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/lagoranco261026.jpg
+texto: 
+Los corredores Enzo Yáñez y Marcela Seguel fueron los ganadores de la Media Maratón de Lago Ranco disputada este fin de semana en la zona lacustre de la Región de Los Ríos.
+
+En esta oportunidad, más de 200 runners, de entre 18 a más de 60 años, se dieron cita para desafiar la distancia de 21,095 kilómetros.
+
+Yáñez cruzó la meta en varones con un tiempo de 1:14:42. En segundo lugar llegó Eric Mora, con 1:17:57, y tercero fue Fabián Oyarzún, con 1:25:10.
+
+Por su parte, en damas, la ganadora fue Marcela Seguel, quien completó al Media Maratón en 1:30:30, seguida por Marianela Jobbis, con 1:37.13, y tercera fue Nury Huenante, con 1:37:54.
+
+También se llevó a cabo la carrera de 10 kilómetros, prueba en la que Ricardo Rojas (32:47), en varones, y Javiera Urra (48:34), en damas, se hicieron con el primer lugar.
+
+
+====
+
 categoria: breves
 fecha: 2026-10-25
 etiqueta: Mundial Maratón Canotaje - Breves
