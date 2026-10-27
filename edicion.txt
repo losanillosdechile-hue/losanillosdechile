@@ -6,5 +6,5 @@
 # de la nota más reciente que haya en notas.txt.
 # ------------------------------------------------------------------
 
-numero: 8
-pdf: descargas/los-anillos-de-chile-edicion-8.pdf
+numero: 9
+pdf: descargas/los-anillos-de-chile-edicion-9.pdf
