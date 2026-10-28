@@ -54,6 +54,36 @@
 #
 # ======================================================================
 
+categoria: atletismo
+fecha: 2026-10-28
+etiqueta: Interescolar - Atletismo
+titulo: Verbo Divino y Villa María dominaron el Interescolar
+bajada: Verbo Divino y Villa María Academy se alzaron como los ganadores de la edición 2026 del Interescolar Mario Correa Letelier e Ilse Barends Heck
+firma: Equipo editorial de Los Anillos de Chile/ Interescolar Soprole
+portada: No
+foto: img/notas/interescolar281026.jpg
+texto: 
+Los colegios Verbo Divino y Villa María Academy se alzaron como los ganadores de la edición 2026 del Interescolar Mario Correa Letelier e Ilse Barends Heck, que se desarrolló este fin de semana en el Estadio Nacional.
+
+Verbo Divino se impuso con 430,66 puntos, por sobre el Tabancura, con 316 puntos; el San Anselmo, con 162, el Saint George’s College, con 155,5, y el San Ignacio El Bosque, con 135,5.
+
+Por su parte, el VMA encabezó el torneo femenino con 202,5 puntos, seguido por Los Alerces, con 173 unidades; Nazareth, con 170; Los Andes, con 167,5, y el Everest, con 145.
+
+En cuanto a los registros, se marcaron once nuevos récords. Tres fueron de Verbo Divino en Intermedia, donde sobresalieron con sus marcas en la posta 4×100 (42.66 seg), 5×300 (3.01.48 min)  y la individual de Francisco Javier Larraín (10.82 seg). 
+
+Por su parte, Los Alerces también festejó récord en equipo en la misma categoría con la obtención de la Posta CAS (2.17.11 min) y en la 4×100 (48.27 seg). 
+
+Asimismo, a nivel individual, en Intermedia también destacaron, en varones, Nicolás Seydewitz del Colegio Puerto Varas, quien saltó 14.86 en triple, y Tomás Peñaloza, quien hizo 34.25 segundos en los 300 planos.
+
+En damas, sobresalió Amanda Verni, del Micael, quien registró 3,51 metros en Garrocha; Florencia Rojas, de Alta Cumbre, con 44,.26 segundos en los 300 metros vallas, y Dominga Robles, del Saint George, con 3.841 puntos en el Pentatlón.
+ 
+A su vez, Alonso Guzmán logró el único récord en Superior con sus 52.26 segundos en los 400 mts vallas.
+
+El torneo premió, a los mejores deportistas de la jornada, siendo Alonso Guzmán, en varones, y Elisa Aguado, junto a Aurelia Loroño, en damas.
+
+
+====
+
 categoria: natacion
 fecha: 2026-10-28
 etiqueta: Copa Pacífico - Natacion
