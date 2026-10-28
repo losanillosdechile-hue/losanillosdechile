@@ -54,6 +54,38 @@
 #
 # ======================================================================
 
+categoria: natacion
+fecha: 2026-10-28
+etiqueta: Copa Pacífico - Natacion
+titulo: Chile gana por primera vez la Copa Pacífico y la Copa Julio Maglione
+bajada: La selección nacional de Natación Clásica sumó 627 puntos y 23 medallas de oro en el Centro Acuático Kristel Köbrich, y conquistó por primera vez en su historia los dos trofeos en disputa.
+firma: Equipo editorial de Los Anillos de Chile/ Fechida
+portada: No
+foto: img/notas/natacion281026.jpg
+texto: 
+El equipo chileno de natación se quedó con la XLIV Copa Pacífico y la XX Copa Julio Maglione, que se disputaron este fin de semana en el Centro Acuático Kristel Köbrich, en Ñuñoa, tras quedar en el primer lugar de la clasificación por puntos y del medallero.
+
+En la Copa Pacífico, se definió por la suma de puntos de los finalistas en cada prueba. Chile terminó con 627 puntos, apenas 10,5 más que Brasil (616,5). Perú completó el podio con 418 puntos. 
+
+Por su parte, la Copa Julio Maglione, que se adjudica al país con más medallas de oro, también quedó en manos chilenas: 23 oros, frente a los 16 de Brasil y los 12 de Perú. En total, Chile sumó 53 medallas: 23 de oro, 14 de plata y 16 de bronce.
+
+Nueve nadadores chilenos ganaron al menos una prueba individual, y los relevos aportaron otras cinco medallas de oro. Asimismo, hubo medallas de oro en las dos categorías, tanto en damas como en varones.
+
+El más ganador fue Matías Mejía, en la categoría 15-17 años. Ganó cinco pruebas individuales: los 200 metros combinado (2:07,02), los 400 metros combinado (4:36,63), los 100 metros espalda (58,84), los 100 metros mariposa (55,02) y los 200 metros mariposa (2:06,45).
+
+Además, integró los relevos que ganaron el 4×100 metros libre mixto y el 4×100 metros libre de varones, con lo que cerró el campeonato con siete medallas de oro.
+
+Por su parte, en la categoría 13-14 años, Nicolás Flores ganó los 100 y 200 metros pecho y compartió el primer lugar de los 200 metros combinado con el colombiano Jerónimo Giraldo, tras empatar en 2:14,06. 
+
+Isidora Loyola (200 y 400 metros combinado), Joaquina Negrete (100 y 200 metros pecho) y Damián Quaas, en la categoría 15-17 años (200 y 400 metros libre), sumaron dos oros individuales cada uno.
+
+Los relevos aportaron cinco medallas de oro. El más ajustado fue el 4×100 metros libre mixto de la categoría 15-17 años: Diego Alcántara, Matías Mejía, Amanda Rodríguez y Valentina Vilugrón marcaron 3:49,64 y le ganaron a Brasil por una centésima.
+
+Chile también logró cinco “uno-dos” en pruebas individuales: Isidora Loyola y Joaquina Negrete en los 200 metros combinado, Loyola y Rocío Rodríguez en los 400 metros combinado, Gustavo Santander y Rodrigo Marti en los 100 metros espalda, Valentina Pérez y Loyola en los 200 metros libre, y Damián Quaas y Diego Alcántara en los 200 metros libre.
+
+
+====
+
 categoria: running
 fecha: 2026-10-26
 etiqueta: Media Maratón de Lago Ranco - Running
