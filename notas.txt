@@ -1363,7 +1363,7 @@ Por su parte, la húngara Lili Anna Vindics-Tóth ganó la prueba femenina con 2
 ====
 
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-26
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Chile terminó cuarto en Santa Fe
@@ -1394,7 +1394,7 @@ Por total de medallas, las hermanas Abraham sumaron 5 preseas, la misma cantidad
 
 ====
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-25
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Los Guerreros Rojos triunfaron en jornada épica en Santa Fe
@@ -1447,7 +1447,7 @@ Brasil lidera el medallero con 114 oros, 101 plata y 80 bronces; seguido por Arg
 
 ====
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-24
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Valentina Toro, en gloria y majestad
@@ -1506,7 +1506,7 @@ Con estos resultados, Chile se mantiene en el quinto puesto con 39 oros, 47 plat
 
 ====
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-23
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Martina Weil, oro y récord en los 400 metros
@@ -1561,7 +1561,7 @@ Con estos resultados, Chile se mantiene quinto en el medallero con 34 preseas de
 
 ====
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-22
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Claudio Romero lanzó para quedarse con el oro
@@ -1627,7 +1627,7 @@ Con estos resultados Chile sigue quinto en el medallero con 31 oros, 34 platas y
 
 ====
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-21
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Chile aseguró finales en tenis de mesa y fútbol
@@ -1666,7 +1666,7 @@ Con los resultados de hoy, Chile tiene 29 medallas de oro, 29 de plata y 37 de b
 
 ====
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-20
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Chile volvió al cuarto puesto en los Odesur
@@ -1783,7 +1783,7 @@ Las grandes figuras del elenco nacional fueron Noé Aravena (integrante del equi
 
 ====
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-19
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Las Guerreras sumaron un inédito oro
@@ -1820,7 +1820,7 @@ Con estos resultados, Chile marcha quinto en el medallero general, con 23 medall
 
 ====
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-18
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Chile celebró el “18” con nuevos podios
@@ -1893,7 +1893,7 @@ A su vez, Antonia y Melita Abraham aparecen como los cuartos atletas con más or
 
 ====
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-17
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: El remo, las bochas y la esgrima nos anticiparon el “18”
@@ -1934,7 +1934,7 @@ Tras la jornada, Chile escaló al cuarto puesto con 17 oros, 14 platas y 24 bron
 
 ====
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-16
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: El remo aportó con nuevos oros en Santa Fe
@@ -1998,7 +1998,7 @@ Con esto, y concluida la jornada de este miércoles, Chile marcha quinta con 11 
 
 ====
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-15
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Martes dorado e histórico para Chile en Santa Fe
@@ -2066,7 +2066,7 @@ Al término de la jornada, Chile marcha quinto con seis oros, siete platas y 13 
 
 ====
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-14
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: El BMX y los Esports sumaron los primeros oros en Santa Fe
@@ -2118,7 +2118,7 @@ Con los resultados de hoy, Chile marcha quinto con 2 medallas de oro, 4 de plata
 
 ====
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-13
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Chile ya sumó podios en la primera jornada
@@ -2255,7 +2255,7 @@ Tras este repunte, considerando la derrota del martes ante Colombia (3 a 00), la
 
 ====
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-07
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Emmanuelle Siva y Manuela Urroz, abanderados en Santa Fe 2026
@@ -2390,7 +2390,7 @@ El galardón está compuesto por un Diploma de Distinción Deportiva, firmado po
 
 ====
 
-categoria: santafe2026
+categoria: polideportivo
 fecha: 2026-09-13
 etiqueta: Juegos Suramericanos - Santa Fe 2026
 titulo: Atletas desfilaron en la Ceremonia Inaugural de Santa Fe 2026
