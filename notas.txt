@@ -54,6 +54,25 @@
 #
 # ======================================================================
 
+categoria: polideportivo
+fecha: 2026-10-30
+etiqueta: Juegos Olímpicos de la Juventud Dakar 2026 - Polideportivo
+titulo: Este sábado debutan los chilenos
+bajada: La dupla de voleibolistas Gael Arias y Francisco Farías debutan este sábado ante la dupla de Nicaragua
+firma: Equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/dakar301026.jpg
+texto: 
+Con el primer partido de la dupla de Gael Arias y Francisco Farías en el vóleibol playa, comienza este sábado la participación chilena en los Juegos Olímpicos de la Juventud Dakar 2026.
+
+En el partido por la fase de grupos, perteneciente a la llave D, los nacionales enfrentarán, a las 08:00 horas (de Chile) a los nicaragüenses Justin Barrios Dinarte y Matthew Kempf.
+
+Por el mismo grupo y a la misma hora, se medirán los noruegos Ludvig Ringoen y Liam Karlsen frente a los sudafricanos Duncan Davids y Evra King.
+
+El domingo, los chilenos se medirán a la dupla sudafricana a las 06:20b y jugarán contra los noruegos a las 11:20, ambos compromisos con la hora chilena.
+
+====
+
 categoria: atletismo
 fecha: 2026-10-28
 etiqueta: Interescolar - Atletismo
