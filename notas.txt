@@ -55,6 +55,26 @@
 # ======================================================================
 
 categoria: polideportivo
+fecha: 2026-10-31
+etiqueta: Juegos Olímpicos de la Juventud Dakar 2026 - Polideportivo
+titulo: Gran comienzo de la dupla Arias – Farías en Dakar
+bajada: La dupla chilena superó al binomio de Nicaragua en su primer compromiso en el Vóleibol playa en los Juegos Olímpicos de la Juventud.
+firma: Equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/dakar311026.jpg
+texto: 
+Un gran comienzo tuvo la delegación chilena que participa en los Juegos Olímpicos de la Juventud Dakar 2026, luego que la dupla de Gael Arias y Francisco Farías se quedó con el triunfo en su primer partido en la competencia de Voleibol Playa.
+
+Los nacionales vencieron por 2 a 0 (21-9 y 21-16) a la dupla de Matthew Kempf y Justin Barrios Dinarte, de Nicaragua en el primer partido del Grupo D. En el duelo necesitaron 32 minutos para asegurar el triunfo.
+
+Con esto, encabezan el grupo, junto a los noruegos Ludvig Ringonen y Liam Karlsen, quienes superaron a los sudafricanos Duncan Davids y Evra King por 21-9 y 21-5.
+
+Mañana domingo, los chilenos se medirán a la dupla sudafricana a las 06:20 y jugarán contra los noruegos a las 11:20, ambos compromisos con la hora chilena.
+
+
+====
+
+categoria: polideportivo
 fecha: 2026-10-30
 etiqueta: Juegos Olímpicos de la Juventud Dakar 2026 - Polideportivo
 titulo: Este sábado debutan los chilenos
