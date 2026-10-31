@@ -54,6 +54,27 @@
 #
 # ======================================================================
 
+
+categoria: basquetbol
+fecha: 2026-10-31
+etiqueta: FIBA Americup 3X3 - Basquetbol
+titulo: Chile, cuartofinalista en damas y varones
+bajada: Los equipos de básquetbol 3x3 de damas y varones avanzaron a cuartos de final en la FIBA Americup de El Salvador.
+firma: Equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/basquet311026.jpg
+texto: 
+Los equipos nacionales de básquetbol 3x3 de damas y varones avanzaron a cuartos de final de la FIBA Americup que se desarrolla en El Salvador.
+
+En el evento femenino, las nacionales superaron a México por 15 a 13 en el primer duelo, mientras que en el segundo compromiso de su serie, tuvieron una caída ajustada frente a Cuba por 14 a 13.
+
+Por su parte, en varones, la “Roja” dio cuenta de Surinam por 22 a 12, mientras que en su segundo juego, cayeron de manera apretada ante Argentina por 20 a 19.
+
+Con estos resultados, ambos conjuntos accedieron a la ronda de cuartos de final, que se desarrollará este domingo, cuando las chilenas deberán medirse ante Canadá, mientras los hombres se enfrentarán a Puerto Rico.
+
+
+====
+
 categoria: polideportivo
 fecha: 2026-10-31
 etiqueta: Juegos Olímpicos de la Juventud Dakar 2026 - Polideportivo
