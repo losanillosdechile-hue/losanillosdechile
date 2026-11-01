@@ -54,6 +54,34 @@
 #
 # ======================================================================
 
+categoria: polideportivo
+fecha: 2026-11-01
+etiqueta: Juegos Olímpicos de la Juventud Dakar 2026 - Polideportivo
+titulo: Arias y Farías, a octavos en Dakar
+bajada: La dupla de voleibolistas chilenos Gael Arias y Francisco Farías avanzó a los octavos de final en los Juegos Olímpicos de la Juventud de Dakar y enfrentarán a la dupla local.
+firma: Equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/dakar011126.jpg
+texto: 
+Los voleibolistas Gael Arias y Francisco Farías lograron el paso a los octavos de final de los Juegos Olímpicos de la Juventud Dakar 2026, tras disputar sus compromisos ante Sudáfrica y Noruega.
+
+A primera hora, los chilenos enfrentaron a los sudafricanos Duncan Davids y Evra King, a quienes derrotaron por 2 sets a o (21-13 y 21-10), en 34 minutos de juego.
+
+Posteriormente, se midieron con los noruegos Ludvig Ringonen y Liam Karlsen, con quienes tuvieron un disputado encuentro, aunque cayeron por 21-19 y 21-12.
+
+En la ronda de 16, los nacionales deberán enfrentarse a los senegaleses Souleymane Ciss y Mouhamed Sibide, este lunes a las 11:00 hora chilena.
+
+En tenis de mesa, hoy debutó Catalina Ramírez, quien comenzó la jornada con una derrota de 3 a 0 ante la portuguesa Julia Leal (12-10, 11-5 y 11-6), aunque posteriormente dio cuenta de la neocelandesa Anzhuo Han por 3-0 (13-11, 11-9 y 11-5).
+
+Este lunes, disputará su tercer partido de la ronda de grupos ante la alemana Koharu Itagaki, duelo que se llevará a cabo a las 11.30 horas de Chile.
+
+La participación nacional también se hizo presente este domingo en el Wushu, donde el artista marcial Renato Silva, fue noveno (8.013 puntos) en Changquan, la primera de las dos pruebas combinadas de su deporte.
+
+Este lunes volverá a competir, pero en Gunshu (arma). La sumatoria de ambas competencias determinará la clasificación a la final. Los ocho mejores disputarán la ronda por las medallas.
+
+
+====
+
 categoria: triatlon
 fecha: 2026-11-01
 etiqueta: World Triathlon Cup San Pedro de la Paz - Triatlon
