@@ -57,7 +57,7 @@
 categoria: triatlon
 fecha: 2026-11-01
 etiqueta: World Triathlon Cup San Pedro de la Paz - Triatlon
-titulo: Pearson y Pimantel, ganadores en San Pedro de la Paz
+titulo: Pearson y Pintanel, ganadores en San Pedro de la Paz
 bajada: El norteamericano Morgan Pearson y la española Marta Pintanel se coronaron vencedores de la fecha de la World Triathlon Cup que se disputó en San Pedro de la Paz, donde Diego Moya (5to) y Dominga Jácome (23ra) fueron los mejores chilenos.
 firma: Equipo editorial de Los Anillos de Chile
 portada: No
