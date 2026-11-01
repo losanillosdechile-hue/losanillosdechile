@@ -54,6 +54,32 @@
 #
 # ======================================================================
 
+categoria: triatlon
+fecha: 2026-11-01
+etiqueta: World Triathlon Cup San Pedro de la Paz - Triatlon
+titulo: Pearson y Pimantel, ganadores en San Pedro de la Paz
+bajada: El norteamericano Morgan Pearson y la española Marta Pintanel se coronaron vencedores de la fecha de la World Triathlon Cup que se disputó en San Pedro de la Paz, donde Diego Moya (5to) y Dominga Jácome (23ra) fueron los mejores chilenos.
+firma: Equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/triatlon011126.jpg
+texto: 
+El norteamericano Morgan Pearson y la española Marta Pintanel se coronaron como vencedores de la etapa de la World Triathlon Cup que se desarrolló este domingo en San Pedro de la Paz, región del Biobío.
+
+En varones, el representante de EE.UU. se quedó con la prueba que consistió en 1.500 metros de nado, 40 kilómetros de ciclismo y 10 kilómetros de trote en un tiempo de 1:45:04.
+
+El podio lo completaron el francés Louis Vitiello, con un tiempo de 1:45:36, y tercero fue el húngaro Márton Kropkó, con un registro de 1:45.40.
+
+En cuanto a los nacionales, el mejor posicionado fue Diego Moya, quien se apegó al grupo de avanzada y quedó en el quinto puesto con un tiempo de 1:45:48.
+
+Mateo Mendoza, en el lugar 25, Andrés Gras, en el 40, y Daniel Ubilla, en el lugar 54, fueron los otros representantes nacionales de la prueba.
+
+En cuanto a la prueba femenina, la española Marta Pintanel se quedó con la prueba, con un tiempo de 2:02:49; seguida por su coterránea Ana Carballo, con 2:03:11, y la luxemburguesa Eva Daneils, con 2:03:21.
+
+Respecto de las chilenas en la prueba, la mejor posicionada fue Dominga Jácome, quien finalizó vigésima tercera, con un tiempo de 2:06:38.
+
+En cuanto a las otras nacionales en la competencia, Bárbara Riveros finalizó en el puesto 31; mientras que Rafaela Capó quedó en el lugar 32.
+
+====
 
 categoria: basquetbol
 fecha: 2026-10-31
