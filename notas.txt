@@ -55,6 +55,30 @@
 # ======================================================================
 
 categoria: polideportivo
+fecha: 2026-11-02
+etiqueta: Juegos Olímpicos de la Juventud Dakar 2026 - Polideportivo
+titulo: Arias y Farías, cuartofinalistas en Dakar
+bajada: La dupla de voleibolistas avanzó a cuartos de final luego de vencer este lunes al binomio de Senegal en los Juegos Olímpicos de la Juventud.
+firma: Equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/dakar021126.jpg
+texto: 
+La dupla de voleibolistas Gael Arias y Francisco Farías avanzó a los cuartos de final del torneo en los Juegos Olímpicos de la Juventud de Dakar, tras vencer este lunes a la pareja senegalesa de Souleymane Ciss y Mouhamed Sibide por 2 set a 0.
+
+En 39 minutos de juego, los nacionales vencieron con parciales de 21-17 y 22-20, en un juego donde les permitió meterse ente los 8 mejores del torneo.
+
+En cuartos de final, se medirán a la dupla austríaca de Paul Hohenauer y Martin Poinstingl, segundos sembrados del certamen, este martes a las 07:00 horas (de Chile).
+
+En otros resultados, Renato Silva accedió a la final de la competencia de Wushu, tras finalizar octavo en la clasificatoria de la prueba combinada (Changquan y Gunshu).
+
+Silva totalizó 16.323 puntos en la sumatoria de las dos modalidades y mañana disputará la final.
+
+A su vez, Catalina Ramírez concluyó su participación en el tenis de mesa, luego de perder por 3 sets a 1 ante la alemana Koharu Itagaki.
+
+
+====
+
+categoria: polideportivo
 fecha: 2026-11-01
 etiqueta: Juegos Olímpicos de la Juventud Dakar 2026 - Polideportivo
 titulo: Arias y Farías, a octavos en Dakar
