@@ -54,6 +54,31 @@
 #
 # ======================================================================
 
+categoria: basquetbol
+fecha: 2026-11-02
+etiqueta: FIBA AmeriCup 3X3 - Basquetbol
+titulo: La Roja 3x3, entre los 8 mejores de América
+bajada: Los equipos chilenos de básquetbol 3x3 quedaron entre los 8 mejores en damas y varones en la FIBA AmeriCup de El Salvador.
+firma: Equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/basquet021126.jpg
+texto: 
+Las selecciones nacionales de básquetbol 3x3 cumplieron una destacada participación en la FIBA 3x3 AmeriCup 2026, celebrada en El Salvador, alcanzando los cuartos de final tanto en damas como en varones.
+
+Em damas, tras una gran primera fase, donde superaron a México (15-13) y sufrieron una ajustada derrota frente a Cuba (13-14), se enfrentaron a las canadienses, quienes vencieron por 20 a 10.
+
+El cuadro norteamericano, a la postre, resultó ganador en la competencia femenina tras ganarle a Estados Unidos en la final por 21 a 12. El bronce fue para Colombia.
+
+En varones, luego de una contundente victoria sobre Surinam (22-12) y una apretada caída ante los trasandinos (19-20), sufrieron una dura derrota ante Puerto Rico en cuartos de final.
+
+Los caribeños, por su parte, se quedaron con el tercer puesto, donde superaron a Brasil por 19 a 17. El oro fue para Estados Unidos y la plata para Canadá.
+
+Sin embargo, el balance fue positivo, ya que pudieron situarse entre los 8 mejores de ambos torneos y no es menor que disputaran los partidos de igual a igual ante potencias regionales.
+
+
+
+====
+
 categoria: polideportivo
 fecha: 2026-11-02
 etiqueta: Juegos Olímpicos de la Juventud Dakar 2026 - Polideportivo
