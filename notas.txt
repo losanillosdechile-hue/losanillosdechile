@@ -54,6 +54,34 @@
 #
 # ======================================================================
 
+categoria: atletismo
+fecha: 2026-11-07
+etiqueta: New Balance Finals - Atletismo
+titulo: Nordetti y Muñoz, destacados en el New Balance Finals
+bajada: Los velocistas Juan Pablo Nordetti y Rocío Muñoz destacaron en los 100 metros del New Balance Finals en San Carlos de Apoquindo.
+firma: Equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/nbfinals071126.jpg
+texto: 
+Juan Pablo Nordetti y Rocío Muñoz fueron los atletas más destacados del New Balance Finals, que se desarrolló este viernes en el complejo San Calos de Apoquindo.
+
+Ambos deportistas se coronaron en las finales de 100 metros planos Elite, donde ganaron las pruebas con tiempos de 10,63 segundos, en el caso de Nordetti, y de 12,45 por parte de Muñoz.
+
+El evento contó además con categorías Superior, Intermedia, Inclusión, Infantil y Preparatoria.
+
+En Superior, sobresalieron el uruguayo Santiago Lazar, quien ganó la final A de los 100 metros con 10.68; la argentina Milagros D’Amico, con 11,93 en los 100 metros damas, y el mexicano Amado Kalid Amador, en los 800 metros, con 1:53.03.
+
+También hubo actuaciones importantes de Francisco Lara, ganador de los 3.000 metros, con 9:08.83, y Brahian Fretes, con 14.09 en los 110 metros vallas.
+
+En la categoría intermedia, en tanto, se batieron 3 récords. Martín Casali, en los 110 metros vallas, con 13.64; Xamir De Jesús Pimentel, en los 800 metros, con 1:57.27, y Gabriela Torrealba, en el lanzamiento de la jabalina, con 42.15 metros.
+
+En la categoría Inclusión, destacaron Antonella Valdivia, en los 100 metros (15.83) y en el salto largo (3.78 metros), y Benjamín López, en los 100 metros, con 13.14 segundos.
+
+Además, en  Infantil sobresalió la posta 5x80 metros Del Sagrado Corazón – Apoquindo (femenino), con 49.86  y del Tabancura (masculino), con 47.49; mientras que en Preparatoria, las postas 8x50 metros del Villa María Academy (femenino), con 54.44 y del Cordillera (masculino), con 53.62.
+
+
+====
+
 categoria: basquetbol
 fecha: 2026-11-02
 etiqueta: FIBA AmeriCup 3X3 - Basquetbol
