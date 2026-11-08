@@ -54,6 +54,35 @@
 #
 # ======================================================================
 
+categoria: rugby
+fecha: 2026-11-07
+etiqueta: Nations Cup - Rugby
+titulo: Nations Cup: Portugal superó a los Cóndores
+bajada: Pese a abrir el marcador y mantener un resultado parejo en el primer tiempo, los Cóndores sufrieron el rigor del cuadro europeo y fue superado por 36 a 15.
+firma: Equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/condores071126.jpg
+texto: 
+Los Cóndores sufrieron una fuerte derrota este sábado ante su similar de Portugal por 36 a 15, en el partido válido por la Nations Cup desarrollado en Lisboa.
+
+El cuadro nacional si bien comenzó de buena forma abriendo el marcador con un try de Matías Garafulic, a los 6 minutos, sufrió un try de Manuel Cardoso Pinto, convertido por Samuel Marques, dos minutos después.
+
+Luego, Chile se puso nuevamente en ventaja con un try de Raimundo Martínez, convertido de Matías Garafulic, a los 
+25 minutos.
+
+No obstante, un penal de Samuel Marques, a los 29 minutos, y un try de David Willis, convertido por Marques, a los 37, puso en ventaja a los locales. En medio de este escenario, hubo una suspensión momentánea de Garafulic, por lo que los lusitanos supieron aprovechar esta diferencia.
+
+Al final del período, Chile buscó acortar la diferencia con un penal de Matías Garafulic, con lo que cerró la etapa por 17 a 15 en favor de los dueños de casa.
+
+En la segunda parte, se pensó que los Cóndores tendrían fuerza para mantener el ritmo, sin embargo, Raffaele Storti consiguió un try a los 57 minutos, al que se agregó la conversión de Samuel Marques, o que mostró que la cosa iba a estar más difícil.
+
+Una amonestación para Clemente Armstrong, a los 61 minutos, complicó más las cosas. De hecho, esta ventaja la aprovecharon los portugueses, con un ensayo de André da Cunha.
+
+Al final del juego, el conjunto europeo cerró el marcador con un nuevo try de Raffaele Storti y conversión de Marques, para liquidar el encuentro con un 36 a 15 en su favor.
+
+
+====
+
 categoria: atletismo
 fecha: 2026-11-07
 etiqueta: New Balance Finals - Atletismo
