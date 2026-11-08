@@ -54,6 +54,36 @@
 #
 # ======================================================================
 
+categoria: polideportivo
+fecha: 2026-11-08
+etiqueta: Juegos Olímpicos de la Juventud Dakar 2026 - Polideportivo
+titulo: Cancino, finalista en Dakar
+bajada: La mediofondista nacional Valentina Cancino avanzó a la final de los 8900 metros en los Juegos Olímpicos de la Juventud de Dakar.
+firma: Equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/dakar081126.jpg
+texto: 
+La semifondista chilena Valentina Cancino consiguió este domingo el paso a las finales de los 800 metros en los Juegos Olímpicos de la Juventud que se desarrollan en Dakar.
+
+La especialista nacional quedó tercera en su serie registrando un tiempo de 2:16.01 y competirá este lunes en la disputa por las medallas.
+
+Esta jornada también contó con la participación de la velocista Roxana Ramírez, quien desafortunadamente fue descalificada por una partida en falso en los 100 metros planos.
+
+Pero esta semana, el equipo nacional tuvo destacadas participaciones que, por razones de tiempo, como sitio no pudimos reflejar, pero acá hacemos un resumen de lo acontecido.
+
+En la natación, Laura Fingerhuth quedó octava en los 100 metros pecho y séptima en los 50 metros pecho, destacando el hecho de competir en dos finales olímpicas.
+
+A su vez, en los 50 metros pecho varones, Joaquín Gálvez fue octavo en su heat y concluyó su participación en un 24º lugar.
+
+Por su parte, el equipo femenino de básquetbol femenino 3x3 perdió contra Senegal en cuartos de final de la competencia.
+
+A su vez, la skater Julieta Araya finalizó en un destacado noveno lugar, mientras que la amazona Bruna de Rossetti y su binomio Haribo Moussardiere concluyeron en un destacado décimo lugar en el salto ecuestre.
+
+En otras pruebas, el triatleta Raimundo San Martín finalizó 16º y la ciclista Ana Fierro concluyó 29ª en el fondo (59,5 km). En ambos casos, las altas temperaturas en tierra afectaron jugaron en contra de su desempeño.
+
+
+====
+
 categoria: rugby
 fecha: 2026-11-07
 etiqueta: Nations Cup - Rugby
