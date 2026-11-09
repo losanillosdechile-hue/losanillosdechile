@@ -54,6 +54,31 @@
 #
 # ======================================================================
 
+categoria: triatlon
+fecha: 2026-11-08
+etiqueta: World Cup Triathlon - Triatlon
+titulo: Cantero y Velásquez, ganadores en Iquique
+bajada: El triatleta español David Cantero y la colombiana María Velásquez se quedaron con la fecha del World Cup Triathlon que se desarrolló en Iquique.
+firma: Equipo editorial de Los Anillos de Chile
+portada: No
+foto: img/notas/triatlon081126.jpg
+texto: 
+El triatleta español David Cantero y la colombiana María Velásquez se adjudicaron este domingo con la fecha del World Cup Triathlon que se desarrolló en la playa de Cavancha, en Iquique.
+
+El hispano se quedó con la prueba con un registro de 50:52, en un evento que contempló 750 metros de nado, 20 kilómetros de bicicleta y 5 kilómetros de trote.
+
+La medalla de plata fue para el estadounidense Porter Middaugh, con un tiempo de 50:55 y el bronce para el también español Antoni Serrat Seoane, con 50:55.
+
+Respecto de la presencia de los chilenos, el mejor posicionado fue Diego Moya, quien quedó en el puesto 16° con 51:32: posteriormente quedó Mateo Mendoza, 26to. con 51:51, y Sebastián Zurob, 35to. con 52:20.
+
+En cuanto a las damas, la colombiana María Carolina Velásquez se quedó con la prueba, en un disputado cierre con la estadounidense Taylor Knibb. Ambas llegaron con un tiempo de 55:47, pero la sudamericana fue la que cruzó en primer lugar.
+
+El tercer lugar fue para la española Marta Pintanel, quien había ganado la etapa en San Pedro de La Paz.
+En cuanto a las chilenas, la mejor posicionada fue Bárbara Riveros, 17ma. con un tiempo de 58:15; mientras que Daniela Moya fue 28va., con 59:48.
+
+
+====
+
 categoria: polideportivo
 fecha: 2026-11-08
 etiqueta: Juegos Olímpicos de la Juventud Dakar 2026 - Polideportivo
