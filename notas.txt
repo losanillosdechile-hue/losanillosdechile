@@ -54,6 +54,30 @@
 #
 # ======================================================================
 
+categoria: polideportivo
+fecha: 2026-11-09
+etiqueta: Juegos Olímpicos de la Juventud Dakar 2026 - Polideportivo
+titulo: Vittorio Gorziglia, bronce en el disco en Dakar
+bajada: Con un lanzamiento de 56,00 metros, el discóbolo nacional se colgó el bronce en los Juegos Olímpicos de la Juventud de Dakar.
+firma: Equipo editorial de Los Anillos de Chile
+portada: Si
+foto: img/notas/dakar091126.jpg
+texto: 
+El atleta chileno Vittorio Gorziglia se quedó este lunes con la medalla de bronce en la final del lanzamiento del Disco de los Juegos Olímpicos de la Juventud de Dakar 2026.
+
+El discóbolo mandó el proyectil a una distancia de 56,00 metros, en una prueba donde luchó palmo a palmo la presea con el español Cristóbal Díaz, quien tras el cuarto lanzamiento debió ver cómo el chileno se subía al podio.
+
+En la final, el oro se lo llevó el egipcio Yahya Sawary, con 68,23 metros, mientras que la plata se quedó en manos del jamaiquino Kamari Kennedy, con 66,31 metros. Ambos, lograron sus mejores marcas en esta prueba. 
+
+La medalla de Gorziglia es la primera de Chile en estos Juegos y la segunda de su historia en unos Juegos Olímpicos de la Juventud, luego que en 2010 el equipo de fútbol femenino Sub-15 se quedara con el oro en Singapur.
+
+Por su parte, la atleta Valentina Cancino también tuvo presencia en la pista, y finalizó sexta en los 800 metros, marcando un tiempo de 02:18.59. 
+
+El oro fue para la etíope Netsanet Selemon, con 2:04:43, la plata para la filipina Naomí Cesar (2:09.34) y el bronce para la marroquí Khadija Elmostaquim (2:10.05).
+
+
+====
+
 categoria: triatlon
 fecha: 2026-11-08
 etiqueta: World Cup Triathlon - Triatlon
